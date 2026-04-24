@@ -18,5 +18,5 @@ Le contenu de ce jeu (textes, règles, univers et illustrations originales) est 
 ### Note de l'auteur
 Si vous souhaitez utiliser ce matériel dans un cadre commercial ou si vous avez un doute sur une utilisation spécifique, merci de me contacter directement via ce dépôt GitHub.
 
-s4lty
+superkadou
 2026
