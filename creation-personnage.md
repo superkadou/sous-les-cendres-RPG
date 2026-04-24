@@ -1,30 +1,32 @@
-Création de personnage :
+# Création de personnage
+
 1. choix Ordre 
 2. choix Vocation : Art ou Savoir 
 3. choix Humeur dominante : +1D
 4. 10D à répartir entre Ordre, Organes, Humeurs, Vocation et Opulence
 chaque D peux etre cassé en 3 pips (1 pips = +1)
 
-Ordre et compétence associée  
+## Ordre et compétence associée  
 [+] Oratores    : Verbe     - expression de la maitrise des mots 
 [+] Bellatores  : Entregent - expression de l'importance sociale des nobles 
 [+] Laboratores : Prudhomie - expression de la sagesse populaire     
 Base : 1D
 
-Vocation : représente les compétences acquises lors de l'apprentissage et la pratique du métier du personnage - base: 1D
+## Vocation
+représente les compétences acquises lors de l'apprentissage et la pratique du métier du personnage - base: 1D
 choix du type de vecu du personnage : 
 [+] Art    : métier manuel ou social, basé sur la pratique
 [+] Savoir : métier intellectuel, basé sur la connaissance
 Base : 1D
 
-Organes : 
+## Organes
 [+] Coeur   : siege des emotions      
 [+] Foie    : siege de la force vitale 
 [+] Cerveau : siege de la raison     
 [+] Rate    : siege de la fortitude   
 Base : 1D
 
-Humeurs 
+## Humeurs 
 
 | **Humeur** | **Saison**  | **Moment du jour** | **Tempérament** | **Organe** | **Domaines** | **Dyscrasie** | **Plantes** | **Materiaux et objets** |
 |---|---|---|---|---|---|---|---|---|
@@ -41,7 +43,7 @@ A chaque consommation d'une humeur on teste score humeur contre difficulte = 5*p
 Humeur a 0 = dyscrasie automatique
 Humeur > Humeur dominante = dyscrasie automatique
 
-Gestion de la santé physique & mentale : 
+## Gestion de la santé physique & mentale : 
 [+] Virtus : force vitale du personnage = moyenne des 4 organes x2 ?
 
 
