@@ -4,7 +4,8 @@
 2. choix de la Vocation : Art ou Savoir 
 3. choix de l'Humeur dominante : +1D
 4. 10D à répartir entre Ordre, Organes, Humeurs, Vocation et Opulence
-chaque D peux etre cassé en 3 pips (1 pips = +1)
+ 
+Chaque D peux etre cassé en 3 pips (1 pips = +1)
 
 ## Ordre social
 Afin de refléter les réalités sociales de l'époque, chaque Ordre possède une compétence unique qui lui confére des capacites relatives a sa position dans la société des hommes.
