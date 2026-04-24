@@ -1,3 +1,31 @@
+## Tests et Jets de Dés
+Comment résoudre une action 
+
+## Succès/Échecs 
+* Degrés de réussite
+* critiques/fumbles
+
+## Combats
+* Tours
+* initiative
+* actions 
+  * attaque
+  * defense
+
+## Santé
+* Dégâts
+* Blessures
+* Mort
+
+## Magie/Social
+Coût, limites, exemples de sorts.
+
+## Équipement et Ressources :
+Gestion de l’inventaire, usure, réparation.
+
+## Récupération
+
+
 ## Systeme de combat
 A chaque round de combat, une personne doit choisir entre attaquer ou defendre.
 L'attaqant lance : Foie + ATT(arme) + Vocation (si approprié) + Humeur (si approprie)
