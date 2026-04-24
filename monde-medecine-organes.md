@@ -88,11 +88,11 @@ Dans ce cadre, les **quatre "organes" principaux** — **le cœur, le foie, la r
 ---
 
 ## **5. Médecine populaire vs. médecine savante**
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| **Médecine savante** (monastiques, médecins arabes)   | **Médecine populaire** (guérisseurs, sorcières)                                           |
-|-------------------------------------------------------+-------------------------------------------------------------------------------------------|
-| Basée sur **Galien** et **Hippocrate** (humeurs).     | Utilise des **plantes locales**, des **charmes** et des **rituels**.                      |
-| Pratique les **saignées** et les **purgatifs**.       | Recourt aux **bains de vapeur**, aux **pierres magiques** et aux **incantations**.        |
-| Diagnostique par les **urines** et le **pouls**.      | Diagnostique par les **rêves**, les **signes lunaires** ou les **offrandes aux esprits**. |
-| Réservée aux **nobles** et aux **moines**.            | Accessible aux **paysans**, mais souvent **diabolisée** par l’Église.                     |
-+-------------------------------------------------------+-------------------------------------------------------------------------------------------+
+
+| **Médecine savante** (monastiques, médecins arabes) | **Médecine populaire** (guérisseurs, sorcières) |
+|---|---|
+| Basée sur **Galien** et **Hippocrate** (humeurs) | Utilise des **plantes locales**, des **charmes** et des **rituels** |
+| Pratique les **saignées** et les **purgatifs** | Recourt aux **bains de vapeur**, aux **pierres magiques** et aux **incantations** |
+| Diagnostique par les **urines** et le **pouls** | Diagnostique par les **rêves**, les **signes lunaires** ou les **offrandes aux esprits** |
+| Réservée aux **nobles** et aux **moines** | Accessible aux **paysans**, mais souvent **diabolisée** par l’Église |
+
