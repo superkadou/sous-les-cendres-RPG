@@ -6,17 +6,18 @@
 4. 10D à répartir entre Ordre, Organes, Humeurs, Vocation et Opulence
 chaque D peux etre cassé en 3 pips (1 pips = +1)
 
-## Ordre et compétence associée  
+## Ordre social
+Afin de refléter les réalités sociales de l'époque, chaque Ordre possède une compétence unique qui lui confére des capacites relatives a sa position dans la société des hommes.
 1. Oratores    : Verbe     - expression de la maitrise des mots 
 2. Bellatores  : Entregent - expression de l'importance sociale des nobles et des combattants 
 3. Laboratores : Prudhomie - expression de la sagesse populaire     
 Base : 1D
 
 ## Vocation
-représente les compétences acquises lors de l'apprentissage et la pratique du métier du personnage - base: 1D
-choix du type de vecu du personnage : 
-[+] Art    : métier manuel ou social, basé sur la pratique
-[+] Savoir : métier intellectuel, basé sur la connaissance
+Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier
+Les vocations se divisent en deux grandes familles :  
+1.  les Arts    : métiers manuels ou sociaux, basés sur la pratique
+2. les Savoirs : métiers intellectuels, basés sur la connaissance
 Base : 1D
 
 ## Organes
