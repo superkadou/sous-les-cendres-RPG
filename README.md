@@ -1,13 +1,13 @@
-# 📜 Sous les cendres : les Runes et la Croix
+# Sous les cendres : les Runes et la Croix
 
 Une aventure médiévale basée sur la théorie des humeurs et l'équilibre des organes.
 
 ---
 
-## 🕯️ Présentation
+##  Présentation
 Sous les cendres, les Runes et la Croix est un jeu de rôle indépendant qui plonge les joueurs dans un univers inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
 
-## 🩸 Le Système des Humeurs
+## Le Système des Humeurs
 Le gameplay repose sur les quatre humeurs fondamentales, chacune liée à un tempérament et des fonctions vitales :
 
 | Humeur | Élément | Organe lié | Tempérament |
@@ -23,17 +23,14 @@ Sur la fiche de personnage, chaque bulle d'humeur est divisée par une barre hor
 * **Bas :** Valeur maximale (potentiel).
 L'expérience (XP) permet d'augmenter le maximum, tandis que les péripéties entament la valeur actuelle.
 
-## 🛠️ Installation & Utilisation
+## Installation & Utilisation
 Le projet est conçu pour être "Print & Play" ou utilisé via des outils numériques.
 * Les fichiers de règles se trouvent dans le dossier `/rules`.
 * Les fiches de personnage (en version enluminée) sont dans `/assets`.
 
-## 🛡️ Licence & Crédits
-Ce projet est le fruit du travail de **Superkadou**.
+## [Licence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/LICENSE.md) 
 
-* **Système et Texte :** © Superkadou.
-* **Illustrations :** Conçues par Superkadou avec l'assistance d'IA génératives (Gemini, ChatGPT, Mistral et Grok), retravaillées pour respecter l'esthétique des moines copistes du XIe siècle.
-* **Licence :** Ce projet est publié sous licence **CC BY-NC-SA 4.0**. Vous pouvez créer des add-ons et des variantes gratuitement, tant que vous citez l'auteur et partagez sous la même licence.
+## [Crédits](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/CREDITS.md)
 
 ---
-*Fait avec dévotion dans le scriptorium de GitHub par Superkadou.*
+*Fait avec dévotion dans le scriptorium de GitHub par superkadou.*
