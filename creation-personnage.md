@@ -1,15 +1,15 @@
 # Création de personnage
 
-1. choix Ordre 
-2. choix Vocation : Art ou Savoir 
-3. choix Humeur dominante : +1D
+1. choix de l'Ordre social 
+2. choix de la Vocation : Art ou Savoir 
+3. choix de l'Humeur dominante : +1D
 4. 10D à répartir entre Ordre, Organes, Humeurs, Vocation et Opulence
 chaque D peux etre cassé en 3 pips (1 pips = +1)
 
 ## Ordre et compétence associée  
-[+] Oratores    : Verbe     - expression de la maitrise des mots 
-[+] Bellatores  : Entregent - expression de l'importance sociale des nobles 
-[+] Laboratores : Prudhomie - expression de la sagesse populaire     
+1. Oratores    : Verbe     - expression de la maitrise des mots 
+2. Bellatores  : Entregent - expression de l'importance sociale des nobles et des combattants 
+3. Laboratores : Prudhomie - expression de la sagesse populaire     
 Base : 1D
 
 ## Vocation
@@ -20,10 +20,10 @@ choix du type de vecu du personnage :
 Base : 1D
 
 ## Organes
-[+] Coeur   : siege des emotions      
-[+] Foie    : siege de la force vitale 
-[+] Cerveau : siege de la raison     
-[+] Rate    : siege de la fortitude   
+1. Coeur   : siege des emotions      
+2. Foie    : siege de la force vitale 
+3. Cerveau : siege de la raison     
+4. Rate    : siege de la fortitude   
 Base : 1D
 
 ## Humeurs 
