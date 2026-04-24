@@ -10,12 +10,12 @@ Sous les cendres, les Runes et la Croix est un jeu de rôle indépendant qui plo
 ## Le Système des Humeurs
 Le gameplay repose sur les quatre humeurs fondamentales, chacune liée à un tempérament et des fonctions vitales :
 
-| Humeur | Élément | Organe lié | Tempérament |
-| :--- | :--- | :--- | :--- |
-| **Sang** | Air | Cœur | Sanguin (Énergie, Charisme) |
-| **Phlegme** | Eau | Cerveau | Lymphatique (Calme, Analyse) |
-| **Bile Jaune** | Feu | Foie | Colérique (Action, Force) |
-| **Bile Noire** | Terre | Rate | Mélancolique (Résistance, Intuition) |
+| Humeur | Organe | Tempérament |
+| :--- | :--- | :--- |
+| **Sang** | Cœur | Sanguin (Énergie, Charisme) |
+| **Phlegme** | Cerveau | Lymphatique (Calme, Analyse) |
+| **Bile Jaune** | Foie | Colérique (Action, Force) |
+| **Bile Noire** | Rate | Mélancolique (Résistance, Intuition) |
 
 ### Gestion des Valeurs
 Sur la fiche de personnage, chaque bulle d'humeur est divisée par une barre horizontale :
