@@ -6,7 +6,7 @@ Les combats se déroulent en **assauts narratifs**, où chaque combattant tente 
 
 ### **Déroulement d’un Combat**
 
-#### **Détermination des Bonus/Malus de Confrontation**
+#### 1. **Détermination des Bonus/Malus de Confrontation**
 Avant le combat, chaque protagoniste compare son **organe défensif** (ex : Cœur) à l’**organe offensif** (ex : Foie) de son adversaire pour déterminer un **bonus ou malus de confrontation** pour toute la durée de l’affrontement.
 
 - **Si Organe offensif (protagoniste 1) > Organe défensif (protagoniste 2)** :
@@ -23,10 +23,10 @@ Avant le combat, chaque protagoniste compare son **organe défensif** (ex : Cœu
 
 ---
 
-#### **Résolution des Jets**
-Chaque round, chaque combattant effectue **un jet unique** :
-- **Attaquant** : Lance 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
-- **Défenseur** : Lance 2D6 contre **Organe défensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
+#### 2. **Résolution de l'assaut**
+Chaque assaut, chaque combattant effectue **un jet unique** :
+- **Protagoniste 1** : Lance 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
+- **Protagoniste 2** : Lance 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
 
 Les résultats des jets sont ensuite comparés selon le tableau suivant :
 
@@ -54,4 +54,8 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
    - *Bellatore* : 2D6 → 1 et 3 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
    - *Laboratore* : 2D6 → 2 et 5 → Comparé à Cœur 4 + Malus de confrontation -1 → **Réussite partielle**.
    - **Résultat** : Réussite complète vs Réussite partielle → le Laboratore encaisse **1 Touche**.
-     
+
+---
+
+#### 3. **Résolution des touches**
+
