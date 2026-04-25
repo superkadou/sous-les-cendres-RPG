@@ -25,8 +25,7 @@ Avant le combat, chaque protagoniste compare son **organe défensif** (ex : Cœu
 
 #### 2. **Résolution de l'assaut**
 Chaque assaut, chaque combattant effectue **un jet unique** :
-- **Protagoniste 1** : Lance 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
-- **Protagoniste 2** : Lance 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
+- 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement (si applicable) + Vocation (si applicable)**.
 
 Les résultats des jets sont ensuite comparés selon le tableau suivant :
 
@@ -39,21 +38,21 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
 ---
 
 #### **Exemple de Combat**
-**Contexte** : Un *Bellatore* (Foie 5, Cœur 3) affronte un *Reprouvé* (Foie 2, Cœur 4).
+**Contexte** : Un *Bellatores* (Foie 5, Cœur 3) affronte un *Laboratores* (Foie 2, Cœur 4).
 
 1. **Détermination des bonus/malus de confrontation** :
-   - *Bellatore* (Foie 5) vs *Laboratore* (Cœur 4) → **5 > 4** → **Bonus de confrontation de +1 à l’attaque du Bellatore**.
-   - *Laboratore* (Foie 2) vs *Bellatore* (Cœur 3) → **2 < 3** → **Malus de confrontation de -1 à l'attaque du Laboratore**.
+   - *Bellatores* (Foie 5) vs *Laboratores* (Cœur 4) → **5 > 4** → **Bonus de confrontation de +1 à l’attaque du Bellatores**.
+   - *Laboratores* (Foie 2) vs *Bellatores* (Cœur 3) → **2 < 3** → **Malus de confrontation de -1 à l'attaque du Laboratores**.
 
 2. **Round 1** :
-   - *Bellatore* : Lance 2D6 → 3 et 4 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
-   - *Laboratore* : Lance 2D6 → 1 et 3 → Comparé à Cœur 4 + Malus de confrontation -1 → **Réussite complète**.
-   - **Résultat** : Réussite complète du Bellatore vs Réussite complète du Laboratore→ **Rien**.
+   - *Bellatores* : Lance 2D6 → 3 et 4 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
+   - *Laboratores* : Lance 2D6 → 1 et 3 → Comparé à Cœur 4 + Malus de confrontation -1 → **Réussite complète**.
+   - **Résultat** : Réussite complète du Bellatores vs Réussite complète du Laboratores → **Rien**.
 
 3. **Round 2** :
-   - *Bellatore* : 2D6 → 1 et 3 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
-   - *Laboratore* : 2D6 → 2 et 5 → Comparé à Cœur 4 + Malus de confrontation -1 → **Réussite partielle**.
-   - **Résultat** : Réussite complète vs Réussite partielle → le Laboratore encaisse **1 Touche**.
+   - *Bellatores* : 2D6 → 1 et 3 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
+   - *Laboratores* : 2D6 → 2 et 5 → Comparé à Cœur 4 + Malus de confrontation -1 → **Réussite partielle**.
+   - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Touche**.
 
 ---
 
