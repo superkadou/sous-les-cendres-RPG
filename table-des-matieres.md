@@ -1,0 +1,156 @@
+Livre des Règles – Sous les cendres : les Runes et la Croix
+
+## Introduction
+
+### Bienvenue
+### Qu’est-ce qu’un JDR ?
+### Ma vision du jeu
+
+## Création de Personnage
+### Étapes pas à pas
+### Attributs et Compétences
+### Équipement de départ
+### Exemple : "Godefroy le Rustique"
+
+## Règles de Base
+### Résolution des actions
+### Combats et Blessures
+### Magie et Pouvoirs
+### Exploration et Voyages
+
+## Guide du MJ
+### Créer des aventures
+### Gérer les joueurs
+### Adapter les règles
+
+## Bestiaire
+### Créatures communes
+### Boss et Légendaires
+### Créer ses monstres
+
+## Le Monde de [Nom du Jeu]
+### Histoire et Géographie
+### Cultures et Factions
+### Lieux Mythiques
+
+## Aventures
+"La Malédiction du Moulin" (niveau 1)
+"Le Serment du Chevalier Noir" (niveau 3)
+"La Couronne des Ombres" (campagne)
+
+## Annexes
+
+## Tables de référence
+
+## Fiches vierges
+
+## Lexique
+
+## Index
+
+
+---
+
+
+
+1. Introduction (5–10 pages)
+Bienvenue : Ton du livre, remerciements, crédits.
+Qu’est-ce qu’un JDR ? : Explication basique pour les néophytes (rôle du MJ, des joueurs, exemples de parties).
+Concept du Jeu :
+Ambiance générale (heroic fantasy, horreur, médiéval historique…).
+Thèmes clés (ex : "Survie dans un monde brutal", "Héroïsme légendaire").
+Ce qui rend ce jeu unique (ex : "Un système basé sur les humeurs et les vocations").
+De quoi as-tu besoin ? : Dés, fiches, crayons, etc.
+
+2. Création de Personnage (20–30 pages)
+
+Étapes de Création :
+Ordre social : Archétype en une phrase (ex : "Un forgeron maudit cherchant rédemption").
+Vocation : Archétype en une phrase (ex : "Un forgeron maudit cherchant rédemption").
+Organes : Explication des caractéristiques de base (ex : Force, Agilité… ou tes organes/humeurs).
+Humeurs : Liste avec exemples.
+Opulence et équipement : Richesses, armes, armures, objets typiques.
+Détails Narratifs : Liens avec d’autres PJ, secrets, motivations.
+Exemple de Fiche : Une fiche remplie pour illustrer.
+
+3. Règles de Base (30–50 pages)
+(Cœur du livre : doit être organisé pour un accès rapide.)
+Mécaniques Fondamentales :
+
+
+Tests et Jets de Dés : Comment résoudre une action (ex : "Lance 2D6 + attribut, compare au seuil").
+Succès/Échecs : Degrés de réussite, critiques, fumbles.
+Combats :
+Tours, initiative, actions (attaque, défense, fuite).
+Dégâts, mort, blessures.
+Magie/Social :
+Coût, limites, exemples de sorts.
+Équipement et Ressources :
+Gestion de l’inventaire, usure, réparation.
+Récupération : Repos, soins, fatigue.
+Règles Sociales et Exploration :
+
+
+Négociation, intimidation, recherche d’informations.
+Voyages, dangers environnementaux, rencontres aléatoires.
+Exemples Concrets :
+
+
+Un combat pas à pas.
+Une scène sociale avec jets de dés.
+
+4. Règles pour le MJ (20–30 pages)
+(Guide pour diriger le jeu, équilibrer les défis, créer des histoires.)
+Rôle du MJ :
+Créer un monde vivant, improviser, gérer les règles.
+Création de Scénarios :
+Structure type (intro, développement, climax).
+Éléments clés : PNJ, lieux, intrigues.
+Gestion des Joueurs :
+Conseils pour les débutants, joueurs difficiles, collaboration.
+Adaptation des Règles :
+Quand ignorer les règles pour le fun.
+Variantes maison.
+Création de Contenu :
+Générer des quêtes, donjons, ennemis.
+Tables aléatoires (trésors, pièges, événements).
+
+5. Bestiaire (10–20 pages)
+(Si ton jeu inclut des combats ou des créatures.)
+Créatures Typiques :
+Stats bloc (PV, attaque, défense, capacités spéciales).
+Comportement, tactiques, lore.
+Exemples :
+Loup-garou, dragon, spectre, bandits, animaux…
+Création de Monstres :
+Template pour inventer ses propres ennemis.
+
+6. Monde et Contexte (15–25 pages)
+(L’univers du jeu : indispensable pour l’immersion.)
+Histoire et Géographie :
+Chronologie, cartes, factions, conflits majeurs.
+Cultures et Sociétés :
+Royaumes, guildes, religions, coutumes.
+Lieux Emblématiques :
+Villes, donjons, forêts maudites…
+Thèmes et Ton :
+"Un monde où la magie est rare mais redoutable."
+"La survie prime sur l’héroïsme."
+
+8. Annexes (10–20 pages)
+(Références utiles en jeu.)
+Tables de Résumé :
+Récapitulatif des jets de dés, seuils, modificateurs.
+Fiches Prêtes-à-Photocopier :
+Fiches de personnage vierges, feuilles de PNJ.
+Lexique : Termes spécifiques au jeu.
+Bibliographie/Inspirations :
+Livres, films, jeux vidéo pour s’imprégner de l’ambiance.
+
+
+9. Index (2–5 pages)
+(Indispensable pour un livre de +100 pages.)
+Liste alphabétique des termes, règles, noms propres.
+
+
+
