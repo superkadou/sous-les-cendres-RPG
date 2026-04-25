@@ -4,7 +4,7 @@ Dans sous les cendres, les Runes et la Croix, les actions des personnages sont r
 
 #### **Seuil de Compétence**
 Le seuil de compétence pour une action donnée est calculée comme suit :
-**Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur + modificateur de difficulté**
+**Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur (si applicable) + modificateur de difficulté**
 - **Organes** : Chaque organe a une valeur (ex : Foie 3, Cœur 2), reflétant les capacités physiques et mentales du personnage.
 - **Humeurs** : Les point d’humeurs peuvent être dépensés pour ajouter un bonus temporaire au seuil de compétence : 1 point = +1 au seuil de difficulté.
 - **modificateur de difficulté** : chaque action est plus ou moins facile à réussir.
