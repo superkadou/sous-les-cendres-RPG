@@ -32,5 +32,6 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 
 ## [Crédits](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/CREDITS.md)
 
+## [Règles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/introduction.md)
 ---
 *Fait avec dévotion dans le scriptorium de GitHub par superkadou.*
