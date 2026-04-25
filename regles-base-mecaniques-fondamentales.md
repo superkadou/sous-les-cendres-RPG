@@ -1,69 +1,56 @@
-## Tests et Jets de Dés
-Comment résoudre une action 
+## **1. Tests et Jets de Dés**
+### **Comment résoudre une action**
+Dans sous les cendres, les Runes et la Croix, les actions des personnages sont résolues à l’aide de **deux dés à six faces (2D6)**, comparés à une **valeur de compétence** déterminée par leurs **Organes** (Cœur, Foie, Cerveau, Rate). Un personnage peux faire appel à une **Humeur** (Sang, Bile Jaune, Bile Noire, Flegme) pour s'aider à la réussite d'une action.
 
-## Succès/Échecs 
-* Degrés de réussite
-* critiques/fumbles
+#### **Seuil de Compétence**
+Le seuil de compétence pour une action donnée est calculée comme suit :
+**Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur + modificateur de difficulté**
+- **Organes** : Chaque organe a une valeur (ex : Foie 3, Cœur 2), reflétant les capacités physiques et mentales du personnage.
+- **Humeurs** : Les point d’humeurs peuvent être dépensés pour ajouter un bonus temporaire au seuil de compétence : 1 point = +1 au seuil de difficulté.
+- **modificateur de difficulté** : chaque action est plus ou moins facile à réussir.
 
-## Combats
-* Tours
-* initiative
-* actions 
-  * attaque
-  * defense
+### **Table des Difficultés**
+Les modificateurs de difficulté s’appliquent au seuil de compétence pour déterminer le seuil de réussite.
 
-## Santé
-* Dégâts
-* Blessures
-* Mort
+| **Niveau de Difficulté** | **Modificateur** | **Seuil Minimal** |
+|---------------------------|------------------|-------------------|
+| **Automatique**           | +6               | -                 | 
+| **Trivial**               | +4               | -                 |
+| **Simple**                | +2               | -                 | 
+| **Modéré**                | +0               | -                 | 
+| **Difficile**             | -2               | -                 |
+| **Très Difficile**        | -4               | 2                 | 
+| **Héroïque**              | -6               | 1                 | 
+| **Légendaire**            | -8               | 1                 |
 
-## Magie/Social
-Coût, limites, exemples de sorts.
+---
 
-## Équipement et Ressources :
-Gestion de l’inventaire, usure, réparation.
+## **2. Succès et Échecs**
 
-## Récupération
+Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de compétence :
+- Si **les deux dés sont inférieurs ou égaux** à la valeur de compétence, c’est une **réussite complète**.
+- Si **un dé est inférieur ou égal et l’autre supérieur**, c’est une **réussite partielle**.
+- Si **les deux dés sont supérieurs**, c’est un **échec**.
+  
+### **Réussite Complète**
+Lorsque les deux dés sont inférieurs ou égaux au seuil de compétence, l’action est accomplie sans encombre. Le personnage obtient exactement ce qu’il souhaitait, sans effet secondaire.
 
+### **Réussite Partielle**
+Lorsque l’un des dés est inférieur ou égal au seuil de compétence et l’autre supérieur, l’action est accomplie, mais **au prix d’un coût supplémentaire**. Ce coût peut prendre plusieurs formes au choix du MJ :
+- **Temps supplémentaire** : La tâche prend plus de temps que prévu.
+- **Ressources supplémentaires consommées** : Des matériaux ou des outils sont endommagés ou perdus.
+- **Effet secondaire** : Une conséquence mineure mais gênante se produit (ex : une arme se coince, un PNJ devient méfiant).
 
-## Systeme de combat
-A chaque round de combat, une personne doit choisir entre attaquer ou defendre.
-L'attaqant lance : Foie + ATT(arme) + Vocation (si approprié) + Humeur (si approprie)
-Le defensuer lance : Foie + DEF(arme) + DEF(armure) + Vocation(si approprie) + Humeur (si approprié)
+### **Échec**
+Lorsque les deux dés sont supérieurs au seuil de compétence, l’action échoue. 
 
-Si les deux protaganistes attaquent, celui avec le plus haut jet reussi sa contre-attaque et occasionne une touche.
-Si un protagoniste attaque et l'autre defends, si ATT > DEF, l'attaque reussi et occasionne une touch.
-Dans tous les cas la force de la touche est egal a la différence entre les deux jets de dés en opposition.
+---
 
-## Resolution des blessures  
-jet de Virtus + ABS(armure) contre force de la touche
-en cas de reussite : pas de Plaie
-en cas d'echec     : +1 Plaie
+## **3. Critiques et Fumbles**
 
-## Sante
-Un personnage possede autant de Blessures que son nombre de D de Virtus +2
-Les premières Blessures sont toujours légèress
-Les trois dernieres Blessures sont toujours sérieuses : 
-Blessure               : -1D toutes actions
-Blessure grave         : -2D toutes actions
-Blessure incapacitante : jet de Virtus diff 13 pour -3D ou coma
-Si nombre de Blessure > Virtus + 2 => mort.
+Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un critique & une reussite est une reussite critique tandis qu'un critiquee et un echec est un fumble. Dans les deux cas, un tirage dans un jeu de **tarot médiéval** détermine l’effet exact
 
-Resolution des "conflits"
-Jet : Must equal or beat difficulty to succeed
-
-Jet max 7D (dé libre compris), chaque D supplementaire est converti en un +3 fixe
-
-Dé libre :
-6 = ajoute et relance une seule fois => si test reusssi alors reussite critique.
-1 = possibilité d'échec critique sur le premier jet uniquement.
-
-Echec critique = 1 sur premier jet du dé libre + échec du test
-Succès critique = 6 sur 1er dé libre + succès du test
-
-En cas de critique, on tire une lame du Tarot divinatoire (les atouts d'un jeu de tarot standard). La lame tirée decris l'esprit du critique.
-
-## Interprétation des 22 lames : 
+### Interprétation des 22 lames : 
 | N° | Lame | Aspects positifs | Aspects négatifs |
 | --- | --- | --- | --- |
 | 0 | Le Mat (L'excuse) | Liberté, début, spontanéité, folie | Imprudence, chaos, inconséquence |
@@ -89,59 +76,90 @@ En cas de critique, on tire une lame du Tarot divinatoire (les atouts d'un jeu d
 | XX | Le Jugement | Renaissance, rédemption, appel | Culpabilité, regret, échec final |
 | XXI | Le Monde | Accomplissement, totalité, succès | Fin brutale, incomplétude, vanité |
 
-Un test de compétence relevant du type de vécu du personnage (Art/Savoir) sans faire partie du vécu propre a une penialite de -5, sinon -10.
+Les critiques ajoutent une couche de **dramatisme et d’imprévisibilité**, reflétant les forces surnaturelles et le destin à l’œuvre dans ce monde.
 
-## Jet contre difficulte statique
+---
+
+## **4. Combats**
+
+Les combats se déroulent en **assauts narratifs**, où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
+
+---
+
+### **Déroulement d’un Combat**
+
+#### **Détermination des Bonus/Malus de Confrontation**
+Avant le combat, chaque protagoniste compare son **organe défensif** (ex : Cœur) à l’**organe offensif** (ex : Foie) de son adversaire pour déterminer un **bonus ou malus de confrontation** pour toute la durée de l’affrontement.
+
+- **Si Organe offensif (protagoniste 1) > Organe défensif (protagoniste 2)** :
+  Le protagoniste 1 obtient un **bonus de +1** à ses jets pour le combat.
+  *Justification* : Le protagoniste 1 est **plus expérimenté ou puissant** et domine son adversaire.
+
+- **Si Organe offensif (protagoniste 1) < Organe défensif (protagoniste 2)** :
+  Le protagoniste 1 obtient un **malus de -1** à ses jets pour le combat.
+  *Justification* : Le protagoniste 2 est **plus résistant ou agile** et peut mieux anticiper les attaques.
+
+- **Si Organe offensif (protagoniste 1) = Organe défensif (protagoniste 2)** :
+  Le protagoniste 1 **n’obtient ni bonus ni malus** à ses jets pour le combat.
+  *Justification* : Les deux protagonistes sont **de compétence égale**, et aucun ne semble prendre l’avantage sur l’autre.
+
+---
+
+#### **Résolution des Jets**
+Chaque round, chaque combattant effectue **un jet unique** :
+- **Attaquant** : Lance 2D6 contre **Organe offensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
+- **Défenseur** : Lance 2D6 contre **Organe défensif + Bonus/Malus de confrontation + Bonus d’équipement** (si applicable).
+
+Les résultats des jets sont ensuite comparés selon le tableau suivant :
+
+| **Protagoniste 1 \ Protagoniste 2** | **Réussite Complète** | **Réussite Partielle** | **Échec**          |
+|--------------------------------------|-----------------------|-------------------------|---------------------|
+| **Réussite Complète**               | Rien                  | **1 Touche**            | **2 Touches**        |
+| **Réussite Partielle**              | **1 Touche**           | Rien                   | **1 Touche**         |
+| **Échec**                           | **2 Touches**         | **1 Touche**            | Rien                |
+
+---
+
+#### **Exemple de Combat**
+**Contexte** : Un *Bellatore* (Foie 5, Cœur 3) affronte un *Reprouvé* (Foie 2, Cœur 4).
+
+1. **Détermination des bonus/malus de confrontation** :
+   - *Bellatore* (Foie 5) vs *Reprouvé* (Cœur 4) → **5 > 4** → **+1 à l’attaque du Bellatore**.
+   - *Reprouvé* (Foie 2) vs *Bellatore* (Cœur 3) → **2 ≤ 3** → **+1 à la défense du Bellatore** (si le *Reprouvé* attaque).
+
+2. **Round 1** :
+   - *Bellatore* (Attaque) : 2D6 + Foie (5) + Bonus (+1) = 2D6 + 6 → Lance 2D6 → 4 et 2 → **Total = 12** (mais non, on ajoute les bonus au résultat des dés, pas au seuil. Le total des dés est comparé au seuil (Foie ou Cœur), et les bonus s’ajoutent au jet de dés).
+     - *Correction* : On lance **2D6**, puis on ajoute les bonus au résultat des dés pour comparer au seuil.
+     - *Exemple* :
+       - *Bellatore* : Lance 2D6 → 3 et 4 → **Total = 7 + 1 (bonus) = 8**. Comparé à Foie 5 → **8 > 5** → **Échec**.
+       - *Reprouvé* : Lance 2D6 → 1 et 3 → **Total = 4 + 0 = 4**. Comparé à Cœur 4 → **4 ≤ 4** → **Réussite complète**.
+   - **Résultat** : Échec vs Réussite complète → **Rien ne se passe**.
+
+3. **Round 2** :
+   - *Bellatore* : 2D6 → 1 et 3 → **Total = 4 + 1 = 5**. 5 ≤ 5 → **Réussite complète**.
+   - *Reprouvé* : 2D6 → 2 et 5 → **Total = 7 + 0 = 7**. 7 > 4 → **Échec**.
+   - **Résultat** : Réussite complète vs Échec → **1 Touche** pour le *Reprouvé*.
+   - 
+---
+
+## **5. Santé et Blessures**
+### **Virtus et Blessures**
+La **Virtus** représente la force vitale et la résistance du personnage. Chaque personnage possède un nombre de **blessures** égal à sa **Virtus + 2**.
+
+- **Blessures Légères** : Les premières blessures (jusqu’à la valeur de Virtus) n’ont pas d’effet mécanique, mais peuvent avoir des conséquences narratives (ex : fatigue, douleur).
+- **Blessure** : La (Virtus + 1)ème blessure inflige un malus de **-1D à toutes les actions**.
+- **Blessure Grave** : La (Virtus + 2)ème blessure inflige un malus de **-2D à toutes les actions** et nécessite un jet de Virtus (difficulté 15) pour éviter le coma ou la mort.
+
+### **Récupération**
+- **Repos Court** : Récupère une blessure légère.
+- **Repos Long** : Récupère toutes les blessures légères et une blessure grave.
+- **Soins Magiques ou Potions** : Peuvent accélérer la récupération, mais souvent au prix d’un effet secondaire (ex : corruption d’une humeur).
 
 
-Standard Difficulties
-[+] Automatic (0): Almost anyone can perform this action; there is no need to roll. 
-[+] Very Easy (1–5): Nearly everyone can accomplish this task. 
-[+] Easy (6-10): Although characters usually have no difficulty with these tasks, a normal adult may find them challenging.
-[+] Moderate (11–15): There is a fair chance that the average character will fail at this type of task.
-[+] Difficult (16–20): Those with little experience in the task will have to be quite lucky to accomplish these actions.
-[+] Very Difficult (21–25): The average character will only rarely succeed at these kinds of task. 
-[+] Heroic (26–30) : Even highly experienced characters will find those tasks challenging. 
-[+] Legendary (31 or more): These kinds of tasks are nearly impossible, though thereʼs still that possibility that lucky average or highly experienced characters will accomplish them.
-
-Jet en opposition
 
 
+En cas de critique, on tire une lame du Tarot divinatoire (les atouts d'un jeu de tarot standard). La lame tirée decris l'esprit du critique.
 
-Result Points & Success
-Here are some guidelines for describing different levels of success.
-Use the result points of the roll — the difference between
-the skill total and the difficulty — to decide on the exact level.
 
-Minimal (0): The total was just barely enough. The character
-hardly succeeded at all, and only the most minimal effects apply.
-If “minimal effects” are not an option, then maybe the action
-took longer than normal to succeed.
-
-Solid (1–4): The action was performed completely, but
-without frills.
-
-Good (5–8): The results were better than necessary and
-there may be added benefits.
-
-Superior (9–12): There are almost certainly additional
-benefits to doing an action this well. The character performed
-the action better, faster, or more adeptly than expected.
-
-Spectacular (13–16): The character performed the action
-deftly and expertly. Observers would notice the ease or grace
-with which the action was performed (if applicable).
-
-Incredible (17 or more): The character performed the skill
-with such dazzling quality that, if appropriate to the task, it could
-become the subject of conversation for some time — it’s at least
-worth writing home about. Gamemasters should dole out some
-significant bonuses for getting this large of a roll.
-
-Example: A character who trying to use the survival skill to
-forage for food gets a minimal success — she finds “subsistence
-level” food; it’s barely better than garbage. The next day she gets
-a spectacular result — not only does she locate good, wholesome
-food, but she finds enough for two days instead of one.
 
 
