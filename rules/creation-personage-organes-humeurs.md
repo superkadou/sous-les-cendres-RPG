@@ -1,26 +1,3 @@
-# Création de personnage
-
-1. choix de l'Ordre social 
-2. choix de la Vocation : Art ou Savoir 
-3. choix de l'Humeur dominante : +1D
-4. 10D à répartir entre Ordre, Organes, Humeurs, Vocation et Opulence
- 
-Chaque D peux etre cassé en 3 pips (1 pips = +1)
-
-## Ordre social
-Afin de refléter les réalités sociales de l'époque, chaque Ordre possède une compétence unique qui lui confére des capacites relatives a sa position dans la société des hommes.
-1. Oratores    : Verbe     - expression de la maitrise des mots 
-2. Bellatores  : Entregent - expression de l'importance sociale des nobles et des combattants 
-3. Laboratores : Prudhomie - expression de la sagesse populaire     
-Base : 1D
-
-## Vocation
-Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier
-Les vocations se divisent en deux grandes familles :  
-1.  les Arts    : métiers manuels ou sociaux, basés sur la pratique
-2. les Savoirs : métiers intellectuels, basés sur la connaissance
-Base : 1D
-
 ## Organes
 1. Coeur   : siege des emotions      
 2. Foie    : siege de la force vitale 
@@ -44,12 +21,3 @@ Lorsqu'il effectue une action, un personnage peux puiser dans l'humeur associée
 A chaque consommation d'une humeur on teste score humeur contre difficulte = 5*pips utilises. Echec = dyscrasie (malus RP). 
 Humeur a 0 = dyscrasie automatique
 Humeur > Humeur dominante = dyscrasie automatique
-
-## Gestion de la santé physique & mentale : 
-[+] Virtus : force vitale du personnage = moyenne des 4 organes x2 ?
-
-
-
-Opulence : représente  les avoirs du personnage - base: 1D
-
-Leçon : représente l'expérience que les personnages ont accumulé au cours de leurs aventures
