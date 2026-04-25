@@ -10,10 +10,15 @@ Pour différencier les individus, on ajoutait au prénom un qualificatif qui n'�
 Trouve un nom descriptif de ton concept.
 
 ## Ordre social
-Afin de refléter les réalités sociales de l'époque, chaque Ordre possède une compétence unique qui lui confére des capacites relatives a sa position dans la société des hommes.
-1. Oratores    : Verbe     - expression de la maitrise des mots 
-2. Bellatores  : Entregent - expression de l'importance sociale des nobles et des combattants 
-3. Laboratores : Prudhomie - expression de la sagesse populaire     
+
+La société médiévale s’organise autour d’une tripartition idéale, reflétant une vision hiérarchisée et divine du monde. Cette division en [trois ordres — oratores, bellatores et laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md) — structure les rapports de pouvoir, les devoirs et les représentations collectives.
+Chaque Ordre possède une compétence unique qui reflète les capacites relatives à sa position dans la société des hommes.
+| Classe | Fonction | Compétence | Utilité |
+| --- | --- | --- | --- |
+| Oratores | ceux qui prient | Verbe | |
+| Bellatores  | ceux qui combattent | Entregent | | 
+| Laboratores | ceux qui travaillent | Prudhomie | |    
+
 Base : 1
 
 ## Vocation
