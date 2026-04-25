@@ -7,7 +7,7 @@
 
 Vous êtes désormais prêts à partir à l'aventure !
    
-## Exemple de Fiche
+### Exemple de Fiche
 [Aldebert le simplet](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
 
