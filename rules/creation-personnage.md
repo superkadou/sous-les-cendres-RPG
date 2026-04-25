@@ -5,6 +5,7 @@
 4. Gérer l'[Opulence et l'équipement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md) 
 5.  Déterminer les [Détails narratifs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
 
+Vous êtes désormais prêts à partir à l'aventure !
    
 ## Exemple de Fiche
 [Aldebert le simplet](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
