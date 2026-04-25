@@ -1,6 +1,6 @@
 ## Détails narratifs
 
-### Liens avec les autress PJ 
+### Liens avec les autres PJ 
 
 ### secrets 
 
