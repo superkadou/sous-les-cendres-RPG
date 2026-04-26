@@ -5,6 +5,7 @@
 ### Saluations & Bienuignance
 ### De ce qu’est le Ieu de Parole
 ### Mon Intention & Devisement
+### Du Harnois pour bien ouyr de ces contes
 
 ## De la Naissance des Braves & Hardis
 ### Étapes pas à pas
