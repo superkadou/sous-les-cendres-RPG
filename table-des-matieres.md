@@ -18,7 +18,7 @@
 ## L’Ordre du Ieu et des Faicts
 ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
 ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
-### Des Arts Secrets, Magies & Haulx Pouuoirs
+### [Des Arts Secrets, Magies & Haulx Pouuoirs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-magie.md)
 ### De l'Errance, Voyages & Descouuertes
 ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
