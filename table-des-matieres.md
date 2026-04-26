@@ -8,10 +8,11 @@
 
 ## Création de Personnage
 ### Étapes pas à pas
-### Nom, Ordre social et Vocation
-### Organes et Humeurs
-### Opulence et équipement
-### Exemple : "Aldebert le simplet"
+### [Nom, Ordre social et Vocation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
+### [Organes et Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
+### [Opulence et équipement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
+### [Détails narratifs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
+### [Exemple : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
 ## Règles de Base
 ### Résolution des actions
