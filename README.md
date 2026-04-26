@@ -48,13 +48,11 @@ Ce jeu s’inspire de la **période médiévale (900–1100)** et de son imagina
 3. **L’Accessibilité** :
    Certains termes, mécaniques ou représentations visuelles sont **modernisés ou simplifiés** pour être **compréhensibles et utilisables** sans nécessiter un doctorat en histoire médiévale. L’objectif est de permettre à tous les joueurs — qu’ils soient **historiens ou néophytes** — de s’approprier rapidement l’univers et de se concentrer sur **l’aventure et le récit**.
 
----
 #### **Exemples Conscients d’Anachronismes**
 - **Les fiches de personnages** : Les illustrations mêlent des éléments **médiévaux** (cottes de mailles, épées) et **renaissants** (détails ornés, couleurs vives) pour un rendu **esthétique et évocateur**, même si cela sort du cadre strict du IXe–XIe siècle.
 - **Certains termes** : Des mots comme *"entregent"* (emprunté à une époque ultérieure) ou *"prudhomie"* (adapté pour coller au concept) sont utilisés pour leur **résonance** plutôt que leur exactitude historique.
 - **Les mécaniques de jeu** : Les **humeurs**, les **organes** ou les **jets de tarot** sont des **outils narratifs** inspirés de théories médiévales (comme les humeurs d’Hippocrate), mais **simplifiés et adaptés** pour le jeu de rôle.
 
----
 #### **Pourquoi Ces Choix ?**
 Ce jeu est avant tout une **œuvre de fiction collaborative**, pas un **manuel d’histoire**. Les anachronismes et les libertés prises le sont au service de :
 - **L’immersion** (un univers cohérent et évocateur),
