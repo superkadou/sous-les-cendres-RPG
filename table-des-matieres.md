@@ -1,49 +1,48 @@
 # Codex des Règles – Sous les cendres : les Runes et la Croix
 
 ## Prologue
-
-### Saluations & Bienuignance
-### De ce qu’est le Ieu de Parole
-### Mon Intention & Devisement
-### Du Harnois pour bien ouyr de ces contes
+* ### Saluations & Bienuignance
+* ### De ce qu’est le Ieu de Parole
+* ### Mon Intention & Devisement
+* ### Du Harnois pour bien ouyr de ces contes
 
 ## De la Naissance des Braves & Hardis
-### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage.md)
-### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
-### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
-### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
-### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
-### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
+* ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage.md)
+* ### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
+* ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
+* ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
+* ### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
+* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
 ## L’Ordre du Ieu et des Faicts
-### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
-### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
-### [Des Arts Secrets, Magies & Haulx Pouuoirs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-magie.md)
-### De l'Errance, Voyages & Descouuertes
-### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
+* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
+* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
+* ### [Des Arts Secrets, Magies & Haulx Pouuoirs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-magie.md)
+* ### De l'Errance, Voyages & Descouuertes
+* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
 ## Les Secrets du Maistre des Conteurs
-### De l'Art d'Inuenter & de Tisser les Intrigues
-### De la Conduite des Compagnons & de l'Entente à Table
-### De l'Ajustement des Loys & de l'Arbitrage
+* ### De l'Art d'Inuenter & de Tisser les Intrigues
+* ### De la Conduite des Compagnons & de l'Entente à Table
+* ### De l'Ajustement des Loys & de l'Arbitrage
 
 ## L'Escrit des Diverses Créatures
-### Ennemis communs
-### Bêtes et monstres mythiques
-### Boss et créatures légendaires
-### Créer ses propres adversaires
+* ### Ennemis communs
+* ### Bêtes et monstres mythiques
+* ### Boss et créatures légendaires
+* ### Créer ses propres adversaires
 
 ## Chroniques du monde de Sous les Cendres : les Runes et la Croix
-### [Histoire et Géographie](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-historique.md)
-### [Cultures et Société](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
-### [Médecine et croyances](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
-### [Le nom unique comme marqueur de son existence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
-### Lieux Mythiques
+* ### [Histoire et Géographie](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-historique.md)
+* ### [Cultures et Société](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
+* ### [Médecine et croyances](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
+* ### [Le nom unique comme marqueur de son existence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
+* ### Lieux Mythiques
 
 ## Gestes, Quêtes et Haulx Faicts
-"La Malédiction du Moulin" (niveau 1)
-"Le Serment du Chevalier Noir" (niveau 3)
-"La Couronne des Ombres" (campagne)
+* ### "La Malédiction du Moulin" (niveau 1)
+* ### "Le Serment du Chevalier Noir" (niveau 3)
+* ### "La Couronne des Ombres" (campagne)
 
 ## L’Escrit des Additions
 
