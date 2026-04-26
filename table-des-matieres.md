@@ -1,12 +1,12 @@
 # Codex des Règles – Sous les cendres : les Runes et la Croix
 
-## Introduction
+## Prologue
 
-### Bienvenue
-### Qu’est-ce qu’un JDR ?
-### Ma vision du jeu
+### Saluations & Bienuignance
+### De ce qu’est le Ieu de Parole
+### Mon Intention & Devisement
 
-## Création de Personnage
+## De la Naissance des Braves & Hardis
 ### Étapes pas à pas
 ### [Nom, Ordre social et Vocation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
 ### [Organes et Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
@@ -14,40 +14,41 @@
 ### [Détails narratifs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
 ### [Exemple : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
-## Règles de Base
+## L’Ordre du Jeu et des Faicts
 ### [Résolution des actions](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
 ### [Combats et Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
 ### Magie et Pouvoirs
 ### Exploration et Voyages
 ### [Expérience](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
-## Guide du MJ
+## Les Secrets du Maistre des Conteurs
 ### Créer des aventures
 ### Gérer les joueurs
 ### Adapter les règles
 
-## Bestiaire
-### Créatures communes
-### Boss et Légendaires
-### Créer ses monstres
+## L'Escrit des Diverses Créatures
+### Ennemis communs
+### Bêtes et monstres mythiques
+### Boss et créatures légendaires
+### Créer ses propres adversaires
 
-## Le monde de Sous les Cendres : les Runes et la Croix
+## Chroniques du monde de Sous les Cendres : les Runes et la Croix
 ### [Histoire et Géographie](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-historique.md)
 ### [Cultures et Société](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
 ### [Médecine et croyances](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
 ### [Le nom unique comme marqueur de son existence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
 ### Lieux Mythiques
 
-## Aventures
+## Gestes, Quêtes et Haulx Faicts
 "La Malédiction du Moulin" (niveau 1)
 "Le Serment du Chevalier Noir" (niveau 3)
 "La Couronne des Ombres" (campagne)
 
-## Annexes
+## L’Escrit des Additions
 
 ## Tables de référence
 
-## Fiches vierges
+## Parchemins vierges
 
 ## Lexique
 
