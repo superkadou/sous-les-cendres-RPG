@@ -8,24 +8,24 @@
 ### Du Harnois pour bien ouyr de ces contes
 
 ## De la Naissance des Braves & Hardis
-### Étapes pas à pas
-### [Nom, Ordre social et Vocation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
-### [Organes et Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
-### [Opulence et équipement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
-### [Détails narratifs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
-### [Exemple : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
+### L'Ordre des Faits pour Créer un Brave
+### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
+### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
+### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
+### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
+### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
-## L’Ordre du Jeu et des Faicts
-### [Résolution des actions](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
-### [Combats et Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
-### Magie et Pouvoirs
-### Exploration et Voyages
-### [Expérience](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
+## L’Ordre du Ieu et des Faicts
+### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
+### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
+### Des Arts Secrets, Magies & Haulx Pouuoirs
+### De l'Errance, Voyages & Descouuertes
+### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
 ## Les Secrets du Maistre des Conteurs
-### Créer des aventures
-### Gérer les joueurs
-### Adapter les règles
+### De l'Art d'Inuenter & de Tisser les Intrigues
+### De la Conduite des Compagnons & de l'Entente à Table
+### De l'Ajustement des Loys & de l'Arbitrage
 
 ## L'Escrit des Diverses Créatures
 ### Ennemis communs
