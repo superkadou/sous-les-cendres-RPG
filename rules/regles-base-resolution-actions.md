@@ -2,7 +2,7 @@
 ### **Comment résoudre une action**
 Dans sous les cendres, les Runes et la Croix, les actions des personnages sont résolues à l’aide de **deux dés à six faces (2D6)**, comparés à une **valeur de compétence** déterminée par leurs **Organes** (Cœur, Foie, Cerveau, Rate). Un personnage peux faire appel à une **Humeur** (Sang, Bile Jaune, Bile Noire, Flegme) pour s'aider à la réussite d'une action.
 
-#### **Seuil de Compétence**
+### **Seuil de Compétence**
 Le seuil de compétence pour une action donnée est calculée comme suit :
 **Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur (si applicable) + modificateur de difficulté**
 - **Organes** : Chaque organe a une valeur (ex : Foie 3, Cœur 2), reflétant les capacités physiques et mentales du personnage.
@@ -78,25 +78,6 @@ Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action décle
 
 Les critiques ajoutent une couche de **dramatisme et d’imprévisibilité**, reflétant les forces surnaturelles et le destin à l’œuvre dans ce monde.
 
----
-
-## **5. Santé et Blessures**
-### **Virtus et Blessures**
-La **Virtus** représente la force vitale et la résistance du personnage. Chaque personnage possède un nombre de **blessures** égal à sa **Virtus + 2**.
-
-- **Blessures Légères** : Les premières blessures (jusqu’à la valeur de Virtus) n’ont pas d’effet mécanique, mais peuvent avoir des conséquences narratives (ex : fatigue, douleur).
-- **Blessure** : La (Virtus + 1)ème blessure inflige un malus de **-1D à toutes les actions**.
-- **Blessure Grave** : La (Virtus + 2)ème blessure inflige un malus de **-2D à toutes les actions** et nécessite un jet de Virtus (difficulté 15) pour éviter le coma ou la mort.
-
-### **Récupération**
-- **Repos Court** : Récupère une blessure légère.
-- **Repos Long** : Récupère toutes les blessures légères et une blessure grave.
-- **Soins Magiques ou Potions** : Peuvent accélérer la récupération, mais souvent au prix d’un effet secondaire (ex : corruption d’une humeur).
-
-
-
-
-En cas de critique, on tire une lame du Tarot divinatoire (les atouts d'un jeu de tarot standard). La lame tirée decris l'esprit du critique.
 
 
 
