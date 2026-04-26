@@ -10,7 +10,7 @@
 ### Étapes pas à pas
 ### Attributs et Compétences
 ### Équipement de départ
-### Exemple : "Godefroy le Rustique"
+### Exemple : "Aldebert le simplet"
 
 ## Règles de Base
 ### Résolution des actions
@@ -28,7 +28,7 @@
 ### Boss et Légendaires
 ### Créer ses monstres
 
-## Le Monde de [Nom du Jeu]
+## Le monde de Sous les Cendres : les Runes et la Croix
 ### Histoire et Géographie
 ### Cultures et Factions
 ### Lieux Mythiques
