@@ -1,4 +1,4 @@
-# Livre des Règles – Sous les cendres : les Runes et la Croix
+# Codex des Règles – Sous les cendres : les Runes et la Croix
 
 ## Introduction
 
@@ -8,8 +8,8 @@
 
 ## Création de Personnage
 ### Étapes pas à pas
-### Attributs et Compétences
-### Équipement de départ
+### Organes et Humeurs
+### Opulence et équipement
 ### Exemple : "Aldebert le simplet"
 
 ## Règles de Base
