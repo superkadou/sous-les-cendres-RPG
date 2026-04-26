@@ -22,7 +22,7 @@
 * ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
 ## Les Secrets du Maistre des Conteurs
-* ### De l'Art d'Inuenter & de Tisser les Intrigues
+* ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
 * ### De la Conduite des Compagnons & de l'Entente à Table
 * ### De l'Ajustement des Loys & de l'Arbitrage
 
