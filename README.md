@@ -31,10 +31,6 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 ## [Table des matières](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/table-des-matieres.md)
 
 ## Note de l'auteur
-Voici une proposition pour ta **note de l'auteur** dans le README.md, écrite dans un ton **honête, pédagogique et immersif**, tout en assumant les choix créatifs :
-
----
-
 ### **Note de l’Auteur : Anachronismes et Licence Artistique**
 
 Ce jeu s’inspire de la **période médiévale (900–1100)** et de son imaginaire occulte, mais il n’a **pas la prétention d’être un simulacre historique rigoureux**. Certains éléments — qu’ils soient **mécaniques, visuels ou narratifs** — peuvent sembler **anachronistiques** ou stylistiquement hybrides (mêlant influences médiévales, renaissantes, voire modernes). Ces choix sont **délibérés** et répondent à trois objectifs principaux :
