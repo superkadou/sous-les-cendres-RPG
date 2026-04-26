@@ -20,17 +20,15 @@ Base : 1
 | **Bile noire** | Automne | Crépuscule | Mélancolique | Rate | Dépression, peurs, insomnies | Sauge, lavande, camomille, myrrhe, belladone, jusquiame, armoise | Plomb, onyx, ébène, miroirs noirs, encens noir, parchemins de peau de bouc |
 | **Phlegme** | Hiver | Soir | Flegmatique | Cerveau | Léthargie, toux, obésité | Menthe, guimauve, saule, lotier, valériane, mélisse, tilleul | Argent, cristal de roche, étain, soie, perles, coupes en étain, eau de source |
 
-l’humeur dominante d’un personnage façonne son caractère et influence ses actions. Chaque humeur est liée à une caractéristique (organe) et peut être utilisée pour améliorer les chances de réussite, mais au risque de provoquer une dyscrasie (déséquilibre) si elle est mal gérée.
+L’humeur dominante d’un personnage façonne son caractère et influence ses actions. Chaque humeur est liée à un Organe et peut être utilisée pour améliorer les chances de réussite, mais au risque de provoquer une dyscrasie (déséquilibre) si elle est mal gérée.
 
 1. Humeur Dominante et Caractère  
 L’humeur dominante définit le tempérament principal du personnage.
 
-Sang (lié au Cœur) : Passionné, courageux, impulsif.
-Bile Jaune (lié au Foie) : Colérique, ambitieux, énergique.
-Bile Noire (lié au Cerveau) : Mélancolique, stratégique, obsédé.
-Flegme (lié à la Rate) : Calme, résilient, patient.
-
-Bonus : L’humeur dominante confère un +1 aux jets de dés associés à sa caractéristique (ex : un personnage dominé par le Sang a +1 aux jets liés au Cœur).
+* Sang (lié au Cœur) : Passionné, courageux, impulsif.
+* Bile Jaune (lié au Foie) : Colérique, ambitieux, énergique.
+* Bile Noire (lié au Cerveau) : Mélancolique, stratégique, obsédé.
+* Flegme (lié à la Rate) : Calme, résilient, patient.
 
 2. Score de Base des Humeurs  
 Le score de base d’une humeur est égal à la moitié des points investis dans la caractéristique associée, arrondi à l’inférieur.
