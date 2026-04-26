@@ -8,6 +8,7 @@
 
 ## Création de Personnage
 ### Étapes pas à pas
+### Nom, Ordre social et Vocation
 ### Organes et Humeurs
 ### Opulence et équipement
 ### Exemple : "Aldebert le simplet"
