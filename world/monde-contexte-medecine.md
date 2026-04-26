@@ -158,3 +158,12 @@ Les humeurs sont aussi liées à des **croyances magiques** :
 - **Les sorcières** sont accusées de **dérégler les humeurs** (ex : un sort pour "faire bouillir le sang" d’un ennemi).
 - **Les guérisseurs** utilisent des **charmes** pour rééquilibrer les humeurs (ex : une **pierre chaude** appliquée sur le foie pour "sécher" la bile jaune).
 - **Les esprits** (comme les **lutins** ou les **fées**) sont censés **influencer les humeurs** (ex : un lutin qui "vole la bile noire" d’un paysan, le rendant insouciant)
+
+---
+# **L'équilibre au centre de la conception de la bonne santé dans la médecine médiévale (IXe–XIIe siècles)**
+
+## **1. Eucrasie**
+
+## **2. Dyscrasie**
+
+
