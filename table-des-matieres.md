@@ -1,7 +1,7 @@
 # Codex des Règles – Sous les cendres : les Runes et la Croix
 
 ## Prologue
-* ### Saluations & Bienuignance
+* ### [Saluations & Bienuignance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue-introduction.md)
 * ### De ce qu’est le Ieu de Parole
 * ### Mon Intention & Devisement
 * ### Du Harnois pour bien ouyr de ces contes
