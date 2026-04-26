@@ -27,17 +27,17 @@
 * ### De l'Ajustement des Loys & de l'Arbitrage
 
 ## L'Escrit des Diverses Créatures
-* ### Ennemis communs
-* ### Bêtes et monstres mythiques
-* ### Boss et créatures légendaires
-* ### Créer ses propres adversaires
+* ### Des Ennemys du Commun & Malandrins
+* ### Des Bestes Sauuages & Monstres de Légende
+* ### Des Grands Fléaux & Puissants Tyrans 
+* ### De l'Art de Façonner ses Propres Aduersaires
 
 ## Chroniques du monde de Sous les Cendres : les Runes et la Croix
-* ### [Histoire et Géographie](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-historique.md)
-* ### [Cultures et Société](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
-* ### [Médecine et croyances](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
-* ### [Le nom unique comme marqueur de son existence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
-* ### Lieux Mythiques
+* ### [Des Gestes du Passé & de l’Assise des Terres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-historique.md)
+* ### [Des Usages, Mœurs & Communs Estres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
+* ### [De l’Art de Guérir & de la Foy des Âmes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
+* ### [Du Nom Vnique : Tesmoin de l’Existance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
+* ### Des Lieux de Légende & Hautes Merveilles
 
 ## Gestes, Quêtes et Haulx Faicts
 * ### "La Malédiction du Moulin" (niveau 1)
@@ -46,13 +46,13 @@
 
 ## L’Escrit des Additions
 
-## Tables de référence
+## Des Tables de Consultation & de Fortune
 
-## Parchemins vierges
+## Des Parchemins Vierges pour la Mémoire des Faicts
 
-## Lexique
+## Petit Glossaire des Vieux Mots & Termes
 
-## Index
+## Table Alphabétique des Matières
 
 
 ---
