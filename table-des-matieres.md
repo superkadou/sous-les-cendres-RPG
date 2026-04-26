@@ -15,10 +15,11 @@
 ### [Exemple : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
 ## Règles de Base
-### Résolution des actions
-### Combats et Blessures
+### [Résolution des actions](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
+### [Combats et Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
 ### Magie et Pouvoirs
 ### Exploration et Voyages
+### [Expérience](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
 ## Guide du MJ
 ### Créer des aventures
