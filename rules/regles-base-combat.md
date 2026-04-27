@@ -1,13 +1,10 @@
-## **4. Combats**
+## **IV Combats**
 
-Les combats se déroulent en **assauts narratifs**, où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
+Les combats se déroulent en une suite d'**Assauts**, séquences actives où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
 
 ---
-
-### **Déroulement d’un Combat**
-
-#### 1. **Détermination des Bonus/Malus de Confrontation**
-Avant le combat, chaque protagoniste compare sa Rate, son **organe défensif** au Foie, l’**organe offensif** de son adversaire pour déterminer un **bonus ou malus de confrontation** pour toute la durée de l’affrontement.
+### 1. **Détermination des Bonus/Malus de Confrontation**
+Une seule fois, au tout début du combat, chaque protagoniste compare sa Rate, son **organe défensif** au Foie, l’**organe offensif** de son adversaire pour déterminer un **bonus ou malus de confrontation** pour toute la durée de l’affrontement.
 
 - **Si Foie (protagoniste 1) > Rate (protagoniste 2)** :
   Le protagoniste 1 obtient un **bonus de +1** à ses jets pour le combat.
@@ -22,8 +19,7 @@ Avant le combat, chaque protagoniste compare sa Rate, son **organe défensif** a
   *Justification* : Les deux protagonistes sont **de compétence égale**, et aucun ne semble prendre l’avantage sur l’autre.
 
 ---
-
-#### 2. **Résolution de l'assaut**
+### 2. **Résolution de l'assaut**
 
 Un combat se déroule en assaut, phase active durant laquelle les deux adversaires essaient activement de percer les defenses de l'ennemi.
 
@@ -39,8 +35,7 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
 | **Échec**                           | **2 Touches**         | **1 Touche**            | Rien                |
 
 ---
-
-#### **Exemple de Combat**
+### **Exemple de Combat**
 **Contexte** : Un *Bellatores* (Foie 5, Rate 3) affronte un *Laboratores* (Foie 2, Rate 4).
 
 1. **Détermination des bonus/malus de confrontation** :
@@ -55,25 +50,39 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
 3. **Round 2** :
    - *Bellatores* : 2D6 → 1 et 3 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
    - *Laboratores* : 2D6 → 2 et 5 → Comparé à Rate 4 + Malus de confrontation -1 → **Réussite partielle**.
-   - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Touche**.
+   - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Plaie**.
 
 ---
+### 4. **Combat contre des adversaires multiples**
 
-#### 3. **Résolution des touches**
+---
+### 4. **Virtus et Blessures**
 
-pwet
+La **Virtus** représente la capacité globale de votre personnage à encaissez les coups, la fatigue et les épreuves, tant physiques que morales. Elle se calcule comme la somme de vos scores en **Rate** et en **Cœur**. Chaque personnage possède un nombre de **Contusions** égal à sa **Virtus**.
 
-#### 4. **Santé et Blessures**
+Lors d’un combat ou d’une épreuve, vous accumulez des **Touches** à chaque coup réussi contre vous. Ces Touches occasionnent des Contusions. Dès que le total des Contusions atteint votre Virtus, vous subissez des **Plaies** :
 
-La **Virtus** représente la force vitale et la résistance du personnage. Chaque personnage possède un nombre de **plaie** égal à sa **Virtus + 3**.
+- **Plaie légère** : La première plaie inflige un malus de **-1 à toutes les actions**.
+- **Plaie profonde** : La deuxième plaie inflige un malus de **-2 à toutes les actions**.
+- **Plaie mortelle** : La troisième plaie **incapacite** le personnage. Il est incapable de se défendre et se retrouve à la merci de ses ennemis.
 
-- **Blessures Légères** : Les premières blessures (jusqu’à la valeur de Virtus) n’ont pas d’effet mécanique, mais peuvent avoir des conséquences narratives (ex : fatigue, douleur).
-- **Blessure** : La (Virtus + 1)ème blessure inflige un malus de **-1D à toutes les actions**.
-- **Blessure Grave** : La (Virtus + 2)ème blessure inflige un malus de **-2D à toutes les actions** et nécessite un jet de Virtus (difficulté 15) pour éviter le coma ou la mort.
+**Exemple** : Un personnage avec une Virtus de 7 subit 7 Touches → 1ère Plaie. S’il accumule 3 Touches supplémentaires (total 10), il subit une 2ème Plaie. Une 3ème Plaie survient à 11 Touches (7 + 3 + 1).
 
-### **Récupération**
+---
+### 5.  **Coup de grâce**
+
+---
+#### . **Guérison**
+
+Les **Contusions** se réinitialisent après un repos (10 minutes pour une réduction partielle, 1 scène pour une réinitialisation complète). Les **Plaies**, en revanche, nécessitent des soins ou un repos prolongé pour guérir.
 - **Repos Court** : Récupère une blessure légère.
 - **Repos Long** : Récupère toutes les blessures légères et une blessure grave.
 - **Soins Magiques ou Potions** : Peuvent accélérer la récupération, mais souvent au prix d’un effet secondaire (ex : corruption d’une humeur).
+
+- Plaie Légère : Guérit après 1 scène de repos (ou un jet de Cœur réussi).
+- Plaie Profonde : Nécessite 1 journée de soins (ou un jet de Cœur avec malus).
+- Plaie Mortelle : Intervention divine/magique obligatoire (coûte en Foi ou Réputation).
+
+
 
 
