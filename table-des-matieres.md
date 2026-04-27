@@ -18,13 +18,13 @@
 * ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
 * ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-combat.md)
 * ### [Des Arts Secrets, Magies & Haulx Pouuoirs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-magie.md)
-* ### De l'Errance, Voyages & Descouuertes
+* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-voyage.md)
 * ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
 
 ## Les Secrets du Maistre des Conteurs
-* ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
-* ### De la Conduite des Compagnons & de l'Entente à Table
-* ### De l'Ajustement des Loys & de l'Arbitrage
+* ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ.md)
+* ### [De la Conduite des Compagnons & de l'Entente à Table](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ.md)
+* ### [De l'Ajustement des Loys & de l'Arbitrage](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ.md)
 
 ## L'Escrit des Diverses Créatures
 * ### Des Ennemys du Commun & Malandrins
@@ -37,7 +37,7 @@
 * ### [Des Usages, Mœurs & Communs Estres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
 * ### [De l’Art de Guérir & de la Foy des Âmes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
 * ### [Du Nom Vnique : Tesmoin de l’Existance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
-* ### Des Lieux de Légende & Hautes Merveilles
+* ### [Des Lieux de Légende & Hautes Merveilles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-lieux.md)
 
 ## Gestes, Quêtes et Haulx Faicts
 * ### "La Malédiction du Moulin" (niveau 1)
@@ -56,57 +56,8 @@
 
 
 ---
+TODO
 
-
-
-1. Introduction (5–10 pages)
-Bienvenue : Ton du livre, remerciements, crédits.
-Qu’est-ce qu’un JDR ? : Explication basique pour les néophytes (rôle du MJ, des joueurs, exemples de parties).
-Concept du Jeu :
-Ambiance générale (heroic fantasy, horreur, médiéval historique…).
-Thèmes clés (ex : "Survie dans un monde brutal", "Héroïsme légendaire").
-Ce qui rend ce jeu unique (ex : "Un système basé sur les humeurs et les vocations").
-De quoi as-tu besoin ? : Dés, fiches, crayons, etc.
-
-2. Création de Personnage (20–30 pages)
-
-Étapes de Création :
-Ordre social : Archétype en une phrase (ex : "Un forgeron maudit cherchant rédemption").
-Vocation : Archétype en une phrase (ex : "Un forgeron maudit cherchant rédemption").
-Organes : Explication des caractéristiques de base (ex : Force, Agilité… ou tes organes/humeurs).
-Humeurs : Liste avec exemples.
-Opulence et équipement : Richesses, armes, armures, objets typiques.
-Détails Narratifs : Liens avec d’autres PJ, secrets, motivations.
-Exemple de Fiche : Une fiche remplie pour illustrer.
-
-3. Règles de Base (30–50 pages)
-(Cœur du livre : doit être organisé pour un accès rapide.)
-Mécaniques Fondamentales :
-
-
-Tests et Jets de Dés : Comment résoudre une action (ex : "Lance 2D6 + attribut, compare au seuil").
-Succès/Échecs : Degrés de réussite, critiques, fumbles.
-Combats :
-Tours, initiative, actions (attaque, défense, fuite).
-Dégâts, mort, blessures.
-Magie/Social :
-Coût, limites, exemples de sorts.
-Équipement et Ressources :
-Gestion de l’inventaire, usure, réparation.
-Récupération : Repos, soins, fatigue.
-Règles Sociales et Exploration :
-
-
-Négociation, intimidation, recherche d’informations.
-Voyages, dangers environnementaux, rencontres aléatoires.
-Exemples Concrets :
-
-
-Un combat pas à pas.
-Une scène sociale avec jets de dés.
-
-4. Règles pour le MJ (20–30 pages)
-(Guide pour diriger le jeu, équilibrer les défis, créer des histoires.)
 Rôle du MJ :
 Créer un monde vivant, improviser, gérer les règles.
 Création de Scénarios :
@@ -132,16 +83,9 @@ Création de Monstres :
 Template pour inventer ses propres ennemis.
 
 6. Monde et Contexte (15–25 pages)
-(L’univers du jeu : indispensable pour l’immersion.)
-Histoire et Géographie :
-Chronologie, cartes, factions, conflits majeurs.
-Cultures et Sociétés :
-Royaumes, guildes, religions, coutumes.
 Lieux Emblématiques :
 Villes, donjons, forêts maudites…
-Thèmes et Ton :
-"Un monde où la magie est rare mais redoutable."
-"La survie prime sur l’héroïsme."
+
 
 8. Annexes (10–20 pages)
 (Références utiles en jeu.)
