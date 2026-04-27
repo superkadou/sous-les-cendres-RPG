@@ -2,7 +2,7 @@
 
 ## Bienvenue 
 Ton du livre, remerciements, crédits.
-## [Qu’est-ce qu’un JDR ?](JDR)
+## [Qu’est-ce qu’un JDR ?](#jdr)
 Explication basique pour les néophytes (rôle du MJ, des joueurs, exemples de parties).
 Concept du Jeu :
 ## Ambiance générale 
