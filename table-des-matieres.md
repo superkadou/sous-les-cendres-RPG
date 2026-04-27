@@ -40,7 +40,7 @@
 * ### [Des Lieux de Légende & Hautes Merveilles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-lieux.md)
 
 ## Gestes, Quêtes et Haulx Faicts
-* ### "La Malédiction du Moulin" (niveau 1)
+* ### ["La Malédiction du Moulin" (niveau 1)](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/scenario-malediction-moulin.md)
 * ### "Le Serment du Chevalier Noir" (niveau 3)
 * ### "La Couronne des Ombres" (campagne)
 
