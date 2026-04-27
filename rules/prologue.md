@@ -16,6 +16,16 @@ Ici, nul n’est simple auditeur : tous sont **acteurs de leur propre légende**
 
 ## Mon Intention & Devisement
 
+Ce jeu n’est point né pour vous conter des légendes toutes faites, mais pour vous **donner les clés d’un monde où les choix ont le poids du fer et des serments**. Mon dessein est de vous offrir un **cadre où l’on joue des âmes ordinaires** — paysans, artisans, routiers, ou nobles déchus — **dans un monde où la magie est rare, subtile, et toujours dangereuse**. Un monde où la **foi se mêle aux anciennes croyances**, où les **humeurs du corps dictent le destin**, et où chaque décision peut sceller une gloire éphémère… ou une fin brutale.
+
+Je n’ai point cherché à créer un jeu où les héros sont invincibles, mais un **miroir des chroniques médiévales**, où la vie est fragile, où les **blessures laissent des cicatrices**, et où la **renommée se gagne au prix du sang**. Ici, les combats sont **courts, violents, et souvent mortels** — car la Virtus fléchit vite sous les coups du sort. Les **quêtes ne sont pas des épopées faciles**, mais des **épreuves où chaque victoire a un coût** : un serment brisé, une dette de sang, ou une âme entachée.
+
+Ce que je vous propose, c’est de **jouer des histoires où la survie est une victoire**, où les **personnages sont façonnés par leurs échecs autant que par leurs triomphes**, et où la **magie n’est pas un outil, mais un pacte**. Un pacte avec les saints, les démons, ou les forces obscures qui rôdent dans les ombres de l’ancien empire carolingien.
+
+Que vous souhaitiez **conter une tragédie rurale**, une **quête occulte**, ou une **intrigue de cour**, ce jeu est conçu pour vous donner les outils nécessaires — **sans vous imposer de chemin tout tracé**. Les règles sont là pour **guider**, non pour **entraver** : si une mécanique étouffe votre récit, brisez-la. Si un jet de dés semble injuste, **le Conteur a toujours le dernier mot** — car ici, l’histoire prime sur tout.
+
+En somme, mon **devisement** est simple : **forger des récits où la brutalité côtoie la poésie**, où les personnages sont **mortels, mais pas sans grandeur**, et où chaque session laisse une **trace indélébile** — comme une cicatrice, ou une légende murmurée au coin du feu.
+
 ## Du Harnois pour bien ouyr de ces contes
 Pour vous adonner à ce Jeu des Rôles, point n'est besoin de trésors, mais de :
 
