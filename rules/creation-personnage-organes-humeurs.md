@@ -13,6 +13,8 @@ Base : 1
 
 ## Humeurs 
 
+Le corps humain est gouverné par quatre Humeurs (liquides vitaux), chacune associée à un élément, une saison, un tempérament, et un organe principal. L’équilibre (eucrasie) de ces humeurs garantit la santé, tandis que leur déséquilibre (dyscrasie) provoque maladies, troubles mentaux et même des comportements pécheurs.
+
 | **Humeur** | **Saison**  | **Moment du jour** | **Tempérament** | **Organe** | **Dyscrasie** | **Plantes** | **Materiaux et objets** |
 |---|---|---|---|---|---|---|---|
 | **Sang** | Printemps | Aurore | Sanguin | Cœur |  Fièvre, saignements, excès de joie | Roses, vin rouge, cannelle, grenade, piment, guimauve | Cuivre, rubis, sang de dragon (résine), corail, étoffes rouges, clochettes |
@@ -64,12 +66,12 @@ Résultat : S’il échoue, il subit une dyscrasie (ex : devient trop passionné
 
 S’il dépense 3 pips de Sang (score > 4), il subit une dyscrasie automatique.
 
+## Virtus
 
-### Règles optionnelles
+**La Virtus, fondement de la résistance**
 
-#### 1
-Une personne est a son pic de forme quotidien au moment de la journée qui corresponds à son Humeur dominante. Elle bénéficie donc d'un bonus de +1 à toute action dépendante de l'Organe associé à son Humeur dominante. A l'inverse deux segments temporaires plus tard, son énergie est en berne. Elle hértie alros d'un malus de -1 à toute action dépendante de l'Organe asocié  à son Humeur dominante.
+À l’aube du Moyen Âge, la *Virtus* incarne bien plus que la simple vigueur du corps : elle est le souffle même qui anime l’être, cette **force vitale** où se mêlent la ténacité de l’âme et l’endurance de la chair. Les médecins, héritiers d’Hippocrate et de Galien, y voyaient l’équilibre fragile entre les humeurs et les organes, un rempart invisible contre les assauts du destin. Pour un paysan comme pour un chevalier, la Virtus détermine cette capacité à **tenir debout** malgré les coups du sort — qu’ils soient portés par une lame, une fièvre, ou le poids des serments brisés.
 
-#### 2
-Chaque humeur connait un cycle de pleine activité et de basse énergie.
-bisous
+Dans les joutes comme dans les épreuves, elle se mesure à l’aune de la **Rate**, siège de la mélancolie et de la persévérance, et du **Cœur**, foyer de l’ardeur et du courage. Quand elle fléchit, ce n’est pas seulement le corps qui vacille, mais aussi la volonté : une Virtus entamée, c’est l’esprit qui doute, le geste qui tremble, la voix qui faiblit face aux ombres du monde. Car ici, **résister, c’est survivre** — et survivre, c’est déjà triompher.
+
+Le score de base de la cactéristique Virtus est la somme du score de Rate et du score de Coeur.
