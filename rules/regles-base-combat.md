@@ -41,7 +41,7 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
 ---
 
 #### **Exemple de Combat**
-**Contexte** : Un *Bellatores* (Foie 5, Rate 3) affronte un *Laboratores* (Foie 2, Cœur 4).
+**Contexte** : Un *Bellatores* (Foie 5, Rate 3) affronte un *Laboratores* (Foie 2, Rate 4).
 
 1. **Détermination des bonus/malus de confrontation** :
    - *Bellatores* (Foie 5) vs *Laboratores* (Rate 4) → **5 > 4** → **Bonus de confrontation de +1 à l’attaque du Bellatores**.
