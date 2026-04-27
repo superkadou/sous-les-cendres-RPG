@@ -1,4 +1,4 @@
-## **IV Combats**
+## **II Combats**
 
 Les combats se déroulent en une suite d'**Assauts**, séquences actives où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
 
