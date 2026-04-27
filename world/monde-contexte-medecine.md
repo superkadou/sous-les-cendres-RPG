@@ -1,4 +1,4 @@
-# **Les quatre "organes" centraux (IXe–XIIe siècles) : émotions, force vitale resistance et raisonnement**
+# **[Les quatre "organes" centraux (IXe–XIIe siècles) : émotions, force vitale resistance et raisonnement](#organes)**
 
 Entre **900 et 1100**, la médecine en Europe médiévale s’appuie sur un **mélange de traditions** :
 - **L’héritage antique** (Hippocrate, Galien, transmise par les Arabes et les moines copistes),
@@ -97,7 +97,7 @@ Dans ce cadre, les **quatre "organes" principaux** — **le cœur, le foie, la r
 | Réservée aux **nobles** et aux **moines** | Accessible aux **paysans**, mais souvent **diabolisée** par l’Église |
 
 ---
-# **Les quatre humeurs dans la médecine médiévale (IXe–XIIe siècles) : équilibres, organes et croyances**
+# **[Les quatre humeurs dans la médecine médiévale (IXe–XIIe siècles) : équilibres, organes et croyances](#humeurs)**
 
 La médecine européenne médiévale repose sur la **théorie des humeurs**, héritée d’**Hippocrate** (Ve siècle av. J.-C.) et de **Galien** (IIe siècle ap. J.-C.), transmise par les **Arabes** (comme Avicenne) et les **moines copistes**. Selon cette théorie, le corps humain est gouverné par **quatre humeurs** (liquides vitaux), chacune associée à un **élément**, une **saison**, un **tempérament**, et un **organe principal**. L’**équilibre** (*eucrasie*) de ces humeurs garantit la santé, tandis que leur **déséquilibre** (*dyscrasie*) provoque maladies, troubles mentaux et même des **comportements pécheurs**.
 
@@ -160,7 +160,7 @@ Les humeurs sont aussi liées à des **croyances magiques** :
 - **Les esprits** (comme les **lutins** ou les **fées**) sont censés **influencer les humeurs** (ex : un lutin qui "vole la bile noire" d’un paysan, le rendant insouciant)
 
 ---
-# **L'équilibre au centre de la conception de la bonne santé dans la médecine médiévale (IXe–XIIe siècles)**
+# **[L'équilibre au centre de la conception de la bonne santé dans la médecine médiévale (IXe–XIIe siècles)](#equilibre)**
 
 ## **1. Eucrasie**
 
