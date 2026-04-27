@@ -1,4 +1,4 @@
-## **1. Tests et Jets de Dés**
+## **I. Tests et Jets de Dés**
 ### **Comment résoudre une action**
 Dans sous les cendres, les Runes et la Croix, les actions des personnages sont résolues à l’aide de **deux dés à six faces (2D6)**, comparés à une **valeur de compétence** déterminée par leurs **Organes** (Cœur, Foie, Cerveau, Rate). Un personnage peux faire appel à une **Humeur** (Sang, Bile Jaune, Bile Noire, Flegme) pour s'aider à la réussite d'une action.
 
