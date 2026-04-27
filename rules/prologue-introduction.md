@@ -7,6 +7,6 @@ Explication basique pour les néophytes (rôle du MJ, des joueurs, exemples de p
 Concept du Jeu :
 ## Ambiance générale 
 (heroic fantasy, horreur, médiéval historique…).
-## De quoi as-tu besoin ?
+## [De quoi as-tu besoin ?](#matos])
 : Dés, fiches, crayons, etc.
 
