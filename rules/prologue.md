@@ -1,14 +1,12 @@
 # Prologue
 
 ## Saluations & Bienuignance
-« À toi, qui passes l'huys de ce monde,
+À toi, qui passes l'huys de ce monde,
 Ce codex n’est point seulement rolle de reigles, ains porte ouverte sur des terres où les sermens pèsent comme l'acier, où les cendres des ancïens chuchotent encore aux oreilles des vivants, et où chaque choix peut forger légende… ou sépulcre. Que tu soies vilain aux mains durcies, chevalier aux armes rouillées de sang, ou ermite hanté par les visions des saints oubliés, ici est ton lieu.
 
 Ne te requérons point de maîtriser ces feuillets d'un seul regard, mais d’y perdre ton pas, comme l’en fait en forêt aux sentiers changeants. Les règles sont outils, non liens : brise-les si elles étouffent ton conte, mais souviens-toi que le fer, lui, ne plie pas toujours. Et si les dés te sont félons, si la Virtus de ton personnage fléchit trop tôt, sache que même les preux des vieilles chroniques trébuchèrent avant de choir.
 
-Prends donc siège près du feu, écoute le vent gémir entre les pierres, et joue. Que tes histoires soient sanglantes, sacrées, ou simplement survivantes — pourvu qu'elles soient tiennes. »
-
-— Les Gardeurs de ces Croniques.
+Prends donc siège près du feu, écoute le vent gémir entre les pierres, et joue. Que tes histoires soient sanglantes, sacrées, ou simplement survivantes — pourvu qu'elles soient tiennes. 
 
 ## De ce qu’est le Ieu de Parole
 
