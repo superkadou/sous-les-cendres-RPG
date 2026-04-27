@@ -1,10 +1,10 @@
 # Codex des Règles – Sous les cendres : les Runes et la Croix
 
 ## Prologue
-* ### [Saluations & Bienuignance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue-introduction.md)
-* ### De ce qu’est le Ieu de Parole
-* ### Mon Intention & Devisement
-* ### Du Harnois pour bien ouyr de ces contes
+* ### [Saluations & Bienuignance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue-introduction.md#bienvenue)
+* ### [De ce qu’est le Ieu de Parole](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue-introduction.md#jdr)
+* ### [Mon Intention & Devisement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue-introduction.md#ambiance-générale)
+* ### [Du Harnois pour bien ouyr de ces contes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue-introduction.md#de-quoi-as-tu-besoin-)
 
 ## De la Naissance des Braves & Hardis
 * ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage.md)
