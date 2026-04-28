@@ -65,7 +65,13 @@ Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action décle
 | XXI | Le Monde | Accomplissement, totalité, succès | Fin brutale, incomplétude, vanité |
 
 * #### **Améliorer son jet**
-A chaque jet de D protagnoiste peux piocher dans l'humeur associée à l'organe de résolution du test et augmenter son jet de D de +1. Il peux ainsi transformer un echec en reussite partielle, eviter un échec critique ou transformer une reussite en reussite critique. Attention toutefois, puiser dans ses réserves vitales n'est pas sans conséquences.
+Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour ajouter ou retrancher 1 à l’un de ses dés (avant ou après le jet).
+Cela lui permet de transformer un dé en échec (supérieur au seuil) en dé en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite complète, eviter un échec critique, ou transformer une réussite en réussite critique.
+
+Exemples :
+
+* Test de Cœur : Jet de 2D6 = 2 et 3 (seuil 3). Le joueur dépense 1 Sans pour transformer le 3 en 2 → Réussite totale => réussite critique.
+* Test de Rate : Jet de 2D6 = 5 et 6 (seuil 4). Le joueur dépense 1 Phlegme pour transformer le 5 en 4 → Echec => réussite partielle.
 
 ### **4. Actions non conflictuelles**
 Le seuil de difficulté pour une action non conflictuelle est calculée comme suit :
@@ -133,11 +139,8 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
    - *Laboratores* : 2D6 → 2 et 5 → Comparé à Foie 2 + modificateur de difficulté +0 → **Réussite partielle**.
    - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Touche**.
 
-### **7. Combats de groupe**
-
-
-
-
+### **7. Adversaires multiples**
+Chaque protagoniste attaquant la même cible au dela du niveau de Vocation de la cible ajoute un +1 au seuil de difficulté de chaque attaquant.
 
 
 
