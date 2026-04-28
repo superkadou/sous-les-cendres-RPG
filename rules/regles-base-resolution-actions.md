@@ -102,13 +102,13 @@ Le seuil de difficulté pour une action non conflictuelle est calculée comme su
 ### **6. Joutes & Combats**
 Dans sous les cendres, les Runes et la Croix, les Joutes sociales et militaires, ainsi queles combats sont résolus selon une mecanique identique. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
 
-Assauts
+* Assauts  
 Les joutes et combats se déroulent en une suite d'**Assauts**, séquences actives où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. 
 
-Modificateur de difficulté
+* Modificateur de difficulté  
 Chaque protagoniste détermine sa Difficulté de defense sur la table  des difficultés. On compare le score de l'**organe défensif** ajusté des bonus/malus d'equipement à la table des dififculte et on en déduit la difficulté à appliquer a l'adversaire pour reussir son Assaut.
 
-Resolution
+* Resolution  
 Lors de chaque assaut, chaque combattant effectue **un jet unique** :
 - 2D6 contre **Organe offensif + modificateur de difficulté +  Vocation (si applicable)**.
 
