@@ -1,13 +1,21 @@
-### **1. Le Principe des Jets d’Organes**
-Dans sous les cendres, les Runes et la Croix, les actions des personnages sont résolues à l’aide de **deux dés à six faces (2D6)**, comparés à un **seuil de compétence** déterminée par leurs **Organes**.
+# II. **De la Résolution des Actes & Entreprises**
 
-Role des organes
+### **1. Le Principe des Jets d’Organes**
+Dans sous les cendres, les Runes et la Croix, les actions des protagonistes sont résolues à l’aide de leurs **Organes**. Chaque organe est associé symboliquement a un ensemble d'actions et de concepts qui servira à résoudre.
+
+| Organe | Siege | Symbolique | Actions
+| --- | --- | --- | --- |
+| Coeur |  emotions | Volonté, émotion, endurance spirituelle | Courage, charisme, résistance morale, persuasion, leadership, amour |   
+| Foie | force vitale | Puissance brute, endurance, fougue | Force physique, artisanat, combat, travail manuel, colère | 
+| Cerveau | raison | Raison, calcul, savoir occulte |  Réflexion, stratégie, magie, connaissance, tromperie, mémoire |
+| Rate | fortitude | Persévérance, adaptabilité, résistance passive | Résilience, patience, survie, discrétion, intuition |  
+
+Cas particulier des combats physiques ou sociaux
 - Attaque : Foie (force/loghorée) ou Cerveau (précision/réthorique).
 - Défense : Coeur (résistance/volonté) ou Rate (esquive/opiniatreté).
 
-Un protagoniste non entrainé utilisera son Foie et son Coeur poour les actions physiques et son Cerveau et sa Rate pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
-     
----
+Un protagoniste non entrainé (ie sans Vocation expliquant un entrainement au maniement des armes) utilisera son Foie et son Coeur poour les actions physiques et son Cerveau et sa Rate pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
+
 ### **2. Les Degrés de Réussite**
 Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de compétence :
 - Si **les deux dés sont inférieurs ou égaux** à la valeur de compétence, c’est une **réussite complète**.
@@ -56,9 +64,7 @@ Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action décle
 | XX | Le Jugement | Renaissance, rédemption, appel | Culpabilité, regret, échec final |
 | XXI | Le Monde | Accomplissement, totalité, succès | Fin brutale, incomplétude, vanité |
 
-
----
-### **3. Actions non conflictuelles**
+### **4. Actions non conflictuelles**
 Le seuil de compétence pour une actioncontre difficulté statique est calculée comme suit :
 **Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur (si applicable) + modificateur de difficulté**
 - **Organes** : Chaque organe a une valeur (ex : Foie 3, Cœur 2), reflétant les capacités physiques et mentales du personnage.
@@ -79,7 +85,7 @@ Les modificateurs de difficulté s’appliquent au seuil de compétence pour dé
 | **Légendaire** | -7 | 1 | 7 |
 
 ---
-### **4. Actions conflictuelles**
+### **5. Actions conflictuelles**
    - **4.1.** Principe :
      - Deux personnages s’affrontent en lançant **2d6 + organe pertinent**.
    - **4.2.** Résolution :
@@ -87,7 +93,7 @@ Les modificateurs de difficulté s’appliquent au seuil de compétence pour dé
      En cas d'égalité, l'avantage va à la "defense" qui neutralise les tentative de son adversaire.
 
 ---
-### **5. Joutes & Combats**
+### **6. Joutes & Combats**
 Dans sous les cendres, les Runes et la Croix, les Joutes sociales et militaires, ainsi queles combats sont résolus selon une mecanique identique. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
 
 Assauts
@@ -127,7 +133,9 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
    - *Laboratores* : 2D6 → 2 et 5 → Comparé à Foie 2 + modificateur de difficulté +0 → **Réussite partielle**.
    - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Touche**.
 
-### ** 6. Virtus et Blessures**
+### **7. Combats de groupe**
+
+### **8. Virtus et Blessures**
 Chaque Touche deviens une Plaie. Une fois que le protagniste encaisse autant de Plaie que son score de Virtus, Il encaisse désormais des Plaies serieuses graves et mortelles.
 * La premiere Blessure est sérieuse et occasionne un malus cumulatif de -1 à toutes les actions jusqu'a sa guérison.
 * La deuxieme blessure est grave et occasionne un deuxieme malus cumulatif de -1 à toutes les actions jusqu'a sa guerison.
@@ -138,9 +146,6 @@ Les joutes sociales n'infligent que des plaies légères. Un personnage qui a é
 Un echec critique non neutralise par un echec critique opposé met fin a la joute et disqualifie automatiquement le protagnoiste qui se ridiculise.
 Une reussite critique non neutralisee par une reussite critique opposé met fin a la joute et entraine la victoire automatique du protagoniste dont la reputation se trouve renforcée.
 
-### 7. Récupération et guérison
-
----
 
 
 
