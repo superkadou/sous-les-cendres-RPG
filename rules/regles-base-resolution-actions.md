@@ -1,15 +1,14 @@
 ## **I. Tests et Jets de Dés**
-### **Comment résoudre une action**
+### **1. Comment résoudre une action**
 Dans sous les cendres, les Runes et la Croix, les actions des personnages sont résolues à l’aide de **deux dés à six faces (2D6)**, comparés à une **valeur de compétence** déterminée par leurs **Organes** (Cœur, Foie, Cerveau, Rate). Un personnage peux faire appel à une **Humeur** (Sang, Bile Jaune, Bile Noire, Flegme) pour s'aider à la réussite d'une action.
 
-### **Seuil de Compétence**
+* #### **Seuil de Compétence**
 Le seuil de compétence pour une action donnée est calculée comme suit :
 **Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur (si applicable) + modificateur de difficulté**
 - **Organes** : Chaque organe a une valeur (ex : Foie 3, Cœur 2), reflétant les capacités physiques et mentales du personnage.
-- **Humeurs** : Les point d’humeurs peuvent être dépensés pour ajouter un bonus temporaire au seuil de compétence : 1 point = +1 au seuil de difficulté.
 - **modificateur de difficulté** : chaque action est plus ou moins facile à réussir.
 
-### **Table des Difficultés**
+* #### **Table des Difficultés**
 Les modificateurs de difficulté s’appliquent au seuil de compétence pour déterminer le seuil de réussite.
 
 | **Niveau de Difficulté** | **Modificateur** | **Seuil Minimal** |
@@ -25,32 +24,33 @@ Les modificateurs de difficulté s’appliquent au seuil de compétence pour dé
 
 ---
 
-## **2. Succès et Échecs**
+### **2. Succès et Échecs**
 
 Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de compétence :
 - Si **les deux dés sont inférieurs ou égaux** à la valeur de compétence, c’est une **réussite complète**.
 - Si **un dé est inférieur ou égal et l’autre supérieur**, c’est une **réussite partielle**.
 - Si **les deux dés sont supérieurs**, c’est un **échec**.
   
-### **Réussite Complète**
+* #### **Réussite Complète**
 Lorsque les deux dés sont inférieurs ou égaux au seuil de compétence, l’action est accomplie sans encombre. Le personnage obtient exactement ce qu’il souhaitait, sans effet secondaire.
 
-### **Réussite Partielle**
+* #### **Réussite Partielle**
 Lorsque l’un des dés est inférieur ou égal au seuil de compétence et l’autre supérieur, l’action est accomplie, mais **au prix d’un coût supplémentaire**. Ce coût peut prendre plusieurs formes au choix du MJ :
 - **Temps supplémentaire** : La tâche prend plus de temps que prévu.
 - **Ressources supplémentaires consommées** : Des matériaux ou des outils sont endommagés ou perdus.
 - **Effet secondaire** : Une conséquence mineure mais gênante se produit (ex : une arme se coince, un PNJ devient méfiant).
 
-### **Échec**
+* #### **Échec**
 Lorsque les deux dés sont supérieurs au seuil de compétence, l’action échoue. 
 
 ---
 
-## **3. Critiques et Fumbles**
+### **3. Critiques et Fumbles**
 
 Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un critique & une reussite est une reussite critique tandis qu'un critiquee et un echec est un fumble. Dans les deux cas, un tirage dans un jeu de **tarot médiéval** détermine l’effet exact
 
-### Interprétation des 22 lames : 
+* #### Interprétation des 22 lames : 
+
 | N° | Lame | Aspects positifs | Aspects négatifs |
 | --- | --- | --- | --- |
 | 0 | Le Mat (L'excuse) | Liberté, début, spontanéité, folie | Imprudence, chaos, inconséquence |
@@ -76,7 +76,6 @@ Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action décle
 | XX | Le Jugement | Renaissance, rédemption, appel | Culpabilité, regret, échec final |
 | XXI | Le Monde | Accomplissement, totalité, succès | Fin brutale, incomplétude, vanité |
 
-Les critiques ajoutent une couche de **dramatisme et d’imprévisibilité**, reflétant les forces surnaturelles et le destin à l’œuvre dans ce monde.
 
 
 
