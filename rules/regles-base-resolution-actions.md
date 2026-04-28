@@ -140,9 +140,8 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
    - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Touche**.
 
 ### **7. Adversaires multiples**
-Chaque protagoniste attaquant la même cible au dela du niveau de Vocation de la cible ajoute un +1 au seuil de difficulté de chaque attaquant.
+Chaque protagoniste attaquant la même cible au-dela du niveau de Vocation de la cible ajoute un +1 au seuil de difficulté de chaque attaquant. 
 
-
-
-
+### **8. Combat de masse***
+TBD
 
