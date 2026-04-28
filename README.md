@@ -7,22 +7,11 @@ Une aventure médiévale basée sur la théorie des humeurs et l'équilibre des 
 ##  Présentation
 Sous les cendres : les Runes et la Croix est un jeu de rôle indépendant qui plonge les joueurs dans un univers inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
 
-## Le Système des Humeurs
-Le gameplay repose sur les quatre Organes et Humeurs fondamentales de la médecine médiévale :
-
-| Humeur | Organe | Tempérament |
-| :--- | :--- | :--- |
-| **Sang** | Cœur | Sanguin (Énergie, Charisme) |
-| **Phlegme** | Cerveau | Lymphatique (Calme, Analyse) |
-| **Bile Jaune** | Foie | Colérique (Action, Force) |
-| **Bile Noire** | Rate | Mélancolique (Résistance, Intuition) |
-
-
 ## Installation & Utilisation
 Le projet est conçu pour être "Print & Play" ou utilisé via des outils numériques.
 * Les fichiers de règles se trouvent dans le dossier `/rules`.
 * Les fichiers de description du contexte geographique et social se trouvent dans le dossier `/world`.
-* Les fiches de personnage sont dans le dossier `/assets`.
+* Les fiches de personnage et scenario d'exemple sont dans le dossier `/assets`.
 
 ## [Licence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/LICENSE.md) 
 
@@ -30,10 +19,9 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 
 ## [Table des matières](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/table-des-matieres.md)
 
-## Note de l'auteur
-### **Note de l’Auteur : Anachronismes et Licence Artistique**
+## Note de l’Auteur : Anachronismes et Licence Artistique
 
-Ce jeu s’inspire de la **période médiévale (900–1100)** et de son imaginaire occulte, mais il n’a **pas la prétention d’être un simulacre historique rigoureux**. Certains éléments — qu’ils soient **mécaniques, visuels ou narratifs** — peuvent sembler **anachronistiques** ou stylistiquement hybrides (mêlant influences médiévales, renaissantes, voire modernes). Ces choix sont **délibérés** et répondent à trois objectifs principaux :
+Ce jeu s’inspire de la **période médiévale (900–1100)** et de son imaginaire occulte, mais il n’a **pas la prétention d’être un simulacre historique rigoureux**. Certains éléments — qu’ils soient **mécaniques, visuels ou narratifs** — peuvent sembler **anachroniques** ou stylistiquement hybrides (mêlant influences médiévales, renaissantes, voire modernes). Ces choix sont **délibérés** et répondent à trois objectifs principaux :
 
 1. **La Jouabilité** :
    Les règles et les archétypes sont conçus pour **faciliter l’immersion et le plaisir de jeu**, pas pour reproduire fidèlement les contraintes historiques. Par exemple, les **fiches de personnages** mélangent des esthétiques **médiévales et renaissantes** (armures, costumes, accessoires) pour offrir une **lisibilité visuelle** et une **identification immédiate** aux joueurs, sans sacrifier l’ambiance.
@@ -45,9 +33,9 @@ Ce jeu s’inspire de la **période médiévale (900–1100)** et de son imagina
    Certains termes, mécaniques ou représentations visuelles sont **modernisés ou simplifiés** pour être **compréhensibles et utilisables** sans nécessiter un doctorat en histoire médiévale. L’objectif est de permettre à tous les joueurs — qu’ils soient **historiens ou néophytes** — de s’approprier rapidement l’univers et de se concentrer sur **l’aventure et le récit**.
 
 #### **Exemples Conscients d’Anachronismes**
-- **Les fiches de personnages** : Les illustrations mêlent des éléments **médiévaux** (cottes de mailles, épées) et **renaissants** (détails ornés, couleurs vives) pour un rendu **esthétique et évocateur**, même si cela sort du cadre strict du IXe–XIe siècle.
-- **Certains termes** : Des mots comme *"entregent"* (emprunté à une époque ultérieure) ou *"prudhomie"* (adapté pour coller au concept) sont utilisés pour leur **résonance** plutôt que leur exactitude historique.
-- **Les mécaniques de jeu** : Les **humeurs**, les **organes** ou les **jets de tarot** sont des **outils narratifs** inspirés de théories médiévales (comme les humeurs d’Hippocrate), mais **simplifiés et adaptés** pour le jeu de rôle.
+- **Les fiches de personnages** : Les illustrations mêlent des éléments **médiévaux** et **renaissants** pour un rendu **esthétique et évocateur**, même si cela sort du cadre strict du IXe–XIe siècle.
+- **Certains termes** : Des mots comme *"entregent"* ou *"prudhomie"* sont utilisés pour leur **résonance** plutôt que leur exactitude historique.
+- **Les mécaniques de jeu** : Les **humeurs**, les **organes** ou les **jets de tarot** sont des **outils narratifs** inspirés de théories médiévales, mais **simplifiés et adaptés** pour le jeu de rôle.
 
 #### **Pourquoi Ces Choix ?**
 Ce jeu est avant tout une **œuvre de fiction collaborative**, pas un **manuel d’histoire**. Les anachronismes et les libertés prises le sont au service de :
@@ -59,7 +47,7 @@ Si vous êtes **puriste**, libre à vous d’adapter les éléments pour coller 
 
 ---
 **En résumé** :
-*"Ici, le Moyen Âge est un rêve éveillé, pas une reconstitution. Prenez ces règles et ce monde comme une toile sur laquelle peindre vos aventures — avec toute la liberté (et les anachronismes) que cela implique."*
+*"Ici, le Moyen Âge est un rêve éveillé partagé, pas une reconstitution historique. Prenez ces règles et ce monde comme une toile sur laquelle peindre vos aventures — avec toute la liberté (et les anachronismes) que cela implique."*
 
 — *superkadou, auteur*
 ---
