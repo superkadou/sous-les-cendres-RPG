@@ -17,10 +17,10 @@ Cas particulier des combats physiques ou sociaux
 Un protagoniste non entrainé (ie sans Vocation expliquant un entrainement au maniement des armes) utilisera son Foie et son Coeur poour les actions physiques et son Cerveau et sa Rate pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
 
 ### **2. Les Degrés de Réussite**
-Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de compétence :
-- Si **les deux dés sont inférieurs ou égaux** à la valeur de compétence, c’est une **réussite complète**.
-- Si **un dé est inférieur ou égal et l’autre supérieur**, c’est une **réussite partielle**.
-- Si **les deux dés sont supérieurs**, c’est un **échec**.
+Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de difficulté :
+- Si **les deux dés sont inférieurs ou égaux** au seuil de difficulté, c’est une **réussite complète**.
+- Si **un dé est inférieur ou égal et l’autre supérieur** au seuil de difficulté, c’est une **réussite partielle**.
+- Si **les deux dés sont supérieurs** au seuil de difficulté, c’est un **échec**.
   
 * #### **Réussite Complète**
 Lorsque les deux dés sont inférieurs ou égaux au seuil de compétence, l’action est accomplie sans encombre. Le personnage obtient exactement ce qu’il souhaitait, sans effet secondaire.
@@ -34,7 +34,7 @@ Lorsque l’un des dés est inférieur ou égal au seuil de compétence et l’a
 * #### **Échec**
 Lorsque les deux dés sont supérieurs au seuil de compétence, l’action échoue. 
 
-### 3. critique
+* ### **Critique**
 Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un critique & une reussite est une reussite critique tandis qu'un critiquee et un echec est un fumble. Dans les deux cas, un tirage dans un jeu de **tarot médiéval** détermine l’effet exact
 
 * #### Interprétation des 22 lames : 
@@ -64,33 +64,33 @@ Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action décle
 | XX | Le Jugement | Renaissance, rédemption, appel | Culpabilité, regret, échec final |
 | XXI | Le Monde | Accomplissement, totalité, succès | Fin brutale, incomplétude, vanité |
 
+* #### **Améliorer son jet**
+A chaque jet de D protagnoiste peux piocher dans l'humeur associée à l'organe de résolution du test et augmenter son jet de D de +1. Il peux ainsi transformer un echec en reussite partielle, eviter un échec critique ou transformer une reussite en reussite critique. Attention toutefois, puiser dans ses réserves vitales n'est pas sans conséquences.
+
 ### **4. Actions non conflictuelles**
-Le seuil de compétence pour une actioncontre difficulté statique est calculée comme suit :
-**Seuil de compétence = Valeur de l’Organe pertinent + Bonus d'Humeur (si applicable) + modificateur de difficulté**
-- **Organes** : Chaque organe a une valeur (ex : Foie 3, Cœur 2), reflétant les capacités physiques et mentales du personnage.
-- **modificateur de difficulté** : chaque action est plus ou moins facile à réussir.
+Le seuil de difficulté pour une action non conflictuelle est calculée comme suit :
+**Seuil de difficulté = Valeur de l’Organe pertinent + modificateur de difficulté**
 
-* #### **Table des Difficultés**
-Les modificateurs de difficulté s’appliquent au seuil de compétence pour déterminer le seuil de réussite.
+* #### **Table des modificateur de difficulté**
 
-| **Niveau de Difficulté** | **Modificateur** | **Seuil Minimal** | **Equivalence Organe** |
-| --- | --- | --- | --- |
-| **Automatique** | +5 | - | 0 |
-| **Trivial** | +3 | -  | 1 |
-| **Simple** | +2 | - | 2 |
-| **Modéré** | +0 | - | 3 |
-| **Difficile** | -2 | - | 4 |
-| **Très Difficile** | -3 | 2 | 5 |
-| **Héroïque** | -5 | 1 | 6 |
-| **Légendaire** | -7 | 1 | 7 |
+| **Niveau de Difficulté** | **Modificateur** | **Equivalence Organe** |
+| --- | --- | --- |
+| **Automatique** | +5 | 0 |
+| **Trivial** | +3 | 1 |
+| **Simple** | +2 | 2 |
+| **Modéré** | +0 | 3 |
+| **Difficile** | -2 | 4 |
+| **Très Difficile** | -3 | 5 |
+| **Héroïque** | -5 | 6 |
+| **Légendaire** | -7 | 7 |
 
 ---
 ### **5. Actions conflictuelles**
-   - **4.1.** Principe :
-     - Deux personnages s’affrontent en lançant **2d6 + organe pertinent**.
-   - **4.2.** Résolution :
+* Principe :
+     - Deux protagonistes s’affrontent en lançant chacun **2d6 + organe pertinent** contre la difficulté associée à la valeur de l'organe opposé
+* Résolution :
      - reussite critique > reussite totale > reussite partielle > echec > echec critique
-     En cas d'égalité, l'avantage va à la "defense" qui neutralise les tentative de son adversaire.
+     En cas d'égalité, l'avantage va à la "defense" qui neutralise la tentative de son adversaire.
 
 ---
 ### **6. Joutes & Combats**
@@ -110,7 +110,7 @@ La Vocation représente les compétencess acquises par l'expérience. Elles n'em
 Les résultats des jets sont ensuite comparés selon le tableau suivant :
 
 | **Protagoniste 1 \ Protagoniste 2** | **Réussite Complète** | **Réussite Partielle** | **Échec**  |
-| ---| --- | ---| ---|
+| --- | --- | ---| --- |
 | **Réussite Complète** | Rien | **1 Touche** | **2 Touches** |
 | **Réussite Partielle** | **1 Touche** | Rien | **1 Touche** |
 | **Échec** | **2 Touches** | **1 Touche** | Rien |
@@ -135,16 +135,6 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
 
 ### **7. Combats de groupe**
 
-### **8. Virtus et Blessures**
-Chaque Touche deviens une Plaie. Une fois que le protagniste encaisse autant de Plaie que son score de Virtus, Il encaisse désormais des Plaies serieuses graves et mortelles.
-* La premiere Blessure est sérieuse et occasionne un malus cumulatif de -1 à toutes les actions jusqu'a sa guérison.
-* La deuxieme blessure est grave et occasionne un deuxieme malus cumulatif de -1 à toutes les actions jusqu'a sa guerison.
-* La troisième blessure est mortelle et occasionne un deuxieme malus cumulatif de -1 à toutes les actions jusqu'a sa guerison. De plus le protagoniste est incapable d'effectuer la moindre action d'une difficulté supérieure à trivial.
-
-Cas particulier d'une jouste sociale
-Les joutes sociales n'infligent que des plaies légères. Un personnage qui a épuisé sa Virtus est automatiquement vaincu par la loghorrée et la réthorique adverse.
-Un echec critique non neutralise par un echec critique opposé met fin a la joute et disqualifie automatiquement le protagnoiste qui se ridiculise.
-Une reussite critique non neutralisee par une reussite critique opposé met fin a la joute et entraine la victoire automatique du protagoniste dont la reputation se trouve renforcée.
 
 
 
