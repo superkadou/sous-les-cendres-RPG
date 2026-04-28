@@ -53,7 +53,7 @@ Les résultats des jets sont ensuite comparés selon le tableau suivant :
    - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Plaie**.
 
 ---
-### 4. **Combat contre des adversaires multiples**
+### 3. **Combat contre des adversaires multiples**
 
 ---
 ### 4. **Virtus et Blessures**
@@ -72,7 +72,7 @@ Lors d’un combat ou d’une épreuve, vous accumulez des **Touches** à chaque
 ### 5.  **Coup de grâce**
 
 ---
-#### . **Guérison**
+### 6. **Guérison**
 
 Les **Contusions** se réinitialisent après un repos (10 minutes pour une réduction partielle, 1 scène pour une réinitialisation complète). Les **Plaies**, en revanche, nécessitent des soins ou un repos prolongé pour guérir.
 - **Repos Court** : Récupère une blessure légère.
