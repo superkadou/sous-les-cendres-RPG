@@ -2,8 +2,10 @@
 Dans sous les cendres, les Runes et la Croix, les actions des personnages sont résolues à l’aide de **deux dés à six faces (2D6)**, comparés à un **seuil de compétence** déterminée par leurs **Organes**.
 
 Role des organes
-     - Attaque : Foie (force/loghorée) ou Cerveau (précision/réthorique).
-     - Défense : Rate (esquive/opiniatreté) ou Cœur (résistance/volonté).
+- Attaque : Foie (force/loghorée) ou Cerveau (précision/réthorique).
+- Défense : Coeur (résistance/volonté) ou Rate (esquive/opiniatreté).
+
+Un protagoniste non entrainé utilisera son Foie et son Coeur poour les actions physiques et son Cerveau et sa Rate pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
      
 ---
 ### **2. Les Degrés de Réussite**
