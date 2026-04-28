@@ -1,4 +1,4 @@
-## Création de Personnage
+# II. De la Naissance des Braves & Hardis
 1. Choisir de l'[Ordre, de la Vocation et du Nom](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
 2. Choisir l'[Humeur](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md) dominante
 3. Répartir 10 points entre [Ordre, Vocation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md), [Organes, Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md) et [Opulence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md) en plus des valeurs de base.
