@@ -69,19 +69,15 @@ Lors d’un combat ou d’une épreuve, vous accumulez des **Touches** à chaque
 **Exemple** : Un personnage avec une Virtus de 7 subit 7 Touches → 1ère Plaie. S’il accumule 3 Touches supplémentaires (total 10), il subit une 2ème Plaie. Une 3ème Plaie survient à 11 Touches (7 + 3 + 1).
 
 ---
-### 5.  **Coup de grâce**
+### 5.  **la Miséricorde**
+Un protagoniste peux demander la fin du combat et se déclare vaincu à tout moment. Il appartiens alors au vainqueur de decide que faire : accorder la Misericorde ou la refuser. Il est évident qu'un jacques aura plus de chance d'obtenier miséricorde d'un chevalier que d'un brigand, sans aucune garnatie néanmoins.
+
+Le protagoniste, jette son arme au sol et leves les mains et/ou met un genou a terre en signe de reddition. 
+Le vainqueur peux alors poser le bout de son arme sur l'epaule du vaincu qui baisse la tete et tends les mains pour signifier sa soumission. Le vaincu sera probablement redevable d'une rançon, d'un serment de lyauté ou subir une mutilation en guise de punition. De la prison, de la torture ou du servage sont également possible selon les cas.
+Si le vainqueur peux egalement refuser et tuer le vaincu sommairement. Notamment en cas de duel judiciaire à mort.
 
 ---
-### 6. **Guérison**
-
-Les **Contusions** se réinitialisent après un repos (10 minutes pour une réduction partielle, 1 scène pour une réinitialisation complète). Les **Plaies**, en revanche, nécessitent des soins ou un repos prolongé pour guérir.
-- **Repos Court** : Récupère une blessure légère.
-- **Repos Long** : Récupère toutes les blessures légères et une blessure grave.
-- **Soins Magiques ou Potions** : Peuvent accélérer la récupération, mais souvent au prix d’un effet secondaire (ex : corruption d’une humeur).
-
-- Plaie Légère : Guérit après 1 scène de repos (ou un jet de Cœur réussi).
-- Plaie Profonde : Nécessite 1 journée de soins (ou un jet de Cœur avec malus).
-- Plaie Mortelle : Intervention divine/magique obligatoire (coûte en Foi ou Réputation).
+### 6. **Coup de grâce**
 
 
 
