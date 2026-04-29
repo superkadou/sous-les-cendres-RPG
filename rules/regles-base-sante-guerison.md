@@ -1,6 +1,6 @@
 
 ### **1. Virtus et Blessures**
-Chaque Touche deviens une Plaie. Une fois que le protagniste a encaissé autant de Plaies que son score de Virtus, il fait désormais dface a des blessures plus sérieuses.
+Chaque Touche deviens une Plaie. Une fois que le protagoniste a encaissé autant de Plaies que son score de Virtus, il fait désormais face à des blessures plus sérieuses.
 * Le premier Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne un Estour. Il s'accompagne d'un malus cumulatif de -1 à toutes les actions jusqu'à sa guérison.
 * Le deuxieme Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Plie. Elles s'accomapgne d'un deuxieme malus cumulatif de -1 à toutes les actions jusqu'à sa guerison.
 * Le troisieème Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Grieve Blessure. Elle s'accompagne d'un troisième malus cumulatif de -1 à toutes les actions jusqu'à sa guerison. De plus le protagoniste est incapable d'effectuer la moindre action d'une difficulté supérieure à trivial jusqu'à sa guérison.
@@ -10,7 +10,7 @@ Les joutes sociales n'infligent que des plaies légères. Un personnage qui a é
 Un echec critique non neutralise par un echec critique opposé met fin a la joute et disqualifie automatiquement le protagnoiste qui se ridiculise.
 Une reussite critique non neutralisee par une reussite critique opposé met fin a la joute et entraine la victoire automatique du protagoniste dont la reputation se trouve renforcée.
 
-### **2. Dyscrasie  **
+### **2. Dyscrasie**
 À la fin de chaque scène impliquant l'utilisation d'un ou plusieurs points d'hgumeur, le personnage doit luter contre les effets de la dyscrasie.
 
 Jet : Lance 2D6 contre son score d'humeur ajuste du modificateur de difficulté correspondant au score actuel de l’humeur (ex : Phlegme 2 → difficulté -3 ).
@@ -24,7 +24,7 @@ Si le score d'une humeur dépasse celui de l'humeur dominante, le personnage tom
 Suite à une confrontation physique les plaies légères s'effacent à raison de 1 par 24h de repos sans combat.
 Les Estour et Plies se soignent automatiquement une fois la Virtus intégralement récupérée. La guérison naturelle avance au rythme de 1 blessure par semaine sans effort physique violent. Les Grièves Blessures nécessitent des soins et un repos total pour guerir
 
-Suite à une jouste sociale, un repos d'une durée égale au scoare de Virtus en heures suffit à récupérer les plaies mentales infligés par la confrontation.
+Suite à une jouste sociale, un repos d'une durée égale au score de Virtus en heures suffit à récupérer les plaies mentales infligées par la confrontation.
 
 La récupération de points d'humeur passe par le repos et la mise en contact avec des éléments associés à l'humeur que l'on souhaite restorer.
 
@@ -39,3 +39,35 @@ Le seul moyen de soigner une dyscrasie est de rééquilibrer les humeurs en rega
 
 ### **4. Guérison**
 
+#### **1. Médecine populaire**
+
+| **Méthode** | **Type de blessure** | **Durée** | **Coût** | **Jet (Difficulté)** | **Effet**  | **Risque**  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Cataplasme de plantes** | Estour / Plie | 1 heure | 1 Opulence (herbes)    | Prudhomie (3) | -1 Plaie | 10% d’infection (+1 Plaie)  |
+| **Ligature en toile**    | Plie | 1 jour | Aucun | Prudhomie (4) | -1 Plaie | Immobilisation (1 jour)  |
+| **Bain de cendre**        | Plie / Corruption | 1 jour | 1 Opulence (cendres) | Prudhomie (5) | -1 Plaie + neutralise 1 corruption | 5% de déséquilibre (bile noire) |
+| **Alcool et feu**        | Plie | 1 heure | 1 Opulence (alcool) | Entregent (4) | -1 Plaie | -1 pip de bile jaune |
+| **Massage aux huiles**   | Estour | 30 min | 1 Opulence (huile) | Prudhomie (2) | -1 Plaie | Aucun |
+| **Amputation rustique**  | Griève (membre) | Permanent | 2 Opulences (outils) | Prudhomie (6) | Supprime la Griève | -1 Virtus (handicap permanent) |
+
+#### **2. Médecine savante**
+
+| **Méthode**               | **Type de blessure** | **Durée**       | **Coût**               | **Jet (Difficulté)** | **Effet**                          | **Risque**                     |
+|--------------------------|----------------------|-----------------|------------------------|----------------------|------------------------------------|--------------------------------|
+| **Bénédiction mineure**  | Estour / Plie        | Instantané      | 1 pip de sanguin       | Verbe (3)            | -1 Plaie                           | 5% de doute (-1 pip de sanguin) |
+| **Imposition des mains** | Plie / Griève        | 1 heure         | 2 pips de sanguin      | Verbe (5)            | -2 Plaies                          | Fatigue (-1D physique, 1 jour) |
+| **Sangsuage**            | Griève (déséquilibre humoral) | 1 jour | 1 Opulence (ventouses) | Verbe (4) | -1 Plaie + équilibre 1 humeur | 10% d’affaiblissement (-1 pip aléatoire) |
+| **Onguent sacré**        | Plie                 | 1 jour          | 2 Opulences            | Verbe (4)            | -1 Plaie + neutralise infection  | Aucun                          |
+| **Chirurgie monacale**   | Griève               | 3 jours         | 3 Opulences (outils)   | Verbe (6)            | -2 Plaies                          | 20% de fièvre (+1 Plaie)       |
+| **Jeûne et prière**      | Toutes               | 1 semaine       | 1 Virtus (foi)         | Verbe (5)            | -1 Plaie/jour (max 3)              | 5% de vision divine (bonus narratif) |
+
+#### **3. Médecine magique**
+
+| **Méthode**               | **Type de blessure** | **Durée**       | **Coût**               | **Jet (Difficulté)** | **Effet**                          | **Risque**                     |
+|--------------------------|----------------------|-----------------|------------------------|----------------------|------------------------------------|--------------------------------|
+| **Rune de guérison**     | Estour / Plie        | 1 jour          | 1 Opulence (rune)      | Verbe (4)            | -1 Plaie/jour (max 3)              | 10% de corruption (+1 bile noire) |
+| **Potion alchimique**    | Plie / Griève        | Instantané      | 2 Opulences + 1 pip bile noire | Prudhomie (5) | -2 Plaies | 30% d’effet secondaire (hallucinations, -1D mental) |
+| **Pacte avec un esprit** | Griève               | Instantané      | 1 Virtus + 1 objet personnel | Verbe (7) | Guérit toutes les Plaies | +2 pips de bile noire + malédiction mineure |
+| **Miracle divin**        | Toutes               | Instantané      | 3 Virtus + objet sacré | Verbe (8) | Guérit toutes les Plaies | Marqué par Dieu (démons/cible ou bénédiction) |
+| **Exorcisme**            | Corruption           | 10 min          | 1 Virtus               | Verbe (6)            | Supprime 1 corruption             | 20% d’attirer un démon mineur |
+| **Sort de régénération**| Griève               | 1 heure         | 2 pips de sanguin      | Verbe (7)            | -3 Plaies                          | 15% de perte de mémoire (oubli temporaire) |
