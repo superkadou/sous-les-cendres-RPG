@@ -13,6 +13,7 @@ La table est un cercle de confiance où la parole de chacun doit peser avec équ
 *   **L’Accueil des Néophytes :** Soyez un guide patient pour ceux qui découvrent les usages du jeu. Privilégiez l’action au calcul et l’image à la statistique. Proposez des choix clairs pour délier les langues.
 *   **De l’Harmonie entre Joueurs :** Si un compagnon se montre difficile ou cherche à rompre l'entente par son humeur, le MJ doit agir en diplomate. On réglera les griefs hors de la partie, afin que le plaisir du groupe ne soit jamais sacrifié à l'ego d'un seul.
 *   **La Collaboration :** Encouragez les joueurs à lier leurs destins. Une équipe qui partage ses ressources et ses plans est le cœur battant d'une campagne réussie.
+*   **Du Trépas des Héros :** La mort d'un personnage est un instant de haute gravité qui doit servir le récit et non l'interrompre par caprice. Nulle mort ne doit être forcée ou injuste. Elle doit découler d'une logique implacable : le résultat d'un choix risqué, d'un sacrifice consenti ou d'une erreur tactique face à un danger connu. Si le trépas survient, il doit être cohérent avec l'univers : un chevalier tombant sous les coups d'un rival après un duel épique marque l'histoire, là où une mort arbitraire sur un jet de dés insignifiant la flétrit. Assurez-vous que le joueur comprenne que son départ est le fruit de sa propre légende.
 
 ### III. De l'Ajustement des Loys & de l'Arbitrage
 
