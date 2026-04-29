@@ -79,16 +79,16 @@ Le seuil de difficulté pour une action non conflictuelle est calculée comme su
 
 * #### **Table des modificateur de difficulté**
 
-| **Niveau de Difficulté** | **Modificateur** | **Equivalence Organe** |
-| --- | --- | --- |
-| **Automatique** | +5 | 0 |
-| **Trivial** | +3 | 1 |
-| **Simple** | +2 | 2 |
-| **Modéré** | +0 | 3 |
-| **Difficile** | -2 | 4 |
-| **Très Difficile** | -3 | 5 |
-| **Héroïque** | -5 | 6 |
-| **Légendaire** | -7 | 7 |
+| **Niveau de Difficulté** | **Modificateur** | **Equivalence Organe** | **Dyscrasie** |
+| --- | --- | --- | --- |
+| **Automatique** | +5 | 0 | échec automatique |
+| **Trivial** | +3 | 1 | -5 |
+| **Simple** | +2 | 2 | -3 |
+| **Modéré** | +0 | 3 | -2 |
+| **Difficile** | -2 | 4 | +0 |
+| **Très Difficile** | -3 | 5 | +2 |
+| **Héroïque** | -5 | 6 | +3 |
+| **Légendaire** | -7 | 7 | +5 |
 
 ---
 ### **5. Actions conflictuelles**
