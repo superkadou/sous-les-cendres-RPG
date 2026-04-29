@@ -10,6 +10,8 @@
 | 5 | Prince Territorial | Duc ou Comte puissant. Sa cour est un centre de pouvoir et de culture | Rareté : Accès aux chevaux de guerre (destriers) et acier damassé | 
 | 6 | Archonte (Empereur) | Le Roi ou l'Empereur. Pouvoir de droit divin sur des provinces entières | "Souveraineté : Peut bannir, anoblir ou modifier la coutume (loi)." | 
 
+Les avantages en jeu sont une règle optionelle.
+
 ## Equipement
 
 Pour certaines taches, un équipement spécifique est nécessaire (recoudre une plaie, forger une arme, etc).
