@@ -21,7 +21,7 @@ Les règles sont des servantes, non des maîtresses. Si le grimoire des lois dev
 
 *   **Le Primat du Fun :** On appelle cela la « Règle de l’Épique ». Si une action est noble, audacieuse et qu'elle sert la beauté de l'histoire, facilitez-en l'issue. Les dés ne doivent jamais être le bourreau de l'enthousiasme.
 *   **Les Variantes de Maison :** Chaque table est un petit royaume avec ses propres coutumes. Si une règle de fatigue, d'opulence ou de combat vous semble pesante, forgez-en une nouvelle qui siéra mieux à votre groupe.
-*   **Le Recours au Sort (Tables Aléatoires) :** Pour les moments où l'imagination s'essouffle, fiez-vous au hasard pour générer des périls imprévus, des trésors cachés ou des rencontres de fortune.
+*   **Le Recours au Sort :** Pour les moments où l'imagination s'essouffle, fiez-vous au hasard pour générer des périls imprévus, des trésors cachés ou des rencontres de fortune. Les tables aléatoires ou les lames du tarot sont des outils parfaits.
 
 | d6 | L'Imprévu | Le Trésor | Le Péril |
 | :--- | :--- | :--- | :--- |
