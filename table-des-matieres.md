@@ -58,20 +58,6 @@
 ---
 TODO
 
-Rôle du MJ :
-Créer un monde vivant, improviser, gérer les règles.
-Création de Scénarios :
-Structure type (intro, développement, climax).
-Éléments clés : PNJ, lieux, intrigues.
-Gestion des Joueurs :
-Conseils pour les débutants, joueurs difficiles, collaboration.
-Adaptation des Règles :
-Quand ignorer les règles pour le fun.
-Variantes maison.
-Création de Contenu :
-Générer des quêtes, donjons, ennemis.
-Tables aléatoires (trésors, pièges, événements).
-
 5. Bestiaire (10–20 pages)
 (Si ton jeu inclut des combats ou des créatures.)
 Créatures Typiques :
