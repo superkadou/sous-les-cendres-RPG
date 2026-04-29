@@ -33,6 +33,7 @@ Pour vous adonner à ce Ieu de Paroles, point n'est besoin de trésors, mais de 
 * **Du parchemin** ou quelque papier grossier,
 * **Une plume**, un morceau de charbon, ou tout ce qui trace,
 * **Quelques dés à six faces** (ces petits osselets du destin),
+* **Un jeu de tarot**, divinatoire ou classique, pour interroger les arcanes et troubler les certitudes,
 * **Une imagination débridée** (la plus précieuse des ressources),
 * Et une **mesnie de bonnes gens**, dont l’un d’eux acceptera d’endosser le rôle de Maistre des Contes.
 
