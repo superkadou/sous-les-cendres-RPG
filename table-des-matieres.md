@@ -24,7 +24,7 @@
 ## IV. Les Secrets du Maistre des Conteurs
 * ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
 * ### [De la Conduite des Compagnons & de l'Entente à Table](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
-* ### [De l'Ajustement des Loys & de l'Arbitrage](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
+* ### [De l'Ajustement des Loys & de l'Arbitrage]([https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md#iii-de-lajustement-des-loys--de-larbitrage))
 
 ## V. L'Escrit des Diverses Créatures
 * ### Des Ennemys du Commun & Malandrins
