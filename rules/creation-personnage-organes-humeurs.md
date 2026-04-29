@@ -41,30 +41,8 @@ Chaque humeur commence avec un score de base calculé ainsi, puis peut être aug
 3. Utilisation des Humeurs  
 Lorsqu’un personnage effectue une action, il peut puiser dans l’humeur associée pour augmenter ses chances de réussite :
 
-1 point d’humeur utilisé = +1 au jet de dés.
-Exemple : Un personnage avec Sang 4 peut dépenser 2 points pour obtenir +2 à un jet lié au Cœur (ex : persuasion, courage).
-
-4. Risque de Dyscrasie  
-À chaque consommation d’une humeur, le personnage doit effectuer un jet de dyscrasie :
-
-Jet : Lance 1D6 + score de l’humeur (ex : Sang 4 → 1D6+4).
-Difficulté = 5 × nombre de pips utilisés.
-
-Exemple : Si le personnage dépense 2 pips de Sang, la difficulté est 10 (5 × 2).
-
-Échec : Le personnage subit une dyscrasie (malus narratif ou mécanique, ex : -1D aux actions liées à cette humeur jusqu’à récupération).
-Humeur à 0 : Dyscrasie automatique (le personnage est déséquilibré, ex : colérique, apathique, délirant).
-Humeur > Humeur dominante : Dyscrasie automatique (trop d’une humeur déséquilibre le personnage).
-
-5. Exemple de Gestion des Humeurs  
-Scénario : Un personnage avec Sang 4 (dominante) tente de persuader un seigneur (jet lié au Cœur).
-
-Il dépense 2 points de Sang pour obtenir +2 à son jet.
-Il lance 1D6+4 (Sang) contre une difficulté de 10 (5 × 2).
-
-Résultat : S’il échoue, il subit une dyscrasie (ex : devient trop passionné et perd -1 aux jets sociaux suivants).
-
-S’il dépense 3 pips de Sang (score > 4), il subit une dyscrasie automatique.
+1 point d’humeur utilisé = +/-1 au jet de dés.
+Exemple : Un personnage avec Sang 4 peut dépenser 1 points pour obtenir +1 à un jet lié au Cœur (ex : persuasion, courage).
 
 ## Virtus
 
