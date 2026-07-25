@@ -1,4 +1,4 @@
-# Soubz les Cendres, les Runes et la Croiz
+# Sous les Cendres, les Runes et la Croix
 
 Une aventure médiévale basée sur la théorie des humeurs et l'équilibre des organes.
 
