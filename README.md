@@ -1,11 +1,11 @@
-# Sous les Cendres, les Runes et la Croix
+# Sous les Cendres : les Runes et la Croix
 
 Une aventure médiévale basée sur la théorie des humeurs et l'équilibre des organes.
 
 ---
 
 ##  Présentation
-**Soubz les Cendres, les Runes et la Croiz** est un jeu de rôle indépendant qui plonge les joueurs dans un univers inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
+**Sous les Cendres : les Runes et la Croix** est un jeu de rôle indépendant qui plonge les joueurs dans un univers inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
 
 ## Installation & Utilisation
 Le projet est conçu pour être "Print & Play" ou utilisé via des outils numériques.
