@@ -1,4 +1,4 @@
-# **L’ordre social médiéval : Oratores, Bellatores et Laboratores (IXe–XIe siècles)**
+# **L’ordre social médiéval du IX au XIe siècle**
 
 Entre **900 et 1100**, la société médiévale s’organise autour d’une **tripartition idéale**, théorisée par les clercs et reflétant une vision **hiérarchisée et divine** du monde. Cette division en **trois ordres** 
 — *oratores* (ceux qui prient), *bellatores* (ceux qui combattent) et *laboratores* (ceux qui travaillent) — structure les rapports de pouvoir, les devoirs et les représentations collectives. 
