@@ -1,4 +1,4 @@
-# **[Les quatre "organes" centraux (IXe–XIIe siècles) : émotions, force vitale resistance et raisonnement](#organes)**
+# **[Les quatre "organes" centraux de la médecine médiévale : émotions, force vitale, resistance et raisonnement](#organes)**
 
 Entre **900 et 1100**, la médecine en Europe médiévale s’appuie sur un **mélange de traditions** :
 - **L’héritage antique** (Hippocrate, Galien, transmise par les Arabes et les moines copistes),
