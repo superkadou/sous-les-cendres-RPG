@@ -35,7 +35,7 @@ Lorsque l’un des dés est inférieur ou égal au seuil de compétence et l’a
 Lorsque les deux dés sont supérieurs au seuil de compétence, l’action échoue. 
 
 * ### **Critique**
-Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un critique & une reussite est une reussite critique tandis qu'un critiquee et un echec est un fumble. Dans les deux cas, un tirage dans un jeu de **tarot médiéval** détermine l’effet exact
+Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un évènement critique associé à une reussite est une réussite critique tandis qu'un évènement critique associé à un un echec est un échec critique. Dans les deux cas, un tirage dans un jeu de **tarot médiéval** détermine l’effet exact
 
 * #### Interprétation des 22 lames : 
 
@@ -70,7 +70,7 @@ Cela lui permet de transformer un dé en échec (supérieur au seuil) en dé en 
 
 Exemples :
 
-* Test de Cœur : Jet de 2D6 = 2 et 3 (seuil 3). Le joueur dépense 1 Sans pour transformer le 3 en 2 → Réussite totale => réussite critique.
+* Test de Cœur : Jet de 2D6 = 2 et 3 (seuil 3). Le joueur dépense 1 Sang pour transformer le 3 en 2 → Réussite totale => réussite critique.
 * Test de Rate : Jet de 2D6 = 5 et 6 (seuil 4). Le joueur dépense 1 Phlegme pour transformer le 5 en 4 → Echec => réussite partielle.
 
 ### **4. Actions non conflictuelles**
