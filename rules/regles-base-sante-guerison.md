@@ -12,10 +12,11 @@ Une reussite critique non neutralisee par une reussite critique opposé met fin 
 
 
 ### **3. Récupération**
-Suite à une confrontation physique les plaies légères s'effacent à raison de 1 par 24h de repos sans combat.
-Les Estour et Plies se soignent automatiquement une fois la Virtus intégralement récupérée. La guérison naturelle avance au rythme de 1 blessure par semaine sans effort physique violent. Les Grièves Blessures nécessitent des soins et un repos total pour guerir
+Suite à une confrontation physique les Estours se soignent automatiquement après un repos d'une durée égale au score de Virtus en minutes.
+Les Plies s'effacent à raison de 1 par 24h de repos sans combat. 
+La guérison naturelle des Grièves blessures avance au rythme de une blessure par semaine sans effort physique violent et nécessite des soins pour éviter les complications.
 
-Suite à une jouste sociale, un repos d'une durée égale au score de Virtus en heures suffit à récupérer les plaies mentales infligées par la confrontation.
+Suite à une jouste sociale, un repos d'une durée égale au score de Virtus en heures suffit à récupérer les Estours et Plies infligées par la confrontation.
 
 ### **4. Guérison**
 
