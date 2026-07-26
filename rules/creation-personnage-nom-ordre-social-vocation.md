@@ -71,9 +71,9 @@ La société médiévale s’organise autour d’une tripartition idéale, refl�
 Chaque Ordre possède une compétence unique qui reflète les capacites relatives à sa position dans la société des hommes.
 | Classe | Fonction | Compétence | Utilité |
 | --- | --- | --- | --- |
-| Oratores | ceux qui prient | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
+| Oratores | ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
 | Bellatores  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
-| Laboratores | ceux qui travaillent | Prudhomie | Sagesse populaire et débrouillardise paysanne : Permet de trouver des solutions improvisées et de résister aux épreuves avec opiniatreté |    
+| Laboratores | ceux qui travaillent | Prudhomie | Sagesse populaire / débrouillardise paysanne : Permet de trouver des solutions improvisées et de résister aux épreuves avec opiniatreté |    
 
 Base : 1
 
@@ -85,3 +85,31 @@ Les vocations se divisent en deux grandes familles :
    
 Base : 1
 
+Exemple de Vocation par Ordre social
+---
+
+### **Oratores** (Ceux qui prient : clergé régulier et séculier)
+
+| **Vocation**       | **Exemples de métiers**                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------------------|
+| **Savoirs**        | Théologien, Copiste, Prédicateur, Canoniste, Chroniqueur, Astrologue, Philosophe scolastique, Maître d’école cathédrale |
+| **Arts**           | Enlumineur, Calligraphe, Fabricant d’objets liturgiques, Relieur, Organiste, Fabricant d’hosties, Tailleur d’habits ecclésiastiques |
+
+---
+
+### **Bellatores** (Ceux qui combattent : noblesse et guerriers)
+
+| **Vocation**       | **Exemples de métiers**                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------------------|
+| **Savoirs**        | Stratège militaire, Maître d’armes, Héraut, Diplomate, Chronicler de guerre, Architecte militaire, Juriste féodal |
+| **Arts**           | Forgeron d’armes, Sellier, Armurier, Fabricant de boucliers, Maçon spécialisé en fortifications, Charpentier de machines de siège, Tailleur de pierres pour donjons |
+
+---
+### **Laboratores** (Ceux qui travaillent : paysans, artisans, marchands)
+
+| **Vocation**       | **Exemples de métiers**                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------------------|
+| **Savoirs**        | Marchand, Banquier, Notaire, Médecin, Apothicaire, Architecte civil, Maître de guilde, Astronome |
+| **Arts**           | Boulanger, Tisserand, Forgeron, Charpentier, Tonnelier, Cordonnier, Potier, Vigneron, Meunier, Boucher, Tailleur de pierre, Fabricant de chandelles, Pêcheur, Bergers, Verrier, Orfèvre |
+
+---
