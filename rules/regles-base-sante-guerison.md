@@ -3,18 +3,17 @@
 Chaque Touche deviens une Plaie. Une fois que le protagoniste a encaissé autant de Plaies que son score de Virtus, il fait désormais face à des blessures plus sérieuses.
 * Le premier Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne un Estour. Il s'accompagne d'un malus cumulatif de -1 à toutes les actions jusqu'à sa guérison.
 * Le deuxieme Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Plie. Elles s'accomapgne d'un deuxieme malus cumulatif de -1 à toutes les actions jusqu'à sa guerison.
-* Le troisieème Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Grieve Blessure. Elle s'accompagne d'un troisième malus cumulatif de -1 à toutes les actions jusqu'à sa guerison. De plus le protagoniste est incapable d'effectuer la moindre action d'une difficulté supérieure à trivial jusqu'à sa guérison.
+* Le troisième Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Grieve Blessure. Elle s'accompagne d'un troisième malus cumulatif de -1 à toutes les actions jusqu'à sa guerison. De plus le protagoniste est incapable d'effectuer la moindre action d'une difficulté supérieure à trivial jusqu'à sa guérison.
 
 Cas particulier d'une jouste sociale
-Les joutes sociales n'infligent que des plaies légères. Un personnage qui a épuisé sa Virtus est automatiquement vaincu par la loghorrée et la réthorique adverse.
-Un echec critique non neutralise par un echec critique opposé met fin a la joute et disqualifie automatiquement le protagnoiste qui se ridiculise.
+Les joutes sociales n'infligent pas de réelle blessures. Un personnage qui a épuisé sa Virtus (Estours + Plies) est automatiquement vaincu par la loghorrée ou la réthorique adverse.
+Un echec critique non neutralise par un echec critique opposé met fin a la joute et disqualifie automatiquement le protagoniste qui se ridiculise.
 Une reussite critique non neutralisee par une reussite critique opposé met fin a la joute et entraine la victoire automatique du protagoniste dont la reputation se trouve renforcée.
-
 
 ### **3. Récupération**
 Suite à une confrontation physique les Estours se soignent automatiquement après un repos d'une durée égale au score de Virtus en minutes.
-Les Plies s'effacent à raison de 1 par 24h de repos sans combat. 
-La guérison naturelle des Grièves blessures avance au rythme de une blessure par semaine sans effort physique violent et nécessite des soins pour éviter les complications.
+Les Plies se guérissent à raison de une par vingt-quatre heures de repos sans combat. 
+La guérison naturelle des Grièves blessures avance au rythme d'une blessure par semaine sans effort physique violent et nécessite des soins pour éviter les complications.
 
 Suite à une jouste sociale, un repos d'une durée égale au score de Virtus en heures suffit à récupérer les Estours et Plies infligées par la confrontation.
 
