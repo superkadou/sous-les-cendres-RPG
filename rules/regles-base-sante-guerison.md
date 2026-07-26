@@ -49,5 +49,4 @@ Suite à une jouste sociale, un repos d'une durée égale au score de Virtus en 
 | **Potion alchimique**    | Plie / Griève        | Instantané      | 2 Opulences + 1 pip bile noire | Prudhomie (5) | -2 Plaies | 30% d’effet secondaire (hallucinations, -1D mental) |
 | **Pacte avec un esprit** | Griève               | Instantané      | 1 Virtus + 1 objet personnel | Verbe (7) | Guérit toutes les Plaies | +2 pips de bile noire + malédiction mineure |
 | **Miracle divin**        | Toutes               | Instantané      | 3 Virtus + objet sacré | Verbe (8) | Guérit toutes les Plaies | Marqué par Dieu (démons/cible ou bénédiction) |
-| **Exorcisme**            | Corruption           | 10 min          | 1 Virtus               | Verbe (6)            | Supprime 1 corruption             | 20% d’attirer un démon mineur |
 | **Sort de régénération**| Griève               | 1 heure         | 2 pips de sanguin      | Verbe (7)            | -3 Plaies                          | 15% de perte de mémoire (oubli temporaire) |
