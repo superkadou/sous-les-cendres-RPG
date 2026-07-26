@@ -53,3 +53,12 @@ Exemple : Un personnage avec Sang 4 peut dépenser 1 points pour obtenir +1 à u
 Dans les joutes comme dans les épreuves, elle se mesure à l’aune de la **Rate**, siège de la mélancolie et de la persévérance, et du **Cœur**, foyer de l’ardeur et du courage. Quand elle fléchit, ce n’est pas seulement le corps qui vacille, mais aussi la volonté : une Virtus entamée, c’est l’esprit qui doute, le geste qui tremble, la voix qui faiblit face aux ombres du monde. Car ici, **résister, c’est survivre** — et survivre, c’est déjà triompher.
 
 Le score de base de la cactéristique Virtus est la somme du score de Rate et du score de Coeur.
+
+### Estours et Plies
+**Les Estours**  
+
+Le score d'Estour est égal au score de Coeur.
+
+** Les Plies**
+
+Le score de Plies est égal au score de Rate.
