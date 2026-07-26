@@ -56,9 +56,11 @@ Le score de base de la cactéristique Virtus est la somme du score de Rate et du
 
 ### Estours et Plies
 **Les Estours**  
+L'Estour représente le choc initial de la bataille, le souffle coupé, l'assommoir ou l'hématome douloureux qui ébranle le combattant sans entamer sa chair. Né de lépuisement progressif du Coeur, cet état de choc passager trouble la vision et engourdit les réflexes, mais s'efface rapidement après un court instant de répit ou quelques mots d'encouragement.
 
 Le score d'Estour est égal au score de Coeur.
 
 ** Les Plies**
+La Plie survient lorsque la garde cède et que le fer fend la peau : c'est l'entaille saignante, la chair déchirée et la brûlure du coup qui s'incruste. Ancrée dans la Rate, elle témoigne d'une atteinte physique profonde qui épuise la résistance naturelle et exige du temps, des bandages soigneux ou des remèdes d'herboriste pour pouvoir enfin cicatriser.
 
 Le score de Plies est égal au score de Rate.
