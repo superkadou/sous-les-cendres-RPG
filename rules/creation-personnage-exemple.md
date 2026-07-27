@@ -1,7 +1,5 @@
 # Exemple de Création : Adalbert "le Simplet"
 
----
-
 ### Step 1 : La Naissance (Phase 1 — 2d6)
 
 1. **Ordre Social :** Jet aux 2d6 = **7**.
@@ -10,7 +8,7 @@
 
 
 2. **Vocation :** Jet au 1d6 = **2**.
-* **Vocation Manuelle** *(L'Exécution)*.
+* **Vocation Arts** *(L'Exécution)*.
 * *Gains en Organes :* **Foie +2**, **Rate +1**.
 * *Gain en Humeurs :* **+1 Bile Jaune**.
 
@@ -25,7 +23,6 @@
 > * *Socle Humain de Départ :* Cœur 1, Foie 1, Rate 1, Cerveau 1.
 > * **Organes actuels :** Foie **3**, Rate **2**, Cœur **1**, Cerveau **1**.
 > * **Pool d'Humeurs :** Sang : 2 | Bile Jaune : 3 | Phlegme : 1 | Bile Noire : 0.
-> 
 > 
 
 ---
@@ -66,17 +63,17 @@
                NOM DU PERSONNAGE : Adalbert "le Simplet"
 ====================================================================
 Ordre Social : [ ] Bellatores   [ ] Oratores   [X] Laboratores
-Vocation     : [X] Manuelle     [ ] Intellectuelle
+Vocation     : [X] Arts     [ ] Savoirs
 Fratrie      : [X] Aîné(e)      [ ] Cadet(te)    [ ] Bâtard(e)
 Métier       : Bûcheron / Défricheur
 
 --------------------------------------------------------------------
                    ORGANES (Scores de 1 à 6)
 --------------------------------------------------------------------
-  [ CŒUR ]    : 1 / 6   (Un bon fond, mais très crédule)
-  [ FOIE ]    : 6 / 6   (Force colossale, résistance de bœuf !)
-  [ RATE ]    : 3 / 6   (Plutôt adroit avec sa hache)
-  [ CERVEAU ] : 1 / 6   (N'a jamais appris à lire ni à compter)
+  [ CŒUR ]    : 1 / 6   
+  [ FOIE ]    : 6 / 6   
+  [ RATE ]    : 3 / 6  
+  [ CERVEAU ] : 1 / 6   
 
 --------------------------------------------------------------------
             RÉSERVES D'HUMEURS (Pool de Points d'Énergie)
