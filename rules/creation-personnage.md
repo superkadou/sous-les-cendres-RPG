@@ -1,7 +1,5 @@
 # II. De la Naissance des Braves & Hardis
-### La naissance
 
-[xXx](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
 #### L'Ordre Social  
 La société médiévale s’organise autour d’une tripartition idéale, reflétant une vision hiérarchisée et divine du monde. Cette division en [trois ordres — oratores, bellatores et laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md) — structure les rapports de pouvoir, les devoirs et les représentations collectives.
 Chaque Ordre possède une compétence passive unique qui reflète les capacites relatives à sa position dans la société des hommes.  
