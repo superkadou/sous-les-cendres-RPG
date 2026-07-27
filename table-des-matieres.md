@@ -12,7 +12,7 @@
 * ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
 * ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
 * ### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
-* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
+* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/creation-personnage-exemple.md)
 
 ## III. L’Ordre du Ieu et des Faicts
 * ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
@@ -27,17 +27,17 @@
 * ### [De l'Ajustement des Loys & de l'Arbitrage](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md#iii-de-lajustement-des-loys--de-larbitrage)
 
 ## V. L'Escrit des Diverses Créatures
-* ### Des Ennemys du Commun & Malandrins
-* ### Des Bestes Sauuages & Monstres de Légende
+* ### [Des Ennemys du Commun & Malandrins](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-profane.md)  
+* ### [Des Bestes Sauuages & Monstres de Légende](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-mystique.md)
 * ### Des Grands Fléaux & Puissants Tyrans 
 * ### De l'Art de Façonner ses Propres Aduersaires
 
 ## VI. Chroniques du monde de Sous les Cendres : les Runes et la Croix
-* ### [Des Gestes du Passé & de l’Assise des Terres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-historique.md)
-* ### [Des Usages, Mœurs & Communs Estres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md)
-* ### [De l’Art de Guérir & de la Foy des Âmes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-medecine.md)
-* ### [Du Nom Vnique : Tesmoin de l’Existance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-noms.md)
-* ### [Des Lieux de Légende & Hautes Merveilles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-lieux.md)
+* ### [Des Gestes du Passé & de l’Assise des Terres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-historique.md)
+* ### [Des Usages, Mœurs & Communs Estres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
+* ### [De l’Art de Guérir & de la Foy des Âmes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-medecine.md)
+* ### [Du Nom Vnique : Tesmoin de l’Existance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-noms.md)
+* ### [Des Lieux de Légende & Hautes Merveilles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-lieux.md)
 
 ## VII. Gestes, Quêtes et Haulx Faicts
 * ### ["La Malédiction du Moulin" (niveau 1)](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/scenario-malediction-moulin.md)
