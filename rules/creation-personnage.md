@@ -6,9 +6,7 @@
 5.  Déterminer les [Détails narratifs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
 
 Vous êtes désormais prêts à partir à l'aventure !
-   
-### Exemple de Fiche
-[Aldebert le simplet](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
+
 
 ### La naissance
 #### L'Ordre Social
@@ -99,3 +97,6 @@ Si la naissance et la condition façonnent l'homme, son libre arbitre lui appart
 Avant de finaliser sa fiche, le joueur a le droit d'enlever 1 point dans un Organe de son choix pour le placer dans un autre Organe, sous réserve des deux contraintes suivantes :
 - Le plancher de 1 : Aucun Organe ne peut descendre en dessous de 1/6.
 - Le plafond de 6 : Aucun Organe ne peut dépasser 6/6 (si cela arrivait, le point excédentaire irait en Humeur).
+
+### Exemple de Fiche
+[Aldebert le simplet](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
