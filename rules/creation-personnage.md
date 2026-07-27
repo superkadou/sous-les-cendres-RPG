@@ -28,13 +28,10 @@ Chaque personnage a engrangé depuis le début de sa vie un certain nombre de co
 | **3–5** | **Cadet(te)** *(Le Bachelier)* | **+1 Bile Jaune** ou **+1 Bile Noire**  |
 | **6** | **Bâtard(e)** *(L'Illégitime)* | **+1 Sang**  |
 
-## L'humeur dominante
+#### L'humeur dominante
 Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aussi la balance de ses fluides.
 
-> **Procédure :** Lancez **1d6 pour la Saison** et **1d6 pour le Moment du jour**.
-> * **Saison et Moment identiques :** Alignement Parfait ! L'enfant est pur produit de sa saison (**+3 pts** dans l'Humeur).
-> * **Saison et Moment différents :** La Saison fixe l'Humeur Dominante Native (**+2 pts**), le Moment du jour apporte une nuance humorale secondaire (**+1 pt**).
-
+La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nuance humorale secondaire ou viens renforcer l'humeur dominante (**+1 pt**).
 
 | Jet (1d6) | Saison de Naissance | Moment de l'Accouchement | Tempérament natif | Humeur Dominante | Organe Lié | 
 | --- | --- | --- | --- | --- | --- |
@@ -43,9 +40,7 @@ Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aus
 | **4** | **Automne** | **Crépuscule** | **Mélancolique** | **Bile Noire** | Rate | 
 | **5 – 6** | **Hiver** | **Soir / Nuit** | **Flegmatique** | **Phlegme** | Cerveau | 
 
-## L'Éducation de Jeunesse
-
-###  (Ceux qui combattent)
+#### L'Éducation de Jeunesse
 
 | Ordre | Jet (1d6) | Éducation de Jeunesse | Gain en Organe | Gain en Humeur |
 | --- | --- | --- | --- | --- | 
@@ -70,7 +65,7 @@ Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aus
 
 ---
 
-## Les Métiers de l'An Mil 
+#### Les Métiers de l'An Mil 
 
 | Ordre | Jet (1d6) | Métier | Type | Gains Organes | Gains Humeurs | Équipement de départ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -88,7 +83,7 @@ Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aus
 | | **6** | **Colporteur / Marchand** | Savoir | **[ Option A : Charismatique ]** +1 Cœur, +1 Cerveau **[ Option B : Voyageur ]** +1 Cœur, +1 Rate | **+2 Sang** | Mule de somme, balance de précision, bourse de deniers. |
 
 
-## Le « Destin Contrarié »   
+#### Le « Destin Contrarié »   
 
 Si le tirage du Métier ne correspond pas à la Vocation de naissance (ex: Vocation Savoirs mais Métier Arts), le personnage est victime d'un Destin Contrarié.  
 Sa Vocation représente son inclinaison naturelle, son talent brut ou son aspiration profonde tandis que son Métier représente ce que la vie, la famille ou son seigneur lui ont imposé.  
@@ -98,7 +93,7 @@ Pour illustrer cette frustration sociale, le personnage gagne immédiatement un 
 - L'Amertume : +2 Points de Bile Noire. Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde.  
 - La Résignation : +2 Points de Phlegme. Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  
 
-## Le libre arbitre
+#### Le libre arbitre
 Si la naissance et la condition façonnent l'homme, son libre arbitre lui appartient néanmoins.
 Avant de finaliser sa fiche, le joueur a le droit d'enlever 1 point dans un Organe de son choix pour le placer dans un autre Organe, sous réserve des deux contraintes suivantes :
 - Le plancher de 1 : Aucun Organe ne peut descendre en dessous de 1/6.
