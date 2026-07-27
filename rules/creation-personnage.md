@@ -4,28 +4,24 @@
 [xXx](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
 #### L'Ordre Social  
 La société médiévale s’organise autour d’une tripartition idéale, reflétant une vision hiérarchisée et divine du monde. Cette division en [trois ordres — oratores, bellatores et laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md) — structure les rapports de pouvoir, les devoirs et les représentations collectives.
-Chaque Ordre possède une compétence unique qui reflète les capacites relatives à sa position dans la société des hommes.
-| Classe | Fonction | Compétence | Utilité |
-| --- | --- | --- | --- |
-| Oratores | ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
-| Bellatores  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
-| Laboratores | ceux qui travaillent | Prudhomie | Sagesse populaire / débrouillardise paysanne : Permet de trouver des solutions improvisées et de résister aux épreuves avec opiniatreté |    
+Chaque Ordre possède une compétence passive unique qui reflète les capacites relatives à sa position dans la société des hommes.  
 
+| Jet (2d6) | Ordre Social | Gains d'Humeurs | Fonction | Compétence | Utilité |
+| --- | --- | --- | --- | --- | --- |
+| **2–3** | **Bellatores** *(Châtelains / Haute Noblesse)* | **+2 Bile Jaune**  & **+2 Bile Noire**  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
+| **4–5** | **Oratores** *(Haut Clergé / Abbayes)* | **+2 Phlegme** & **+2 Sang**  | ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
+| **6–8** | **Laboratores** *(Peuple / Artisans / Paysans)* | **+2 Sang** & **+2 Bile Jaune**  | ceux qui travaillent | Prudhomie | Sagesse populaire / débrouillardise paysanne : Permet de trouver des solutions improvisées et de résister aux épreuves avec opiniatreté |    
+| **9–10** | **Oratores** *(Bas Clergé / Prêtres ruraux)* | **+2 Phlegme** & **+2 Sang**  | ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
+| **11–12** | **Bellatores** *(Petite Noblesse / Miles)* | **+2 Bile Jaune** & **+2 Bile Noire**  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 
-| Jet (2d6) | Ordre Social | Gains d'Humeurs |
-| --- | --- | --- |
-| **2–3** | **Bellatores** *(Châtelains / Haute Noblesse)* | **+2 Bile Jaune**  & **+2 Bile Noire**  |
-| **4–5** | **Oratores** *(Haut Clergé / Abbayes)* | **+2 Phlegme** & **+2 Sang**  |
-| **6–8** | **Laboratores** *(Peuple / Artisans / Paysans)* | **+2 Sang** & **+2 Bile Jaune**  |
-| **9–10** | **Oratores** *(Bas Clergé / Prêtres ruraux)* | **+2 Phlegme** & **+2 Sang**  |
-| **11–12** | **Bellatores** *(Petite Noblesse / Miles)* | **+2 Bile Jaune** & **+2 Bile Noire**  |
+####  La Vocation  
+Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier
+Les vocations se divisent en deux grandes familles :  
 
-####  La Vocation 
-
-| Jet (1d6) | Vocation | Bonus Organes (+3) | Bonus Humeurs |
-| --- | --- | --- | --- |
-| **1–3** | **Arts** | **Foie**  & **Rate**  | **+1 Bile Jaune** |
-| **4–6** | **Savoirs** | **Cerveau**  & **Coeur**  | **+1 Phlegme** |
+| Jet (1d6) | Vocation | Description | Bonus Organes (+3) | Bonus Humeurs |
+| --- | --- | --- | --- | --- | 
+| **1–3** | **Arts** | **métiers manuels ou sociaux, basés sur la pratique** | **Foie**  & **Rate**  | **+1 Bile Jaune** |
+| **4–6** | **Savoirs** | **métiers intellectuels, basés sur la connaissance** | **Cerveau**  & **Coeur**  | **+1 Phlegme** |
 
 #### La Fratrie & Le Rang
 
