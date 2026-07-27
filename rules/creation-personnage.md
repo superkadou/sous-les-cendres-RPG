@@ -13,8 +13,7 @@ Chaque Ordre possède une compétence passive unique qui reflète les capacites 
 | **11–12** | **Bellatores** *(Petite Noblesse / Miles)* | **+2 Bile Jaune** & **+2 Bile Noire**  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 
 ####  La Vocation  
-Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier
-Les vocations se divisent en deux grandes familles :  
+Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier. Les vocations se divisent en deux grandes familles :  
 
 | Jet (1d6) | Vocation | Description | Bonus Organes (+3) | Bonus Humeurs |
 | --- | --- | --- | --- | --- | 
