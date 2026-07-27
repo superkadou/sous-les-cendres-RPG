@@ -80,12 +80,18 @@ Un seul jet croisé est effectué entre le protagoniste esseulé et le Champion 
 - Si le protagoniste esseulé gagne l'assaut : Il inflige ses Touches et peut les répartir librement entre ses différents adversaires (ex. infliger 1 Touche au Champion et 1 Touche à un acolyte).  
 - Si le groupe gagne l'assaut : Le personnage seul subit les Touches normalement.  
 
-Exemple rapide :
-Frère Bernard (Oratores, Vocation 2) fait face à 3 paysans en colère lors d'un débat.
-Grâce à son score de Vocation de 2, Frère Bernard ne neutralise que le surnombre pour ces 2 opposants mais ne sait gérer le 3ème. Il effectue son jet de joute sociale avec un malus de 1 (2-3) au Seuil !
-S'il n'avait fait face qu'à 2 paysans, Bernard aurait totalement neutralisé ses 2 opposants et n'aurait subi aucun malus à son Seuil.
+Cas particulier : Un Spécialiste dans le Groupe
+Si un spécialiste (Bellatores ou Oratores) fait partie du groupe d'agresseurs, il devient automatiquement le Champion.
+Sa présence neutralise totalement l'avantage de Vocation du protagoniste esseulé : chaque compagnon du Champion occasionne alors un malus de -1 au Seuil du protagoniste esseulé, sans exception.
 
-Dans le cas ou un specialiste fait partie du groupe, celui-ci est automatiquement le Champion. Il neutralise totalement l'avantage de son adversaire et chacun de ses compagnons occasionne un malus de 1 au Seuil du protagoniste esseulé.
+Exemple rapide :
+Frère Bernard (Oratores, Vocation 2) fait face à 2 paysans en colère lors d'un débat. Grâce à sa Vocation de 2, Frère Bernard neutralise entièrement ces 2 opposants. Il ne subit donc aucun malus à son Seuil.  
+
+- S'il avait fait face à 4 paysans :
+Sa Vocation de 2 aurait neutralisé 2 des 4 opposants. Il serait resté 2 opposants non neutralisé, infligeant un malus de -2 à son Seuil.
+
+- Si un groupe de 3 paysans avait été mené par un inquisiteur (Oratores) :
+L'inquisiteur devient le Champion. L'avantage de Frère Bernard est annulé : les 3 paysans accompagnant l'inquisiteur lui infligent un malus direct de -3 à son Seuil.
 
 ---
 ### 4.  **Miséricorde et coup de grâce**
