@@ -67,6 +67,25 @@ Nouvelle relance : Son dé passe de 1 à 5, ce qui monte son total à 6. Il tomb
 
 ---
 ### 3. **Combat contre des adversaires multiples**
+Lorsqu'un protagoniste affronte plusieurs adversaires simultanément, la scène est résolue sous la forme d'Assauts de Groupe.
+
+1. Mise en place de l'Assaut
+- Le Camp du Nombre : Le groupe désigne un Champion (généralement le plus fort ou le plus virulent) dont on utilise les caractéristiques pour le calcul du Seuil de jet.
+- Malus de Surnombre : Le protagonistes esseulé retire 1 à son Seuil de jet par adversaire supplémentaire au-delà du premier.
+- Exception des Spécialistes : Grâce à leur maîtrise, le Bellatores en combat physique et l'Oratores en jouste sociale ignorent le malus de surnombre pour un nombre total d'adversaires allant jusqu'à leur valeur de Vocation.
+
+2. Résolution & Touches
+Un seul jet croisé est effectué entre le protagoniste esseulé et le Champion du groupe.
+
+- Si le protagoniste esseulé gagne l'assaut : Il inflige ses Touches et peut les répartir librement entre ses différents adversaires (ex. infliger 1 Touche au Champion et 1 Touche à un acolyte).  
+- Si le groupe gagne l'assaut : Le personnage seul subit les Touches normalement.  
+
+Exemple rapide :
+Frère Bernard (Oratores, Vocation 2) fait face à 3 paysans en colère lors d'un débat.
+Grâce à son score de Vocation de 2, Frère Bernard ne neutralise que le surnombre pour ces 2 opposants mais ne sait gérer le 3ème. Il effectue son jet de joute sociale avec un malus de 1 (2-3) au Seuil !
+S'il n'avait fait face qu'à 2 paysans, Bernard aurait totalement neutralisé ses 2 opposants et n'aurait subi aucun malus à son Seuil.
+
+Dans le cas ou un specialiste fait partie du groupe, celui-ci est automatiquement le Champion. Il neutralise totalement l'avantage de son adversaire et chacun de ses compagnons occasionne un malus de 1 au Seuil du protagoniste esseulé.
 
 ---
 ### 4.  **Miséricorde et coup de grâce**
