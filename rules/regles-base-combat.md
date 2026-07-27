@@ -40,21 +40,30 @@ Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dép
 
 ---
 ### **Exemple de Combat**
-**Contexte** : Un *Bellatores* (Foie 5, Rate 3) affronte un *Laboratores* (Foie 2, Rate 4).
+Protagonistes :
+- Gaucher (Bellatores) : Foie 5, Rate 3. Vocation : 2.
+- Giles (Laboratores) : Foie 2, Rate 4. Vocation : 3.
 
-1. **Détermination des bonus/malus de confrontation** :
-   - *Bellatores* (Foie 5) vs *Laboratores* (Rate 4) → **5 > 4** → **Bonus de confrontation de +1 à l’attaque du Bellatores**.
-   - *Laboratores* (Foie 2) vs *Bellatores* (Rate 3) → **2 < 3** → **Malus de confrontation de -1 à l'attaque du Laboratores**.
+Détermination de l'Ascendant
+Gaucher est un Bellatores qui affronte un non-pair (Laboratores). Gaucher obtient automatiquement l'Ascendant pour toute la durée du combat.  
 
-2. **Round 1** :
-   - *Bellatores* : Lance 2D6 → 3 et 4 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
-   - *Laboratores* : Lance 2D6 → 1 et 3 → Comparé à Rate 4 + Malus de confrontation -1 → **Réussite complète**.
-   - **Résultat** : Réussite complète du Bellatores vs Réussite complète du Laboratores → **Rien**.
+Calcul des Seuils de Jet :  
+- Seuil de Gaucher : Foie (5) - Rate de Giles (4) + Vocation (2) = 3 (Il doit faire 3 ou moins pour réussir).  
+- Seuil de Giles : Foie (2) - Rate de Gaucher (3) = 1 (Seuil très difficile).  
+  
+Assaut 1 :
+- Gaucher lance 2D6 et obtient 3. Son score est inférieur ou égal à son seuil (3) => Réussite Complète.  
+- Giles lance 2D6 et obtient 7. Il dépasse largement son seuil (1) => Échec.
+  
+Résultat : Réussite Complète vs Échec. Giles subit 2 Touches.  
 
-3. **Round 2** :
-   - *Bellatores* : 2D6 → 1 et 3 → Comparé à Foie 5 + Bonus de confrontation +1 → **Réussite complète**.
-   - *Laboratores* : 2D6 → 2 et 5 → Comparé à Rate 4 + Malus de confrontation -1 → **Réussite partielle**.
-   - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Plaie**.
+Assaut 2 :
+- Gaucher lance 2D6 et obtient 2 => Réussite Complète.
+- Giles fait un coup d'éclat improbable : il fait 1 aux dés ! => Réussite Complète.
+  
+Résultat initial : Égalité (Réussite Complète vs Réussite Complète => Rien).  
+Utilisation de l'Ascendant : Gaucher refuse ce statu quo. Il décide de faire jouer son Ascendant et relance l'un de ses dés.  
+Nouvelle relance : Son dé passe de 1 à 5, ce qui monte son total à 6. Il tombe en Échec. Devant accepter ce résultat, la table devient Échec vs Réussite Complète : Gaucher subit 2 Touches ! (Son excès de confiance s'est retourné contre lui).
 
 ---
 ### 3. **Combat contre des adversaires multiples**
