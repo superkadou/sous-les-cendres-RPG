@@ -1,31 +1,36 @@
-## **II Combats**
+## **II Confrontations**
 
-Les combats se déroulent en une suite d'**Assauts**, séquences actives où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. Le système repose sur un **jet de dés simple** et une **comparaison des résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**. Le conteur peux accorder des bonus ou malus a son gré pour récompenser un plan habile ou une description particulièrement épique.
+Les confrontations se déroulent en une succession d'Assauts, des séquences actives de quelques secondes où chaque combattant tente de porter un coup décisif tout en évitant les attaques ennemies. Le système repose sur un jet de dés simple et une comparaison des résultats, sans manœuvres tactiques complexes, afin de privilégier le récit et l’immersion. Le Conteur peut accorder des bonus ou des malus à son gré pour récompenser un plan habile ou une description particulièrement épique.
 
 ---
 ### 1. **Détermination de l'ascendant**
-L'ascendant permet au belligérant qui en dispose de pouvoir tenter de faire pencher la balance en sa faveur en cas d'égalité lors d'un assaut.
+L'Ascendant permet au protagoniste qui en dispose de tenter de faire pencher la balance en sa faveur en cas d'égalité lors d'un assaut.
 Au tout début du combat chaque protagoniste compare son **organe défensif** (Rate pour le copmbat physique et Coeur pour les joustes sociales) a l’**organe offensif** (Foie pour le combat physique ou Cerveau pour les joustes sociales) de son adversaire pour déterminer qui aura l'ascendant pour toute la durée de l’affrontement. 
 
-En cas d'égalité lors d'un assaut, le protagnosite ayant pris l'ascendant, peux choisir de relancer un de ses Dé. S'il le fait, il doit accepter le résultat de ce nouveau tirage que celui-ci lui soit favorable ou non.
+#### **1.1 Combat physique**   
+Le Bellatores ayant la plus forte Vocation prends l'ascendant.
+
+#### **1.2 Jouste sociale**  
+L'Oratores ayant la plus forte Vocation prends l'ascendant.
+
+#### **1.3 Effet en jeu**  
+En cas d'égalité de résultat lors d'un assaut (ex. Réussite Complète vs Réussite Complète), le protagoniste ayant l'Ascendant peut choisir de relancer l'un de ses dés. S'il décide de le faire, il doit obligatoirement accepter le nouveau résultat, qu'il lui soit favorable ou non.
 
 ---
 ### 2. **Résolution de l'assaut**
 
-Une confrontation se déroule en assaut, phase active durant laquelle les deux adversaires essaient activement de percer les defenses de l'ennemi.
+Une confrontation se déroule en assauts successifs durant lesquels les deux protagonistes essaient simultanément de percer les défenses de l'ennemi.
 
 #### 2.1 **Combat physique**  
-Lors de chaque assaut, chaque combattant effectue **un jet unique** :
+Lors de chaque assaut, chaque protagoniste effectue **un jet unique** :
 - 2D6 contre **Foie - Rate adversaire + Bonus (si applicable) + Vocation (Bellatores)**.
-Puis on compare les deux jets contre la table de résolution ci-dessous.
 
 #### 2.2 **Jouste sociale**  
-Lors de chaque assaut, chaque combattant effectue **un jet unique** :
+Lors de chaque assaut, chaque protagoniste effectue **un jet unique** :
 - 2D6 contre **Cerveau - Coeur adversaire + Bonus (si applicable) + Vocation (Oratores)**.
-Puis on compare les deux jets contre la table de résolution ci-dessous.
 
 #### 2.3 **Table de résolution**  
-Les résultats des jets sont ensuite comparés selon le tableau suivant :
+Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dépendent du score obtenu au jet par rapport au seuil calculé. Les résultats croisés des deux protagnistes déterminent les dommages infligés :
 
 | **Protagoniste 1 \ Protagoniste 2** | **Réussite Complète** | **Réussite Partielle** | **Échec**          |
 |--------------------------------------|-----------------------|-------------------------|---------------------|
