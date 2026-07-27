@@ -29,7 +29,7 @@
 ## V. L'Escrit des Diverses Créatures
 * ### [Des Ennemys du Commun & Malandrins](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-profane.md)  
 * ### [Des Bestes Sauuages & Monstres de Légende](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-mystique.md)
-* ### Des Grands Fléaux & Puissants Tyrans 
+* ### [Des Grands Fléaux & Puissants Tyrans](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-unique.md) 
 * ### De l'Art de Façonner ses Propres Aduersaires
 
 ## VI. Chroniques du monde de Sous les Cendres : les Runes et la Croix
@@ -52,7 +52,7 @@
 * ### [Bellatores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_bellatores-v0.10.png)
 * ### [Oratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_oratores-v0.10.png)
 * ### [Laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_laboratores-v0.10.png)
-* 
+  
 ## XI. Petit Glossaire des Vieux Mots & Termes
 
 ## XII. Table Alphabétique des Matières
