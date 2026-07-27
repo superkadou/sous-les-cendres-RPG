@@ -38,21 +38,6 @@ Vous êtes désormais prêts à partir à l'aventure !
 | **3–5** | **Cadet(te)** *(Le Bachelier)* | **+1 Bile Jaune** ou **+1 Bile Noire**  |
 | **6** | **Bâtard(e)** *(L'Illégitime)* | **+1 Sang**  |
 
-
-## 3. Phase 3, Étape A : L'Éducation de Jeunesse 
-
-Le joueur lance **1d6** dans la table correspondant à l'Ordre Social obtenu en Phase 1.
-
-Voici la table d'**Éducation de Jeunesse** révisée avec **6 options par Ordre** (parfaites pour un jet de 1d6 direct !).
-
-Pour chaque Ordre :
-
-* **1 à 4 :** Une option dédiée spécifiquement à chacun des 4 Organes (*Foie, Rate, Cerveau, Cœur*).
-* **5 :** L'option **Effort Physique**, qui laisse au joueur le choix entre **Foie** ou **Rate**.
-* **6 :** L'option **Éveil de l'Esprit**, qui laisse au joueur le choix entre **Cerveau** ou **Cœur**.
-
----
-
 ## Table d'Éducation de Jeunesse
 
 ### A. Bellatores (Ceux qui combattent)
@@ -94,21 +79,19 @@ Pour chaque Ordre :
 
 ---
 
-## 4. Phase 3, Étape B : Les Métiers de l'An Mil (1d6 ou Choix)
-
-Le joueur tire ou choisit son métier au sein du tableau de son Ordre Social.
+## 4. Phase 3, Étape B : Les Métiers de l'An Mil 
 
 | Ordre | Jet (1d6) | Métier | Type | Gains Organes | Gains Humeurs | Équipement de départ |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Bellatores** | **1–2** | **Miles** | Manuel | **+1 Foie, +1 Rate** | **+2 Bile Jaune** | Brogne en cuir, lance, épée, destrier. |
-|  | **3–4** | **Routier / Sergent** | Manuel | **+2 Foie** | **+1 Bile Jaune, +1 Bile Noire** | Hache de guerre, bouclier, calotte de fer. |
-|  | **5** | **Châtelain / Bailli** | Intellectuel | **+1 Cerveau, +1 Cœur** | **+1 Phlegme, +1 Sang** | Sceau du fief, cor, droit de justice. |
-|  | **6** | **Viguier / Capitaine** | Intellectuel | **+2 Cerveau** | **+2 Phlegme** | Clés de garnison, registre domanial. |
-| **Oratores** | **1–2** | **Moine Bâtisseur** | Manuel | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Phlegme** | Outils de charpente, corde à nœuds, bure. |
-|  | **3–4** | **Frère Herbiste** | Manuel | **+1 Rate, +1 Cerveau** | **+2 Phlegme** | Sacoche de plantes, mortier, baumes. |
-|  | **5** | **Moine Copiste** | Intellectuel | **+2 Cerveau** | **+2 Phlegme** | Plumes, encre, parchemin, évangéliaire. |
-|  | **6** | **Prêtre de Paroisse** | Intellectuel | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Croix de procession, relique, goupillon. |
-| **Laboratores** | **1–2** | **Fèvre / Forgeron** | Manuel | **+2 Foie** | **+2 Bile Jaune** | Marteau de forge, tablier de cuir, tenailles. |
-|  | **3–4** | **Bûcheron** | Manuel | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Sang** | Hache d'abattage, pieu ferré, pierre à aiguiser. |
-|  | **5** | **Intendant** | Intellectuel | **+2 Cerveau** | **+1 Phlegme, +1 Bile Noire** | Tablettes de cire, clés des granges. |
-|  | **6** | **Colporteur** | Intellectuel | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Mule de somme, balance de précision, deniers. |
+| **Bellatores** | **1–2** | **Miles** | Arts | **+1 Foie, +1 Rate** | **+2 Bile Jaune** | Brogne en cuir, lance, épée, destrier. |
+|  | **3–4** | **Routier / Sergent** | Arts | **+2 Foie** | **+1 Bile Jaune, +1 Bile Noire** | Hache de guerre, bouclier, calotte de fer. |
+|  | **5** | **Châtelain / Bailli** | Savoirs | **+1 Cerveau, +1 Cœur** | **+1 Phlegme, +1 Sang** | Sceau du fief, cor, droit de justice. |
+|  | **6** | **Viguier / Capitaine** | Savoirs | **+2 Cerveau** | **+2 Phlegme** | Clés de garnison, registre domanial. |
+| **Oratores** | **1–2** | **Moine Bâtisseur** | Arts | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Phlegme** | Outils de charpente, corde à nœuds, bure. |
+|  | **3–4** | **Frère Herbiste** | Arts | **+1 Rate, +1 Cerveau** | **+2 Phlegme** | Sacoche de plantes, mortier, baumes. |
+|  | **5** | **Moine Copiste** | Savoirs | **+2 Cerveau** | **+2 Phlegme** | Plumes, encre, parchemin, évangéliaire. |
+|  | **6** | **Prêtre de Paroisse** | Savoirs | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Croix de procession, relique, goupillon. |
+| **Laboratores** | **1–2** | **Fèvre / Forgeron** | Arts | **+2 Foie** | **+2 Bile Jaune** | Marteau de forge, tablier de cuir, tenailles. |
+|  | **3–4** | **Bûcheron** | Arts | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Sang** | Hache d'abattage, pieu ferré, pierre à aiguiser. |
+|  | **5** | **Intendant** | Savoirs | **+2 Cerveau** | **+1 Phlegme, +1 Bile Noire** | Tablettes de cire, clés des granges. |
+|  | **6** | **Colporteur** | Savoirs | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Mule de somme, balance de précision, deniers. |
