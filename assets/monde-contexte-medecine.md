@@ -116,7 +116,7 @@ La médecine européenne médiévale repose sur la **théorie des humeurs**, hé
 
 ---
 
-## **2. [Bile Jaune (Colérique) : la colère et l’énergie](#bilejaune)**
+## **2. [Bile Jaune : la colère et l’énergie](#bilejaune)**
 - **Siège** : Produite par le **foie**, la bile jaune est liée à l’**agressivité**, à l’**ambition**, et à la **digestion**.
 - **Équilibre** : Une bile jaune bien dosée donne un tempérament **déterminé, leader et passionné**.
 - **Déséquilibre** :
@@ -129,7 +129,7 @@ La médecine européenne médiévale repose sur la **théorie des humeurs**, hé
 
 ---
 
-## **3. [Bile Noire (Mélancolique) : la tristesse et la réflexion](#bilenoire)**
+## **3. [Bile Noire : la tristesse et la réflexion](#bilenoire)**
 - **Siège** : Produite par la **rate** (organe mystérieux, souvent associé à la mélancolie), la bile noire est liée à la **tristesse**, à la **peur**, et à la **méditation**.
 - **Équilibre** : Une bile noire bien dosée donne un tempérament **réfléchi, artistique et philosophique**.
 - **Déséquilibre** :
