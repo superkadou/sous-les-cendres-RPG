@@ -76,7 +76,6 @@ Lorsqu'un protagoniste affronte plusieurs adversaires simultanément, la scène 
 
 2. Résolution & Touches
 Un seul jet croisé est effectué entre le protagoniste esseulé et le Champion du groupe.
-
 - Si le protagoniste esseulé gagne l'assaut : Il inflige ses Touches et peut les répartir librement entre ses différents adversaires (ex. infliger 1 Touche au Champion et 1 Touche à un acolyte).  
 - Si le groupe gagne l'assaut : Le personnage seul subit les Touches normalement.  
 
