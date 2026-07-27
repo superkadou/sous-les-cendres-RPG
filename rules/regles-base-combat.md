@@ -69,7 +69,7 @@ Nouvelle relance : Son dé passe de 1 à 5, ce qui monte son total à 6. Il tomb
 ### 3. **Combat contre des adversaires multiples**
 
 ---
-### 4.  **la Miséricorde et coup de grâce**
+### 4.  **Miséricorde et coup de grâce**
 Un protagoniste peux demander la fin du combat et se déclarer vaincu à tout moment. Il appartiens alors au vainqueur de decide que faire : accorder la Misericorde ou la refuser. Il est évident qu'un laboratores aura plus de chance d'obtenir miséricorde d'un Bellatores qu'un brigand, sans aucune garantie néanmoins.
 
 Le protagoniste, jette son arme au sol et leves les mains et/ou met un genou a terre en signe de reddition. 
