@@ -9,7 +9,7 @@ Dans ce cadre, les **quatre "organes" principaux** — **le cœur, le foie, la r
 
 ---
 
-## **1. Le Cœur : Siège des émotions et de la force vitale**
+## **1. [Le Coeur : Siège des émotions et de la force vitale](#coeur)**
 **Rôle** :
 - **Centre des passions** : Le cœur est vu comme le **moteur des émotions** (amour, colère, peur, joie). Les expressions comme *"avoir le cœur brisé"* ou *"le cœur lourd"* datent de cette époque.
 - **Source de la "virtus"** : La **force vitale** (que tu appelles *virtus* dans ton JDR) est associée au cœur. Une personne en bonne santé a un cœur *"fort et chaud"*, tandis qu’un cœur *"froid ou humide"* (selon la théorie des humeurs) indique maladie ou mélancolie.
@@ -27,7 +27,7 @@ Dans ce cadre, les **quatre "organes" principaux** — **le cœur, le foie, la r
 
 ---
 
-## **2. Le Foie : Siège de la force vitale et des désirs terrestres**
+## **2. [Le Foie : Siège de la force vitale et des désirs terrestres](#foie)**
 **Rôle** :
 - **Usine du corps** : Le foie est considéré comme l’**organe qui transforme la nourriture en énergie** (une sorte de "chaudron" alchimique). Une personne robuste a un foie *"sain et bien coloré"*.
 - **Siège des désirs charnels** : Associé à la **luxure**, à la **gourmandise** et à la **colère** (la bile, produite par le foie, est liée à l’irascibilité).
@@ -45,7 +45,7 @@ Dans ce cadre, les **quatre "organes" principaux** — **le cœur, le foie, la r
 
 ---
 
-## **3. Le Cerveau : Siège de la raison et de l’âme**
+## **3. [Le Cerveau : Siège de la raison et de l’âme](cerveau)**
 **Rôle** :
 - **Siège de la raison** : Le cerveau est vu comme le **lieu où l’âme pense et mémorise**. Une personne intelligente a un cerveau *"sec et froid"* (équilibre idéal selon Galien).
 - **Lien avec les sens** : Les **yeux**, les **oreilles** et la **langue** sont considérés comme des **prolongements du cerveau**. Une maladie cérébrale peut donc affecter la vue ou la parole.
@@ -65,7 +65,7 @@ Dans ce cadre, les **quatre "organes" principaux** — **le cœur, le foie, la r
 
 ---
 
-## **4. La Rate : Siège des émotions obscures et de la résistance spirituelle**
+## **4. [La Rate : Siège des émotions obscures et de la résistance spirituelle](rate)**
 
 **Rôle** :
 - **Siège de la bile noire** : La rate est considérée comme l’organe qui **filtre et stocke la bile noire** (*melancholia*), une humeur froide et sèche associée aux **émotions sombres** (mélancolie, peur, superstition) et à la **réflexion profonde**. Une personne mélancolique est censée avoir une rate "active", tandis qu’une rate équilibrée confère **clarté d’esprit et résistance aux influences malignes**.
@@ -103,7 +103,7 @@ La médecine européenne médiévale repose sur la **théorie des humeurs**, hé
 
 ---
 
-## **1. Le Sang (Sanguin) : la vie et les passions**
+## **1. [Sang : la vie et les passions](#sang)**
 - **Siège** : Produit par le **cœur** (considéré comme l’organe central), le sang est associé à la **force vitale** (*virtus*), à l’**amour**, et à la **joie**.
 - **Équilibre** : Un sang bien dosé donne un tempérament **enthousiaste, sociable et courageux**.
 - **Déséquilibre** :
@@ -116,7 +116,7 @@ La médecine européenne médiévale repose sur la **théorie des humeurs**, hé
 
 ---
 
-## **2. La Bile Jaune (Colérique) : la colère et l’énergie**
+## **2. [Bile Jaune (Colérique) : la colère et l’énergie](#bilejaune)**
 - **Siège** : Produite par le **foie**, la bile jaune est liée à l’**agressivité**, à l’**ambition**, et à la **digestion**.
 - **Équilibre** : Une bile jaune bien dosée donne un tempérament **déterminé, leader et passionné**.
 - **Déséquilibre** :
@@ -129,7 +129,7 @@ La médecine européenne médiévale repose sur la **théorie des humeurs**, hé
 
 ---
 
-## **3. La Bile Noire (Mélancolique) : la tristesse et la réflexion**
+## **3. [Bile Noire (Mélancolique) : la tristesse et la réflexion](#bilenoire)**
 - **Siège** : Produite par la **rate** (organe mystérieux, souvent associé à la mélancolie), la bile noire est liée à la **tristesse**, à la **peur**, et à la **méditation**.
 - **Équilibre** : Une bile noire bien dosée donne un tempérament **réfléchi, artistique et philosophique**.
 - **Déséquilibre** :
@@ -141,7 +141,7 @@ La médecine européenne médiévale repose sur la **théorie des humeurs**, hé
   - **Prières à saint Hubert**.
 
 ---
-## **4. Le Phlegme : la lenteur et la stabilité**
+## **4. [Phlegme : la lenteur et la stabilité](#phlegme)**
 - **Siège** : Associée au **cerveau** et aux **poumons**, le phlegme est liée à au **calme**, à la **patience**, mais aussi à la **paresse**.
 - **Équilibre** : Une lymphe bien dosée donne un tempérament **paisible, méthodique et endurant**.
 - **Déséquilibre** :
