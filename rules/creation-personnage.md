@@ -98,7 +98,7 @@ Avant de finaliser sa fiche, le joueur a le droit d'enlever 1 point dans un Orga
 
 ### Le nom
 
-Pour différencier les individus, on ajoutait au prénom un qualificatif qui n'était **pas encore héréditaire**. On utilisait quatre types de distinctions :
+Pour différencier les individus, on ajoutait au [prénom](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-noms.md) un qualificatif qui n'était **pas encore héréditaire**. On utilisait quatre types de distinctions :
 
 * **La Filiation :** "Jean, fils de Robert".
 * **Le Métier :** "Pierre le Charpentier", "Guillaume le Berger".
