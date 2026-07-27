@@ -79,7 +79,7 @@ Un seul jet croisé est effectué entre le protagoniste esseulé et le Champion 
 - Si le protagoniste esseulé gagne l'assaut : Il inflige ses Touches et peut les répartir librement entre ses différents adversaires (ex. infliger 1 Touche au Champion et 1 Touche à un acolyte).  
 - Si le groupe gagne l'assaut : Le personnage seul subit les Touches normalement.  
 
-Cas particulier : Un Spécialiste dans le Groupe
+Cas particulier : Un Spécialiste dans le groupe  
 Si un spécialiste (Bellatores ou Oratores) fait partie du groupe d'agresseurs, il devient automatiquement le Champion.
 Sa présence neutralise totalement l'avantage de Vocation du protagoniste esseulé : chaque compagnon du Champion occasionne alors un malus de -1 au Seuil du protagoniste esseulé, sans exception.
 
