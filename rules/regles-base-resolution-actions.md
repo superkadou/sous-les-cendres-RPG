@@ -98,50 +98,9 @@ Le seuil de difficulté pour une action non conflictuelle est calculée comme su
      - reussite critique > reussite totale > reussite partielle > echec > echec critique
      En cas d'égalité, l'avantage va à la "defense" qui neutralise la tentative de son adversaire.
 
----
-### **6. Joutes & Combats**
-Dans sous les cendres, les Runes et la Croix, les Joutes sociales et militaires, ainsi queles combats sont résolus selon une mecanique identique. Le système repose sur un **jet de dés simple** et une **comparaison dess résultats**, sans manœuvres tactiques complexes, pour garder l’accent sur le **récit et l’immersion**.
-
-* Assauts  
-Les joutes et combats se déroulent en une suite d'**Assauts**, séquences actives où chaque combattant tente de porter un coup décisif ou d’éviter les attaques ennemies. 
-
-* Modificateur de difficulté  
-Chaque protagoniste détermine sa Difficulté de defense sur la table  des difficultés. On compare le score de l'**organe défensif** ajusté des bonus/malus d'equipement à la table des dififculte et on en déduit la difficulté à appliquer a l'adversaire pour reussir son Assaut.
-
-* Resolution  
-Lors de chaque assaut, chaque combattant effectue **un jet unique** :
-- 2D6 contre **Organe offensif + modificateur de difficulté +  Vocation (si applicable)**.
-
-La Vocation représente les compétencess acquises par l'expérience. Elles n'empechent pas de rater son action. Elle constitue donc un bonus a la reussite de l'action, gardant le caractere aleatoire
-Les résultats des jets sont ensuite comparés selon le tableau suivant :
-
 | **Protagoniste 1 \ Protagoniste 2** | **Réussite Complète** | **Réussite Partielle** | **Échec**  |
 | --- | --- | ---| --- |
 | **Réussite Complète** | Rien | **1 Touche** | **2 Touches** |
 | **Réussite Partielle** | **1 Touche** | Rien | **1 Touche** |
 | **Échec** | **2 Touches** | **1 Touche** | Rien |
-
----
-### **Exemple de Combat**
-**Contexte** : Un *Bellatores* (Foie 3, Rate 3, Vocation 2) affronte un *Laboratores* (Foie 2, Rate 4).
-
-1. **Détermination des modificateurs de difficulte** :
-   - *Bellatores* (Rate 3) → **modificateur de difficulté de +0 à l’attaque du Laboratores**.
-   - *Laboratores* (Rate 4) → ****modificateur de difficulté de -2 à l'attaque du Bellatores**.
-
-2. **Assaut 1** :
-   - *Bellatores* : Lance 2D6 → 3 et 4 → Comparé à Foie 3 + modificateur de difficulté -2 + Vocation 1 → **Réussite partielle**.
-   - *Laboratores* : Lance 2D6 → 1 et 3 → Comparé à Foie 2 + modificateur de difficulté +0 → **Réussite partielle**.
-   - **Résultat** : Réussite partielle du Bellatores vs Réussite partielle du Laboratores → **Rien**.
-
-3. **Assaut 2** :
-   - *Bellatores* : 2D6 → 1 et 2 → Comparé à Foie 3 + modificateur de difficulté -2 + Vocation 1 → **Réussite complète**.
-   - *Laboratores* : 2D6 → 2 et 5 → Comparé à Foie 2 + modificateur de difficulté +0 → **Réussite partielle**.
-   - **Résultat** : Réussite complète du Bellatores vs Réussite partielle du Laboratores → le Laboratores encaisse **1 Touche**.
-
-### **7. Adversaires multiples**
-Chaque protagoniste attaquant la même cible au-dela du niveau de Vocation de la cible ajoute un +1 au seuil de difficulté de chaque attaquant. 
-
-### **8. Combat de masse**
-TBD
 
