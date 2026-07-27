@@ -8,8 +8,6 @@ Les quatre "organes" principaux — le cœur, le foie, la rate et le cerveau —
 | Foie | force vitale | Puissance brute, endurance, fougue | Force physique, artisanat, combat, travail manuel, colère | 
 | Cerveau | raison | Raison, calcul, savoir occulte |  Réflexion, stratégie, magie, connaissance, tromperie, mémoire |
 | Rate | fortitude | Persévérance, adaptabilité, résistance passive | Résilience, patience, survie, discrétion, intuition |  
-   
-Base : 1
 
 ## Humeurs 
 
@@ -60,7 +58,7 @@ L'Estour représente le choc initial de la bataille, le souffle coupé, l'assomm
 
 Le score d'Estour est égal au score de Coeur.
 
-** Les Plies**
+**Les Plies**
 La Plie survient lorsque la garde cède et que le fer fend la peau : c'est l'entaille saignante, la chair déchirée et la brûlure du coup qui s'incruste. Ancrée dans la Rate, elle témoigne d'une atteinte physique profonde qui épuise la résistance naturelle et exige du temps, des bandages soigneux ou des remèdes d'herboriste pour pouvoir enfin cicatriser.
 
 Le score de Plies est égal au score de Rate.
