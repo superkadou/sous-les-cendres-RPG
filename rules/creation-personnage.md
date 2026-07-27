@@ -1,6 +1,6 @@
 # II. De la Naissance des Braves & Hardis
 
-#### L'Ordre Social  
+### L'Ordre Social  
 La société médiévale s’organise autour d’une tripartition idéale, reflétant une vision hiérarchisée et divine du monde. Cette division en [trois ordres — oratores, bellatores et laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md) — structure les rapports de pouvoir, les devoirs et les représentations collectives.
 Chaque Ordre possède une compétence passive unique qui reflète les capacites relatives à sa position dans la société des hommes.  
 
@@ -12,7 +12,7 @@ Chaque Ordre possède une compétence passive unique qui reflète les capacites 
 | **9–10** | **Oratores** *(Bas Clergé / Prêtres ruraux)* | **+2 Phlegme** & **+2 Sang**  | ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
 | **11–12** | **Bellatores** *(Petite Noblesse / Miles)* | **+2 Bile Jaune** & **+2 Bile Noire**  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 
-####  La Vocation  
+###  La Vocation  
 Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier. Les vocations se divisent en deux grandes familles :  
 
 | Jet (1d6) | Vocation | Description | Bonus Organes (+3) | Bonus Humeurs |
@@ -20,7 +20,7 @@ Chaque personnage a engrangé depuis le début de sa vie un certain nombre de co
 | **1–3** | **Arts** | **métiers manuels ou sociaux, basés sur la pratique** | **Foie**  & **Rate**  | **+1 Bile Jaune** |
 | **4–6** | **Savoirs** | **métiers intellectuels, basés sur la connaissance** | **Cerveau**  & **Coeur**  | **+1 Phlegme** |
 
-#### La Fratrie & Le Rang
+### La Fratrie & Le Rang
 
 | Jet (1d6) | Fratrie / Rang | Bonus Humeur |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Chaque personnage a engrangé depuis le début de sa vie un certain nombre de co
 | **3–5** | **Cadet(te)** *(Le Bachelier)* | **+1 Bile Jaune** ou **+1 Bile Noire**  |
 | **6** | **Bâtard(e)** *(L'Illégitime)* | **+1 Sang**  |
 
-#### L'humeur dominante
+### L'humeur dominante
 Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aussi la balance de ses fluides.
 
 La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nuance humorale secondaire ou viens renforcer l'humeur dominante (**+1 pt**).
@@ -40,7 +40,7 @@ La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nu
 | **4** | **Automne** | **Crépuscule** | **Mélancolique** | **Bile Noire** | Rate | 
 | **5 – 6** | **Hiver** | **Soir / Nuit** | **Flegmatique** | **Phlegme** | Cerveau | 
 
-#### L'Éducation de Jeunesse
+### L'Éducation de Jeunesse
 
 | Ordre | Jet (1d6) | Éducation de Jeunesse | Gain en Organe | Gain en Humeur |
 | --- | --- | --- | --- | --- | 
@@ -63,9 +63,7 @@ La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nu
 | | **5** | **Rude Labeur des Champs :** Travaux des saisons (moisson, vendanges, labour) mettant le corps à l'épreuve. | **+1 Foie** ou **+1 Rate** *(au choix)* | **+1 Bile Jaune** |
 | | **6** | **Débrouillardise Marchande :** Négociation sur les foires rurales, bagout et observation des gens. | **+1 Cerveau** ou **+1 Cœur** *(au choix)* | **+1 Sang** |
 
----
-
-#### Les Métiers de l'An Mil 
+### Les Métiers de l'An Mil 
 
 | Ordre | Jet (1d6) | Métier | Type | Gains Organes | Gains Humeurs | Équipement de départ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -82,8 +80,7 @@ La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nu
 | | **5** | **Intendant Domanial** | Savoir | **[ Option A : Comptable ]** +2 Cerveau **[ Option B : Régisseur ]** +1 Cerveau, +1 Foie | **+1 Phlegme**, **+1 Bile Noire** | Tablettes de cire, clés des granges, livre de comptes. |
 | | **6** | **Colporteur / Marchand** | Savoir | **[ Option A : Charismatique ]** +1 Cœur, +1 Cerveau **[ Option B : Voyageur ]** +1 Cœur, +1 Rate | **+2 Sang** | Mule de somme, balance de précision, bourse de deniers. |
 
-
-#### Le « Destin Contrarié »   
+### Le « Destin Contrarié »   
 
 Si le tirage du Métier ne correspond pas à la Vocation de naissance (ex: Vocation Savoirs mais Métier Arts), le personnage est victime d'un Destin Contrarié.  
 Sa Vocation représente son inclinaison naturelle, son talent brut ou son aspiration profonde tandis que son Métier représente ce que la vie, la famille ou son seigneur lui ont imposé.  
@@ -93,11 +90,78 @@ Pour illustrer cette frustration sociale, le personnage gagne immédiatement un 
 - L'Amertume : +2 Points de Bile Noire. Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde.  
 - La Résignation : +2 Points de Phlegme. Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  
 
-#### Le libre arbitre
+### Le libre arbitre
 Si la naissance et la condition façonnent l'homme, son libre arbitre lui appartient néanmoins.
 Avant de finaliser sa fiche, le joueur a le droit d'enlever 1 point dans un Organe de son choix pour le placer dans un autre Organe, sous réserve des deux contraintes suivantes :
 - Le plancher de 1 : Aucun Organe ne peut descendre en dessous de 1/6.
 - Le plafond de 6 : Aucun Organe ne peut dépasser 6/6 (si cela arrivait, le point excédentaire irait en Humeur).
 
-### Exemple de Fiche
+### Le nom
+
+Pour différencier les individus, on ajoutait au prénom un qualificatif qui n'était **pas encore héréditaire**. On utilisait quatre types de distinctions :
+
+* **La Filiation :** "Jean, fils de Robert".
+* **Le Métier :** "Pierre le Charpentier", "Guillaume le Berger".
+* **La Provenance Géographique :** "Thomas du Pont", "Arnaud de la Forêt", "Marie de Montfort".
+* **Le Caractère Physique ou Moral :** "Le Pauvre", "le Grand", "le Roux", "le Hardi".
+
+Ces qualificatifs ne sont pas de simples ornements : ils peuvent influencer la façon dont les autres perçoivent ton personnage, ou même ouvrir des opportunités narratives (un surnom comme "le Hardi" peut inspirer des quêtes liées à la bravoure, tandis que "le Roux" pourrait attirer des regards suspicieux dans un village superstitieux). Alors n'hésite surtout pas a faire un effort pour trouver un nom totalemetn adapté !
+
+Exemples de prénoms masculins :
+* Adalbert
+* Aldric
+* Ansegisel
+* Bernard
+* Childebert
+* Clovis
+* Dagobert
+* Eudes
+* Godefroy
+* Gérard
+* Gislebert
+* Hildebert
+* Hugues
+* Lothaire
+* Pépin
+* Ragenold
+* Rainfroy
+* Richard
+* Robert
+* Thierry
+* Guido
+* Charles
+* Hludowig
+* Arnoul
+* Bérenger
+
+Exemples de prénoms féminins :
+* Adélaïde
+* Aldane
+* Bertrade
+* Clotilde
+* Ermentrude
+* Gisèle
+* Hildegarde
+* Ingeltrude
+* Matilde
+* Richilde
+* Agnès
+* Aliénor
+* Béatrice
+* Clémence
+* Ersende
+* Hélène
+* Hersende
+* Judith
+* Mahaut
+* Odile
+* Aude
+* Berthe
+* Emma
+* Gerberge
+* Théodrade  
+
+---
+
+### Exemple de Fiche  
 [Aldebert le simplet](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
