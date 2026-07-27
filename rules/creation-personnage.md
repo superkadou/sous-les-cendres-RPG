@@ -28,8 +28,20 @@ Chaque personnage a engrangé depuis le début de sa vie un certain nombre de co
 | **3–5** | **Cadet(te)** *(Le Bachelier)* | **+1 Bile Jaune** ou **+1 Bile Noire**  |
 | **6** | **Bâtard(e)** *(L'Illégitime)* | **+1 Sang**  |
 
+## L'humeur dominante
 Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aussi la balance de ses fluides.
 
+> **Procédure :** Lancez **1d6 pour la Saison** et **1d6 pour le Moment du jour**.
+> * **Saison et Moment identiques :** Alignement Parfait ! L'enfant est pur produit de sa saison (**+3 pts** dans l'Humeur).
+> * **Saison et Moment différents :** La Saison fixe l'Humeur Dominante Native (**+2 pts**), le Moment du jour apporte une nuance humorale secondaire (**+1 pt**).
+
+
+| Jet (1d6) | Saison de Naissance | Moment de l'Accouchement | Tempérament natif | Humeur Dominante | Organe Lié | 
+| --- | --- | --- | --- | --- | --- |
+| **1 – 2** | **Printemps** | **Aurore** | **Sanguin** | **Sang** | Coeur |
+| **3** | **Été** | **Matin** | **Colérique** | **Bile Jaune** | Foie | 
+| **4** | **Automne** | **Crépuscule** | **Mélancolique** | **Bile Noire** | Rate | 
+| **5 – 6** | **Hiver** | **Soir / Nuit** | **Flegmatique** | **Phlegme** | Cerveau | 
 
 ## L'Éducation de Jeunesse
 
