@@ -1,21 +1,33 @@
 
-### **1. Virtus et Blessures**
-Chaque Touche deviens une Plaie. Une fois que le protagoniste a encaissé autant de Plaies que son score de Virtus, il fait désormais face à des blessures plus sérieuses.
-* Le premier Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne un Estour. Il s'accompagne d'un malus cumulatif de -1 à toutes les actions jusqu'à sa guérison.
-* Le deuxieme Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Plie. Elles s'accomapgne d'un deuxieme malus cumulatif de -1 à toutes les actions jusqu'à sa guerison.
-* Le troisième Assaut perdu occasionnant au moins une Touche suite à la perte de Virtus occasionne une Grieve Blessure. Elle s'accompagne d'un troisième malus cumulatif de -1 à toutes les actions jusqu'à sa guerison. De plus le protagoniste est incapable d'effectuer la moindre action d'une difficulté supérieure à trivial jusqu'à sa guérison.
+### **1. Virtus et Grièves blessures**
+La Virtus (Cœur + Rate) représente la réserve de souffle, d'équilibre et de résistance du personnage face aux agressions physiques et sociales.  
+- L'Estour (Coeur) : Le choc initial, le souffle coupé, l'hésitation ou la déstabilisation.  
+- Les Plies (Rate) : La chair entamée ou l'atteinte profonde à l'honneur et à la contenance.  
 
-Cas particulier d'une jouste sociale
-Les joutes sociales n'infligent pas de réelle blessures. Un personnage qui a épuisé sa Virtus (Estours + Plies) est automatiquement vaincu par la loghorrée ou la réthorique adverse.
-Un echec critique non neutralise par un echec critique opposé met fin a la joute et disqualifie automatiquement le protagoniste qui se ridiculise.
-Une reussite critique non neutralisee par une reussite critique opposé met fin a la joute et entraine la victoire automatique du protagoniste dont la reputation se trouve renforcée.
+Les touches subies par un personnage entament sa santé dans l'ordre suivant :
+- L'Estour (Coeur) : jusqu'à épuisement de la valeur de Coeur.
+- Les Pliès (Rate) : une fois l'Estour épuisé, jusqu'à épuisement de la valeur de Rate.
+- Les Grièves Blessures : Si le combat se poursuit au-delà de la Virtus (Cœur + Rate), chaque assaut perdu entame occasionne un nouveau stade de griève blessure : Destresse, Desconfiture et Trépas.
 
-### **3. Récupération**
-Suite à une confrontation physique les Estours se soignent automatiquement après un repos d'une durée égale au score de Virtus en minutes.
+#### **Destresse**  
+Le souffle court, la vision brouillée, le protagoniste chancelle.  
+- Effet : Perte de l'Ascendant (s'il était possédé) et malus de -1 à tous les jets.  
+#### **Desconfiture**   
+La douleur devient assourdissante, les forces abandonnent le corps.  
+- Effet : Malus cumulé de -2 à tous les jets (et toujours pas d'Ascendant).  
+#### **Trépas**    
+Membre brisé, hémorragie grave, choc vagal, le protagoniste s'effondre.  
+- Effet : Incapacité d'agir. La mort est imminente sous quelques rounds, à moins qu'un soigneur n'intervienne en urgence pour le stabiliser.  
+
+### **2. Récupération**
+
+#### **3.1 Combat physique**  
+Les Estours se soignent automatiquement après un repos d'une durée égale au score de Virtus en minutes.
 Les Plies se guérissent à raison de une par vingt-quatre heures de repos sans combat. 
 La guérison naturelle des Grièves blessures avance au rythme d'une blessure par semaine sans effort physique violent et nécessite des soins pour éviter les complications.
 
-Suite à une jouste sociale, un repos d'une durée égale au score de Virtus en heures suffit à récupérer les Estours et Plies infligées par la confrontation.
+#### **3.2 Jouste sociale**  
+Un repos d'une durée égale au score de Virtus en heures suffit à récupérer les Estours et Plies infligées par la confrontation.
 
 ### **4. Guérison**
 
