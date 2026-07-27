@@ -104,3 +104,9 @@ Sa Vocation représente son inclinaison naturelle, son talent brut ou son aspira
 Pour illustrer cette frustration sociale, le personnage gagne immédiatement un bonus permanent dans ses réserves d'Humeurs (au choix du joueur selon son tempérament) :
 - L'Amertume : +2 Points de Bile Noire. Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde.  
 - La Résignation : +2 Points de Phlegme. Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  
+
+## Le libre arbitre
+Si la naissance et la condition façonnent l'homme, son libre arbitre lui appartient néanmoins.
+Avant de finaliser sa fiche, le joueur a le droit d'enlever 1 point dans un Organe de son choix pour le placer dans un autre Organe, sous réserve des deux contraintes suivantes :
+- Le plancher de 1 : Aucun Organe ne peut descendre en dessous de 1/6.
+- Le plafond de 6 : Aucun Organe ne peut dépasser 6/6 (si cela arrivait, le point excédentaire irait en Humeur).
