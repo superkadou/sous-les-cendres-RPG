@@ -10,9 +10,7 @@ Vous êtes désormais prêts à partir à l'aventure !
 ### Exemple de Fiche
 [Aldebert le simplet](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
-### Déroulement du Tirage de la Phase 1 la naissance
-
-
+### 1 la naissance
 #### 1. L'Ordre Social
 
 | Jet 2d6 | Ordre Social | Gains d'Humeurs *(Points de réserve)* |
@@ -38,7 +36,7 @@ Vous êtes désormais prêts à partir à l'aventure !
 | **3–5** | **Cadet(te)** *(Le Bachelier)* | **+1 Bile Jaune** ou **+1 Bile Noire**  |
 | **6** | **Bâtard(e)** *(L'Illégitime)* | **+1 Sang**  |
 
-## Table d'Éducation de Jeunesse
+## L'Éducation de Jeunesse
 
 ### A. Bellatores (Ceux qui combattent)
 
@@ -79,54 +77,30 @@ Vous êtes désormais prêts à partir à l'aventure !
 
 ---
 
-## 4. Phase 3, Étape B : Les Métiers de l'An Mil 
+## Les Métiers de l'An Mil 
 
 | Ordre | Jet (1d6) | Métier | Type | Gains Organes | Gains Humeurs | Équipement de départ |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Bellatores** | **1–2** | **Miles** | Arts | **+1 Foie, +1 Rate** | **+2 Bile Jaune** | Brogne en cuir, lance, épée, destrier. |
-|  | **3–4** | **Routier / Sergent** | Arts | **+2 Foie** | **+1 Bile Jaune, +1 Bile Noire** | Hache de guerre, bouclier, calotte de fer. |
-|  | **5** | **Châtelain / Bailli** | Savoirs | **+1 Cerveau, +1 Cœur** | **+1 Phlegme, +1 Sang** | Sceau du fief, cor, droit de justice. |
-|  | **6** | **Viguier / Capitaine** | Savoirs | **+2 Cerveau** | **+2 Phlegme** | Clés de garnison, registre domanial. |
-| **Oratores** | **1–2** | **Moine Bâtisseur** | Arts | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Phlegme** | Outils de charpente, corde à nœuds, bure. |
-|  | **3–4** | **Frère Herbiste** | Arts | **+1 Rate, +1 Cerveau** | **+2 Phlegme** | Sacoche de plantes, mortier, baumes. |
-|  | **5** | **Moine Copiste** | Savoirs | **+2 Cerveau** | **+2 Phlegme** | Plumes, encre, parchemin, évangéliaire. |
-|  | **6** | **Prêtre de Paroisse** | Savoirs | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Croix de procession, relique, goupillon. |
-| **Laboratores** | **1–2** | **Fèvre / Forgeron** | Arts | **+2 Foie** | **+2 Bile Jaune** | Marteau de forge, tablier de cuir, tenailles. |
-|  | **3–4** | **Bûcheron** | Arts | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Sang** | Hache d'abattage, pieu ferré, pierre à aiguiser. |
-|  | **5** | **Intendant** | Savoirs | **+2 Cerveau** | **+1 Phlegme, +1 Bile Noire** | Tablettes de cire, clés des granges. |
-|  | **6** | **Colporteur** | Savoirs | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Mule de somme, balance de précision, deniers. |
+| **Bellatores**  | **1–2** | **Miles** *(Chevalier de choc)*  | Art | **[ Option A : Force ]** +1 Foie, +1 Rate **[ Option B : Tactique ]** +1 Foie, +1 Cerveau | **+2 Bile Jaune** | Brogne en cuir, lance, épée courte, destrier de combat. |
+| | **3–4** | **Routier / Sergent** |  Art | **[ Option A : Vétéran ]** +2 Foie **[ Option B : Aguerri ]** +1 Foie, +1 Rate | **+1 Bile Jaune**, **+1 Bile Noire** | Hache de guerre, bouclier en amande, calotte de fer. |
+| | **5** | **Châtelain / Bailli** |  Savoir | **[ Option A : Meneur ]** +1 Cœur, +1 Cerveau **[ Option B : Administrateur ]** +1 Cerveau, +1 Rate | **+1 Phlegme**, **+1 Sang** | Sceau du château, cor de guerre, droit de justice. |
+| | **6** | **Viguier / Capitaine** |  Savoir | **[ Option A : Stratège ]** +2 Cerveau **[ Option B : Incorruptible ]** +1 Cerveau, +1 Cœur | **+2 Phlegme** | Clés de la garnison, registre des redevances. |
+| **Oratores** | **1–2** | **Moine Bâtisseur** | Art | **[ Option A : Charpentier ]** +1 Foie, +1 Rate **[ Option B : Architecte ]** +1 Foie, +1 Cerveau | **+1 Bile Jaune**, **+1 Phlegme** | Outils de taille/charpente, corde à nœuds, bure grossière. |
+| | **3–4** | **Frère Herbiste** | Art | **[ Option A : Apothicaire ]** +1 Rate, +1 Cerveau **[ Option B : Soignant ]** +1 Rate, +1 Cœur | **+2 Phlegme** | Sacoche de remèdes, mortier, baumes et cautères. |
+| | **5** | **Moine Copiste** | Savoir | **[ Option A : Érudit ]** +2 Cerveau **[ Option B : Enlumineur ]** +1 Cerveau, +1 Rate | **+2 Phlegme** | Plumes, encre, parchemin, évangéliaire en latin. |
+| | **6** | **Prêtre de Paroisse** | Savoir | **[ Option A : Guide Moral ]** +1 Cœur, +1 Cerveau **[ Option B : Orateur ]** +2 Cœur | **+2 Sang** | Croix de procession, relique mineure, goupillon. |
+| **Laboratores** | **1–2** | **Fèvre / Forgeron** | Art | **[ Option A : Athlète ]** +2 Foie **[ Option B : Orfèvre/Métilleur ]** +1 Foie, +1 Rate | **+2 Bile Jaune** | Marteau de forge, tablier en cuir, tenailles. |
+| | **3–4** | **Bûcheron / Défricheur** | Art | **[ Option A : Robuste ]** +1 Foie, +1 Rate **[ Option B : Ténace ]** +1 Foie, +1 Cœur | **+1 Bile Jaune**, **+1 Sang** | Grande hache d'abattage, pieu ferré, pierre à aiguiser. |
+| | **5** | **Intendant Domanial** | Savoir | **[ Option A : Comptable ]** +2 Cerveau **[ Option B : Régisseur ]** +1 Cerveau, +1 Foie | **+1 Phlegme**, **+1 Bile Noire** | Tablettes de cire, clés des granges, livre de comptes. |
+| | **6** | **Colporteur / Marchand** | Savoir | **[ Option A : Charismatique ]** +1 Cœur, +1 Cerveau **[ Option B : Voyageur ]** +1 Cœur, +1 Rate | **+2 Sang** | Mule de somme, balance de précision, bourse de deniers. |
 
-## Métiers de la Phase 3B : Répartition Flexible
----
 
-### A. Bellatores (Ceux qui combattent)
+## Le « Destin Contrarié »   
 
-| 1d6 | Métier (An Mil) | Vocation | Choix des Points d'Organes | Gains d'Humeurs | Équipement de départ |
-| --- | --- | --- | --- | --- | --- |
-| **1–2** | **Miles** *(Chevalier de choc)* | Manuelle | **[ Option A : Force ]** +1 Foie, +1 Rate **[ Option B : Tactique ]** +1 Foie, +1 Cerveau | **+2 Bile Jaune** | Brogne en cuir, lance, épée courte, destrier de combat. |
-| **3–4** | **Routier / Sergent** | Manuelle | **[ Option A : Vétéran ]** +2 Foie **[ Option B : Aguerri ]** +1 Foie, +1 Rate | **+1 Bile Jaune**, **+1 Bile Noire** | Hache de guerre, bouclier en amande, calotte de fer. |
-| **5** | **Châtelain / Bailli** | Intellectuelle | **[ Option A : Meneur ]** +1 Cœur, +1 Cerveau **[ Option B : Administrateur ]** +1 Cerveau, +1 Rate | **+1 Phlegme**, **+1 Sang** | Sceau du château, cor de guerre, droit de justice. |
-| **6** | **Viguier / Capitaine** | Intellectuelle | **[ Option A : Stratège ]** +2 Cerveau **[ Option B : Incorruptible ]** +1 Cerveau, +1 Cœur | **+2 Phlegme** | Clés de la garnison, registre des redevances. |
+Si le tirage du Métier ne correspond pas à la Vocation de naissance (ex: Vocation Savoirs mais Métier Arts), le personnage est victime d'un Destin Contrarié.  
+Sa Vocation représente son inclinaison naturelle, son talent brut ou son aspiration profonde tandis que son Métier représente ce que la vie, la famille ou son seigneur lui ont imposé.  
 
----
-
-### B. Oratores (Ceux qui prient)
-
-| 1d6 | Métier (An Mil) | Vocation | Choix des Points d'Organes | Gains d'Humeurs | Équipement de départ |
-| --- | --- | --- | --- | --- | --- |
-| **1–2** | **Moine Bâtisseur** | Manuelle | **[ Option A : Charpentier ]** +1 Foie, +1 Rate **[ Option B : Architecte ]** +1 Foie, +1 Cerveau | **+1 Bile Jaune**, **+1 Phlegme** | Outils de taille/charpente, corde à nœuds, bure grossière. |
-| **3–4** | **Frère Herbiste** | Manuelle | **[ Option A : Apothicaire ]** +1 Rate, +1 Cerveau **[ Option B : Soignant ]** +1 Rate, +1 Cœur | **+2 Phlegme** | Sacoche de remèdes, mortier, baumes et cautères. |
-| **5** | **Moine Copiste** | Intellectuelle | **[ Option A : Érudit ]** +2 Cerveau **[ Option B : Enlumineur ]** +1 Cerveau, +1 Rate | **+2 Phlegme** | Plumes, encre, parchemin, évangéliaire en latin. |
-| **6** | **Prêtre de Paroisse** | Intellectuelle | **[ Option A : Guide Moral ]** +1 Cœur, +1 Cerveau **[ Option B : Orateur ]** +2 Cœur | **+2 Sang** | Croix de procession, relique mineure, goupillon. |
-
----
-
-### C. Laboratores (Ceux qui travaillent)
-
-| 1d6 | Métier (An Mil) | Vocation | Choix des Points d'Organes | Gains d'Humeurs | Équipement de départ |
-| --- | --- | --- | --- | --- | --- |
-| **1–2** | **Fèvre / Forgeron** | Manuelle | **[ Option A : Athlète ]** +2 Foie **[ Option B : Orfèvre/Métilleur ]** +1 Foie, +1 Rate | **+2 Bile Jaune** | Marteau de forge, tablier en cuir, tenailles. |
-| **3–4** | **Bûcheron / Défricheur** | Manuelle | **[ Option A : Robuste ]** +1 Foie, +1 Rate **[ Option B : Ténace ]** +1 Foie, +1 Cœur | **+1 Bile Jaune**, **+1 Sang** | Grande hache d'abattage, pieu ferré, pierre à aiguiser. |
-| **5** | **Intendant Domanial** | Intellectuelle | **[ Option A : Comptable ]** +2 Cerveau **[ Option B : Régisseur ]** +1 Cerveau, +1 Foie | **+1 Phlegme**, **+1 Bile Noire** | Tablettes de cire, clés des granges, livre de comptes. |
-| **6** | **Colporteur / Marchand** | Intellectuel | **[ Option A : Charismatique ]** +1 Cœur, +1 Cerveau **[ Option B : Voyageur ]** +1 Cœur, +1 Rate | **+2 Sang** | Mule de somme, balance de précision, bourse de deniers. |
-
+2. L'Amertume et la Résignation  
+Pour illustrer cette frustration sociale, le personnage gagne immédiatement un bonus permanent dans ses réserves d'Humeurs (au choix du joueur selon son tempérament) :
+- L'Amertume : +2 Points de Bile Noire. Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde.  
+- La Résignation : +2 Points de Phlegme. Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  
