@@ -2,7 +2,15 @@
 ### La naissance
 
 [xXx](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
-#### L'Ordre Social
+#### L'Ordre Social  
+La société médiévale s’organise autour d’une tripartition idéale, reflétant une vision hiérarchisée et divine du monde. Cette division en [trois ordres — oratores, bellatores et laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/world/monde-contexte-social.md) — structure les rapports de pouvoir, les devoirs et les représentations collectives.
+Chaque Ordre possède une compétence unique qui reflète les capacites relatives à sa position dans la société des hommes.
+| Classe | Fonction | Compétence | Utilité |
+| --- | --- | --- | --- |
+| Oratores | ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
+| Bellatores  | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
+| Laboratores | ceux qui travaillent | Prudhomie | Sagesse populaire / débrouillardise paysanne : Permet de trouver des solutions improvisées et de résister aux épreuves avec opiniatreté |    
+
 
 | Jet (2d6) | Ordre Social | Gains d'Humeurs |
 | --- | --- | --- |
