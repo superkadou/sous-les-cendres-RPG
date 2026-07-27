@@ -49,7 +49,10 @@
 ## IX. Des Tables de Consultation & de Fortune
 
 ## X. Des Parchemins Vierges pour la Mémoire des Faicts
-
+* ### [Bellatores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_bellatores-v0.10.png)
+* ### [Oratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_oratores-v0.10.png)
+* ### [Laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_laboratores-v0.10.png)
+* 
 ## XI. Petit Glossaire des Vieux Mots & Termes
 
 ## XII. Table Alphabétique des Matières
