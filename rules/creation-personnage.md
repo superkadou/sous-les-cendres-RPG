@@ -95,3 +95,38 @@ Vous êtes désormais prêts à partir à l'aventure !
 |  | **3–4** | **Bûcheron** | Arts | **+1 Foie, +1 Rate** | **+1 Bile Jaune, +1 Sang** | Hache d'abattage, pieu ferré, pierre à aiguiser. |
 |  | **5** | **Intendant** | Savoirs | **+2 Cerveau** | **+1 Phlegme, +1 Bile Noire** | Tablettes de cire, clés des granges. |
 |  | **6** | **Colporteur** | Savoirs | **+1 Cœur, +1 Cerveau** | **+2 Sang** | Mule de somme, balance de précision, deniers. |
+
+## Métiers de la Phase 3B : Répartition Flexible
+---
+
+### A. Bellatores (Ceux qui combattent)
+
+| 1d6 | Métier (An Mil) | Vocation | Choix des Points d'Organes | Gains d'Humeurs | Équipement de départ |
+| --- | --- | --- | --- | --- | --- |
+| **1–2** | **Miles** *(Chevalier de choc)* | Manuelle | **[ Option A : Force ]** +1 Foie, +1 Rate **[ Option B : Tactique ]** +1 Foie, +1 Cerveau | **+2 Bile Jaune** | Brogne en cuir, lance, épée courte, destrier de combat. |
+| **3–4** | **Routier / Sergent** | Manuelle | **[ Option A : Vétéran ]** +2 Foie **[ Option B : Aguerri ]** +1 Foie, +1 Rate | **+1 Bile Jaune**, **+1 Bile Noire** | Hache de guerre, bouclier en amande, calotte de fer. |
+| **5** | **Châtelain / Bailli** | Intellectuelle | **[ Option A : Meneur ]** +1 Cœur, +1 Cerveau **[ Option B : Administrateur ]** +1 Cerveau, +1 Rate | **+1 Phlegme**, **+1 Sang** | Sceau du château, cor de guerre, droit de justice. |
+| **6** | **Viguier / Capitaine** | Intellectuelle | **[ Option A : Stratège ]** +2 Cerveau **[ Option B : Incorruptible ]** +1 Cerveau, +1 Cœur | **+2 Phlegme** | Clés de la garnison, registre des redevances. |
+
+---
+
+### B. Oratores (Ceux qui prient)
+
+| 1d6 | Métier (An Mil) | Vocation | Choix des Points d'Organes | Gains d'Humeurs | Équipement de départ |
+| --- | --- | --- | --- | --- | --- |
+| **1–2** | **Moine Bâtisseur** | Manuelle | **[ Option A : Charpentier ]** +1 Foie, +1 Rate **[ Option B : Architecte ]** +1 Foie, +1 Cerveau | **+1 Bile Jaune**, **+1 Phlegme** | Outils de taille/charpente, corde à nœuds, bure grossière. |
+| **3–4** | **Frère Herbiste** | Manuelle | **[ Option A : Apothicaire ]** +1 Rate, +1 Cerveau **[ Option B : Soignant ]** +1 Rate, +1 Cœur | **+2 Phlegme** | Sacoche de remèdes, mortier, baumes et cautères. |
+| **5** | **Moine Copiste** | Intellectuelle | **[ Option A : Érudit ]** +2 Cerveau **[ Option B : Enlumineur ]** +1 Cerveau, +1 Rate | **+2 Phlegme** | Plumes, encre, parchemin, évangéliaire en latin. |
+| **6** | **Prêtre de Paroisse** | Intellectuelle | **[ Option A : Guide Moral ]** +1 Cœur, +1 Cerveau **[ Option B : Orateur ]** +2 Cœur | **+2 Sang** | Croix de procession, relique mineure, goupillon. |
+
+---
+
+### C. Laboratores (Ceux qui travaillent)
+
+| 1d6 | Métier (An Mil) | Vocation | Choix des Points d'Organes | Gains d'Humeurs | Équipement de départ |
+| --- | --- | --- | --- | --- | --- |
+| **1–2** | **Fèvre / Forgeron** | Manuelle | **[ Option A : Athlète ]** +2 Foie **[ Option B : Orfèvre/Métilleur ]** +1 Foie, +1 Rate | **+2 Bile Jaune** | Marteau de forge, tablier en cuir, tenailles. |
+| **3–4** | **Bûcheron / Défricheur** | Manuelle | **[ Option A : Robuste ]** +1 Foie, +1 Rate **[ Option B : Ténace ]** +1 Foie, +1 Cœur | **+1 Bile Jaune**, **+1 Sang** | Grande hache d'abattage, pieu ferré, pierre à aiguiser. |
+| **5** | **Intendant Domanial** | Intellectuelle | **[ Option A : Comptable ]** +2 Cerveau **[ Option B : Régisseur ]** +1 Cerveau, +1 Foie | **+1 Phlegme**, **+1 Bile Noire** | Tablettes de cire, clés des granges, livre de comptes. |
+| **6** | **Colporteur / Marchand** | Intellectuel | **[ Option A : Charismatique ]** +1 Cœur, +1 Cerveau **[ Option B : Voyageur ]** +1 Cœur, +1 Rate | **+2 Sang** | Mule de somme, balance de précision, bourse de deniers. |
+
