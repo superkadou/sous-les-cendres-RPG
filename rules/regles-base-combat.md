@@ -94,14 +94,19 @@ L'inquisiteur devient le Champion. L'avantage de Frère Bernard est annulé : le
 
 ---
 ### 4.  **Miséricorde et coup de grâce**
-Un protagoniste peux demander la fin du combat et se déclarer vaincu à tout moment. Il appartiens alors au vainqueur de decide que faire : accorder la Misericorde ou la refuser. Il est évident qu'un laboratores aura plus de chance d'obtenir miséricorde d'un Bellatores qu'un brigand, sans aucune garantie néanmoins.
 
-Le protagoniste, jette son arme au sol et leves les mains et/ou met un genou a terre en signe de reddition. 
-Le vainqueur peux alors poser le bout de son arme sur l'epaule du vaincu qui baisse la tete et tends les mains pour signifier sa soumission. Le vaincu sera probablement redevable d'une rançon, d'un serment de loyauté ou subir une mutilation en guise de punition. De la prison, de la torture ou du servage sont également possible selon les cas.
-Si le vainqueur peux egalement refuser et porter le coup de grâce au vaincu. La miséricorde ne peux être demandée en cas de duel judiciaire à mort.
+Un protagoniste peut demander la fin du combat et se déclarer vaincu à tout moment. Il appartient alors au vainqueur de décider du sort de son rival : accorder la Miséricorde ou la refuser. Il est évident qu'un Laboratores aura plus de chances d'obtenir grâce auprès d'un Bellatores qu'un vulgaire brigand, sans qu'aucune garantie ne soit jamais acquise.
 
+Le Rituel de Soumission  
+Pour demander grâce, le vaincu jette son arme au sol, lève les mains ou pose un genou à terre. Le vainqueur scelle sa victoire en posant la pointe ou la lame de son arme sur l'épaule du vaincu, qui baisse la tête et tend les poignets pour signifier sa soumission.
 
+Les Conséquences de la Grâce  
+Un vaincu épargné s'expose à la volonté de son vainqueur. Selon son rang et la nature du conflit, il pourra être contraint à :
+- Le paiement d'une rançon ou la prétation d'un serment de loyauté ;
+- Une mutilation en guise de châtiment corporel ;
+- La prison, la torture ou la réduction au servage.
 
+Refus et Coup de Grâce  
+Le vainqueur conserve le droit de refuser la reddition et de porter immédiatement le coup de grâce.
 
-
-
+Exception : La Miséricorde ne peut jamais être demandée ni accordée lors d'un duel judiciaire à mort.
