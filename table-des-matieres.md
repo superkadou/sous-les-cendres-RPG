@@ -6,7 +6,14 @@
 * ### [Mon Intention & Devisement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
 * ### [Du Harnois pour bien ouyr de ces contes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
 
-## II. De la Naissance des Braves & Hardis
+## II. L’Ordre du Ieu et des Faicts
+* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
+* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-blessures-guerison.md)
+* ### [Des Arts Secrets, Magies & Haulx Pouuoirs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-magie.md)
+* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-voyage.md)
+* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
+
+## III. De la Naissance des Braves & Hardis
 * ### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-nom-ordre-social-vocation.md)
 * ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
 * ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
@@ -14,14 +21,7 @@
 * ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage.md)
 * ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
-## III. L’Ordre du Ieu et des Faicts
-* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
-* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-blessures-guerison.md)
-* ### [Des Arts Secrets, Magies & Haulx Pouuoirs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-magie.md)
-* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-voyage.md)
-* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
-
-## IV. Les Secrets du Maistre des Conteurs
+## IV. Les Secrets du Maistre Conteur
 * ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
 * ### [De la Conduite des Compagnons & de l'Entente à Table](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
 * ### [De l'Ajustement des Loys & de l'Arbitrage](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md#iii-de-lajustement-des-loys--de-larbitrage)
@@ -32,7 +32,7 @@
 * ### [Des Grands Fléaux & Puissants Tyrans](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-unique.md) 
 * ### De l'Art de Façonner ses Propres Aduersaires
 
-## VI. Chroniques du monde de Sous les Cendres : les Runes et la Croix
+## VI. Chroniques du monde 
 * ### [Des Gestes du Passé & de l’Assise des Terres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-historique.md)
 * ### [Des Usages, Mœurs & Communs Estres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
 * ### [De l’Art de Guérir & de la Foy des Âmes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-medecine.md)
@@ -45,7 +45,8 @@
 * ### "La Couronne des Ombres" (campagne)
 
 ## VIII. L’Escrit des Additions
-
+* ### "Le pense bête du Maistre Conteur"
+  
 ## IX. Des Tables de Consultation & de Fortune
 
 ## X. Des Parchemins Vierges pour la Mémoire des Faicts
