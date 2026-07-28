@@ -14,7 +14,7 @@ Cas particulier des combats physiques ou sociaux
 - Attaque : Foie (force/loghorée) ou Cerveau (précision/réthorique).
 - Défense : Coeur (résistance/volonté) ou Rate (esquive/opiniatreté).
 
-Un protagoniste non entrainé (ie sans Vocation expliquant un entrainement au maniement des armes) utilisera son Foie et son Coeur poour les actions physiques et son Cerveau et sa Rate pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
+Un protagoniste non entrainé (ie sans Vocation expliquant un entrainement au maniement des armes ou aux arts oratoires) utilisera son Foie et sa Rate pour les actions physiques et son Cerveau et son Coeur pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
 
 ### **2. Les Degrés de Réussite**
 Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de difficulté :
@@ -65,7 +65,7 @@ Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action décle
 | XXI | Le Monde | Accomplissement, totalité, succès | Fin brutale, incomplétude, vanité |
 
 * #### **Améliorer son jet**
-Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour ajouter ou retrancher 1 à l’un de ses dés (avant ou après le jet).
+Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
 Cela lui permet de transformer un dé en échec (supérieur au seuil) en dé en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite complète, eviter un échec critique, ou transformer une réussite en réussite critique.
 
 Exemples :
@@ -89,18 +89,4 @@ Le seuil de difficulté pour une action non conflictuelle est calculée comme su
 | **Très Difficile** | -3 | 5 | +2 |
 | **Héroïque** | -5 | 6 | +3 |
 | **Légendaire** | -7 | 7 | +5 |
-
----
-### **5. Actions conflictuelles**
-* Principe :
-     - Deux protagonistes s’affrontent en lançant chacun **2d6 + organe pertinent** contre la difficulté associée à la valeur de l'organe opposé
-* Résolution :
-     - reussite critique > reussite totale > reussite partielle > echec > echec critique
-     En cas d'égalité, l'avantage va à la "defense" qui neutralise la tentative de son adversaire.
-
-| **Protagoniste 1 \ Protagoniste 2** | **Réussite Complète** | **Réussite Partielle** | **Échec**  |
-| --- | --- | ---| --- |
-| **Réussite Complète** | Rien | **1 Touche** | **2 Touches** |
-| **Réussite Partielle** | **1 Touche** | Rien | **1 Touche** |
-| **Échec** | **2 Touches** | **1 Touche** | Rien |
 
