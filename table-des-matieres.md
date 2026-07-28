@@ -12,7 +12,7 @@
 * ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
 * ### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
 * ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage.md)
-* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/creation-personnage-exemple.md)
+* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
 
 ## III. L’Ordre du Ieu et des Faicts
 * ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
