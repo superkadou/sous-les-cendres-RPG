@@ -81,7 +81,7 @@ Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dép
 
 Le corps humain est gouverné par quatre Humeurs (liquides vitaux), chacune associée à un élément, une saison, un tempérament, et un organe principal. L’équilibre (eucrasie) de ces humeurs garantit la santé, tandis que leur déséquilibre (dyscrasie) provoque maladies, troubles mentaux et même des comportements pécheurs.
 
-Une fois par test de d'organe, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
+Une fois par test de d'organe, un personnage peut dépenser 1, et un seul, point d'humeur pour retrancher 1 à l’un de ses dés (avant ou après le jet).
 Cela lui permet de transformer un échec (supérieur au seuil) en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite partielle, complète, éviter un échec critique, ou transformer une réussite en réussite critique.
 
 * **Table de correspondance Organe - Humeur**
