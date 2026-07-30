@@ -49,7 +49,7 @@ Pour vous adonner à ce Ieu de Paroles, point n'est besoin de trésors, mais de 
 * **Ce codex** (que vous tenez entre vos mains),
 * **Du parchemin** ou quelque papier grossier,
 * **Une plume**, un morceau de charbon, ou tout ce qui trace,
-* **Deux dés à six faces différenciables** (ces petits osselets du destin),
+* **Deux dés à six faces discernables** (ces petits osselets du destin),
 * **Une imagination débridée** (la plus précieuse des ressources),
 * Et une **mesnie de bonnes gens**, dont l’un d’eux acceptera d’endosser le rôle de Maistre des Contes.
 
