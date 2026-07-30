@@ -12,10 +12,10 @@ Chaque Ordre possède une compétence passive unique qui reflète les capacites 
 | **9–10** | **Oratores** *(Bas Clergé / Prêtres ruraux)* |  ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
 | **11–12** | **Bellatores** *(Petite Noblesse / Miles)* |  ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 
-### L'humeur dominante
+### L'Humeur dominante
 Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aussi la balance de ses fluides.
 
-La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nuance humorale secondaire ou viens renforcer l'humeur dominante (**+1 pt**).
+La Saison fixe l'Humeur Dominante. Le Moment du jour apporte une nuance humorale secondaire ou viens renforcer l'humeur dominante.
 
 | Jet (1d6) | Saison de Naissance | Moment de l'Accouchement | Tempérament natif | Humeur Dominante | Organe Lié | 
 | --- | --- | --- | --- | --- | --- |
@@ -26,11 +26,11 @@ La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nu
 
 ### La Fratrie & Le Rang
 
-| Jet (1d6) | Fratrie / Rang |
-| --- | --- | 
-| **1–2** | **Aîné(e)** *(L'Héritier)* | 
-| **3–5** | **Cadet(te)** *(Le Bachelier)* | 
-| **6** | **Bâtard(e)** *(L'Illégitime)* |
+| Jet (1d6) | Fratrie / Rang | Spécial |
+| --- | --- | --- |
+| **1–2** | **Aîné(e)** *(L'Héritier)* | - |
+| **3–5** | **Cadet(te)** *(Le Bachelier)* | - | 
+| **6** | **Bâtard(e)** *(L'Illégitime)* | +1 Humeur | 
 
 ###  La Vocation  
 Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier. Les vocations se divisent en deux grandes familles :  
@@ -89,6 +89,9 @@ Sa Vocation représente son inclinaison naturelle, son talent brut ou son aspira
 Pour illustrer cette frustration sociale, le personnage gagne immédiatement un bonus permanent de +2 dans sa réserves d'Humeurs :
 - L'Amertume :  Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde. Changement humeur dominante autorise pour : Biliaire 
 - La Résignation :  Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  Changement humeur dominante autorisé pour : Phlegmatique
+
+### Humeur  
+Le score d'humeur est égal au score d'organe maximal, auquel viens se rejouter les differents bonus.  
 
 ### Le libre arbitre
 Si la naissance et la condition façonnent l'homme, son libre arbitre lui appartient néanmoins.
