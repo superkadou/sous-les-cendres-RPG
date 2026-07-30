@@ -1,3 +1,4 @@
+# Des paroles et des merveilles
 
 Les hommes disent volontiers que les paroles s'envolent et que les écrits demeurent. Ils se trompent. Les paroles demeurent elles aussi, lorsqu'elles sont répétées de bouche en bouche, de génération en génération, jusqu'à ne plus appartenir à ceux qui les prononcèrent.
 
