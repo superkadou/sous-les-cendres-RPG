@@ -44,7 +44,7 @@ Exemple : Un personnage avec Sang 4 peut dépenser 1 points pour obtenir +1 à u
 
 ## Virtus
 
-**La Virtus, fondement de la résistance**
+### **La Virtus, fondement de la résistance**  
 
 À l’aube du Moyen Âge, la *Virtus* incarne bien plus que la simple vigueur du corps : elle est le souffle même qui anime l’être, cette **force vitale** où se mêlent la ténacité de l’âme et l’endurance de la chair. Les médecins, héritiers d’Hippocrate et de Galien, y voyaient l’équilibre fragile entre les humeurs et les organes, un rempart invisible contre les assauts du destin. Pour un paysan comme pour un chevalier, la Virtus détermine cette capacité à **tenir debout** malgré les coups du sort — qu’ils soient portés par une lame, une fièvre, ou le poids des serments brisés.
 
@@ -52,13 +52,13 @@ Dans les joutes comme dans les épreuves, elle se mesure à l’aune de la **Rat
 
 Le score de base de la cactéristique Virtus est la somme du score de Rate et du score de Coeur.
 
-### Estours et Plies
+### Estours et Plies  
 **Les Estours**  
 L'Estour représente le choc initial de la bataille, le souffle coupé, l'assommoir ou l'hématome douloureux qui ébranle le combattant sans entamer sa chair. Né de lépuisement progressif du Coeur, cet état de choc passager trouble la vision et engourdit les réflexes, mais s'efface rapidement après un court instant de répit ou quelques mots d'encouragement.
 
 Le score d'Estour est égal au score de Coeur.
 
-**Les Plies**
+**Les Plies**  
 La Plie survient lorsque la garde cède et que le fer fend la peau : c'est l'entaille saignante, la chair déchirée et la brûlure du coup qui s'incruste. Ancrée dans la Rate, elle témoigne d'une atteinte physique profonde qui épuise la résistance naturelle et exige du temps, des bandages soigneux ou des remèdes d'herboriste pour pouvoir enfin cicatriser.
 
 Le score de Plies est égal au score de Rate.
