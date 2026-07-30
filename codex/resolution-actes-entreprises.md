@@ -1,7 +1,7 @@
 # III. **De la Résolution des Actes & Entreprises**
 
 ### **1. Le Principe des Jets d’Organes**
-Dans sous les cendres, les Runes et la Croix, les actions des protagonistes sont résolues à l’aide de leurs **Organes**. Chaque organe est associé symboliquement a un ensemble d'actions et de concepts qui servira à résoudre.
+Dans le Ieu de Paroles, les actions des protagonistes sont résolues à l’aide de leurs **Organes**. Chaque organe est associé symboliquement a un ensemble d'actions et de concepts qui servira à résoudre.
 
 | Organe | Siege | Symbolique | Actions
 | --- | --- | --- | --- |
