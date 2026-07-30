@@ -35,10 +35,11 @@ Le niveau d'Opulence nécessaire pour pouvoir acheter un objet sans perdre de ni
 
 | Qualité | Effet |
 | --- | --- |
-| Affutée | Occasionne systématiquement des plaies sérieuses ou plus sur une réussite compléte |
-| Lourde(n) | Attrition (Phlegme n) : La cible doit dépenser n Phlegme ou subir -1 à l'assaut suivant | 
-| Résistante(n) | Absorbe n Touche/round au coût de 1 Phlegme par touche absorbée |
-| Brutale(n) | Inflige +n Touches sur une réussite complète |
+| Affutée | N'occasionne jamais d'Estours |
+| Lourde(n) | Ignore n niveau de Resistant |
+| Attrition (n) | La cible doit dépenser n points d'Humeurs ou subir -1 à l'assaut suivant | 
+| Résistante(n) | Absorbe n Touches/Assaut par touche absorbée |
+| Brutale | Inflige +1 Touche sur une réussite complète |
 | Équilibrée | Ignore les malus de Virtus |
 | Emoussée | Ne peux occasionner que des plaies légères | 
 | Mastercraft(n) | +n au seuil de compétence |
