@@ -23,9 +23,9 @@ Un objet ne peux pas avoir plus d'attribut que sa qualité.
 | Niveau | Points d’Attributs | Description | Exemples d’Objets |
 | --- | --- | --- | --- |
 | Improvisé | 0 | Objet de fortune, automatiquement Emoussé | Branche, couteau rouillé |
-| Commun | 0 | Objet basique | Épée standard, bouclier en bois |
+| Commun | 0 | Objet basique | Épée standard, bouclier en bois, gambison |
 | Qualité | 1 | Objet bien conçu | Épée forgée, armure en cuir renforcé |
-| Mastercraft | 2 | Objet maître | Épée damassée, armure en acier |
+| Mastercraft | 2 | Objet maître | Épée damassée, cotte de mailles |
 | Légendaire | 3 | Objet unique exceptionnel | Épée des rois, armure runique |
 | Relique | 4 |  Objet mythiquee | Artefact maudit, arme divine |
 
@@ -37,7 +37,7 @@ Le niveau d'Opulence nécessaire pour pouvoir acheter un objet sans perdre de ni
 | --- | --- |
 | Affutée | N'occasionne jamais d'Estours |
 | Lourde(n) | Ignore n niveau de Resistant |
-| Attrition (n) | La cible doit dépenser n points d'Humeurs ou subir -1 à l'assaut suivant | 
+| Attrition(n) | La cible doit dépenser n points d'Humeurs ou subir -1 à l'assaut suivant | 
 | Résistante(n) | Absorbe n Touches/Assaut par touche absorbée |
 | Brutale | Inflige +1 Touche sur une réussite complète |
 | Équilibrée | Ignore les malus de Virtus |
