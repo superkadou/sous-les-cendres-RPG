@@ -2,12 +2,12 @@
 
 Les quatre "organes" principaux — le cœur, le foie, la rate et le cerveau — sont considérés comme les sièges des émotions, de la force vitale, de la force spirituelle et du raisonnement. Ces conceptions, souvent symboliques plutôt qu’anatomiques, structurent la compréhension du corps et de l’esprit.
 
-| Organe | Siege | Symbolique | Actions
-| --- | --- | --- | --- |
-| Coeur |  emotions | Volonté, émotion, endurance spirituelle | Courage, charisme, résistance morale, persuasion, leadership, amour |   
-| Foie | force vitale | Puissance brute, endurance, fougue | Force physique, artisanat, combat, travail manuel, colère | 
-| Cerveau | raison | Raison, calcul, savoir occulte |  Réflexion, stratégie, magie, connaissance, tromperie, mémoire |
-| Rate | fortitude | Persévérance, adaptabilité, résistance passive | Résilience, patience, survie, discrétion, intuition |  
+| Organe | Siege | Type | Symbolique | Actions | 
+| --- | --- | --- | --- | --- |
+| Coeur |  emotions | Passif / défensif | Volonté, émotion, endurance spirituelle | Courage, charisme, résistance morale, persuasion, leadership, amour |   
+| Foie | force vitale | Actif / offensif | Puissance brute, endurance, fougue | Force physique, artisanat, combat, travail manuel, colère | 
+| Cerveau | raison | Actif / offensif | Raison, calcul, savoir occulte |  Réflexion, stratégie, magie, connaissance, tromperie, mémoire |
+| Rate | fortitude | Passif / défensif | Persévérance, adaptabilité, résistance passive | Résilience, patience, survie, discrétion, intuition |  
 
 ## Humeurs 
 
