@@ -54,12 +54,12 @@ Un repos d'une durée égale au score de Virtus en heures suffit à récupérer 
 
 ### **X. Eucrasie et Dyscrasie**
 
-La dyscrasie n'est point une maladie, mais le terreau où les maladies prennent racine. Un corps désaccordé résiste moins aux blessures, aux fièvres, aux poisons et aux rigueurs du monde. Aussi le Maistre des Contes est-il libre d'y voir l'origine de bien des maux, selon les croyances des hommes et le jugement du récit.
+L'eucrasie représente l'équilibre, l'état idéal de l'être humain. La dyscrasie n'est point une maladie, mais le terreau où les maladies prennent racine. Un corps désaccordé résiste moins aux blessures, aux fièvres, aux poisons et aux rigueurs du monde. Aussi le Maistre des Contes est-il libre d'y voir l'origine de bien des maux, selon les croyances des hommes et le jugement du récit.
 
 Dès que le pool d'Humeurs diminue sous la moitie (arrondie à l'inférieure) du score maximal, le personne entre en Dyscrasie.
 A partir de ce moment, chaque dépense d'un point d'humeur, doit s'accompagner d'un effet d'une durée de plusieurs Assauts lié à l'organe concerné. Par ailleurs le Maistre des conteurs dispoe de toute license pour aggraver certaines circonstances s'il le souhaite.
 
-* Table
+* Table des afflictions humorales  
   
 | **Humeur** | **Organe** | **Dyscrasie** |
 | --- | --- | --- |
@@ -70,13 +70,19 @@ A partir de ce moment, chaque dépense d'un point d'humeur, doit s'accompagner d
 
 ### **X. Récupération**
 
-La récupération de points d'humeur passe par le repos et la mise en contact avec des éléments associés à l'humeur que l'on souhaite restorer.
+Le seul moyen de soigner une dyscrasie est de rééquilibrer les humeurs en regagnant des point d'humeur. Le repos permet de régénérer la réserve générale d'Humeur en purifiant et en rééquilibrant les fluides du corps.
 
-| **Humeur** | **Organe** | **Plantes** | **Materiaux et objets** |
-| --- | --- | --- | --- | 
-| **Sang** |  Cœur | Roses, vin rouge, cannelle, grenade, piment, guimauve | Cuivre, rubis, sang de dragon (résine), corail, étoffes rouges, clochettes |
-| **Bile jaune** | Foie | Chardon-Marie, absinthe, romarin, pissenlit, moutarde, achillée millefeuille | Or, topaze, soufre, armes en acier, étoffes jaunes |
-| **Bile noire** | Rate | Sauge, lavande, camomille, myrrhe, belladone, jusquiame, armoise | Plomb, onyx, ébène, miroirs noirs, encens noir, parchemins de peau de bouc |
-| **Phlegme** | Cerveau | Menthe, guimauve, saule, lotier, valériane, mélisse, tilleul | Argent, cristal de roche, étain, soie, perles, coupes en étain, eau de source |
+Une nuit de sommeil complète (sans interruption majeure) permet de restaurer 1 point d'Humeur. Si le personnage consomme ou applique juste avant ou s'entoure pendant son repos d'éléments associés aux différentes Humeurs (plantes, cataplasmes, boissons, rites, objets d'affinité), il accélère alors son rééquilibrage à raison de +1 point d'Humeur supplémentaire par Humeur différente représentée.
 
-Le seul moyen de soigner une dyscrasie est de rééquilibrer les humeurs en regagnant des point d'humeur comme mentionné ci-dessus.
+Limite : La récupération est plafonnée à 5 points d'Humeur maximum par nuitée (1 point de base + 1 point pour chacune des 4 Humeurs).
+
+* Table des correspondances humorales
+  
+| **Humeur** | **Plantes** | **Materiaux et objets** |
+| --- | --- | --- | 
+| **Sang** |  Roses, vin rouge, cannelle, grenade, piment, guimauve | Cuivre, rubis, sang de dragon (résine), corail, étoffes rouges, clochettes |
+| **Bile jaune** | Chardon-Marie, absinthe, romarin, pissenlit, moutarde, achillée millefeuille | Or, topaze, soufre, armes en acier, étoffes jaunes |
+| **Bile noire** | Sauge, lavande, camomille, myrrhe, belladone, jusquiame, armoise | Plomb, onyx, ébène, miroirs noirs, encens noir, parchemins de peau de bouc |
+| **Phlegme** | Menthe, guimauve, saule, lotier, valériane, mélisse, tilleul | Argent, cristal de roche, étain, soie, perles, coupes en étain, eau de source |
+
+
