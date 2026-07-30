@@ -10,8 +10,8 @@
 ## Livre premier: L’Ordre du Ieu et des Faicts
 * ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-resolution-actions.md)
 * ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-sante-guerison.md)
-* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-voyage.md)
 * ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-experience.md)
+* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-voyage.md)
 
 ## Livre deuxième : De la Naissance des Braves & Hardis
 * ### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
@@ -28,7 +28,7 @@
 
 ## Livre quatrième : L'Escrit des Diverses Créatures
 * ### [Des Ennemys du Commun & Malandrins](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-profane.md)  
-* ### [Des Bestes Sauuages & Monstres de Légende](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-mystique.md)
+* ### [Des Bestes Sauuages](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire.md)
 * ### [Des Grands Fléaux & Puissants Tyrans](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-unique.md) 
 * ### De l'Art de Façonner ses Propres Aduersaires
 
