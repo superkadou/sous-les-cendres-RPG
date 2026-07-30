@@ -8,18 +8,18 @@
 * ### [Du Harnois pour bien ouyr de ces contes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/prologue.md)
 
 ## Livre premier: L’Ordre du Ieu et des Faicts
-* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-resolution-actions.md)
-* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-sante-guerison.md)
-* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-experience.md)
-* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-voyage.md)
+* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/resolution-actes-entreprises.md)
+* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/sante-guerison.md)
+* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/lecons.md)
+* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/voyage.md)
 
 ## Livre deuxième : De la Naissance des Braves & Hardis
 * ### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
-* ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-organes-humeurs.md)
-* ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-opulence-equipement.md)
+* ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/organes-humeurs.md)
+* ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/opulence-fourbi.md)
 * ### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-details-narratifs.md)
 * ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage.md)
-* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-exemple.md)
+* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/exemple-aldebert.md)
 
 ## Livre troisième : Les Secrets du Maistre Conteur
 * ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-MJ-guide.md)
