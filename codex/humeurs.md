@@ -1,12 +1,30 @@
-Humeurs
+## Humeurs 
+
+Le corps humain est gouverné par quatre Humeurs (liquides vitaux), chacune associée à un élément, une saison, un tempérament, et un organe principal. L’équilibre (eucrasie) de ces humeurs garantit la santé, tandis que leur déséquilibre (dyscrasie) provoque maladies, troubles mentaux et même des comportements pécheurs.
 
 ### **X. Sang**
 
+| **Humeur** | **Saison**  | **Moment du jour** | **Tempérament** | **Organe** |  
+|---|---|---|---|---| 
+| **Sang** | Printemps | Aurore | Sanguin | Cœur |   
+
 ### **X. Bile jaune**
+
+| **Humeur** | **Saison**  | **Moment du jour** | **Tempérament** | **Organe** | 
+|---|---|---|---|---| 
+| **Bile jaune** | Été | Matin | Colérique | Foie |
 
 ### **X. Bile noire**
 
+| **Humeur** | **Saison**  | **Moment du jour** | **Tempérament** | **Organe** |
+|---|---|---|---|---| 
+| **Bile noire** | Automne | Crépuscule | Mélancolique | Rate |
+
 ### **X. Phlegme**
+
+| **Humeur** | **Saison**  | **Moment du jour** | **Tempérament** | **Organe** |
+|---|---|---|---|---| 
+| **Phlegme** | Hiver | Soir | Flegmatique | Cerveau | 
 
 ### **X. Eucrasie**
 
