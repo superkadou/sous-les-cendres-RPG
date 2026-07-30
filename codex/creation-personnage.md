@@ -12,22 +12,6 @@ Chaque Ordre possède une compétence passive unique qui reflète les capacites 
 | **9–10** | **Oratores** *(Bas Clergé / Prêtres ruraux)* |  ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
 | **11–12** | **Bellatores** *(Petite Noblesse / Miles)* |  ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 
-###  La Vocation  
-Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier. Les vocations se divisent en deux grandes familles :  
-
-| Jet (1d6) | Vocation | Description | Bonus Organes (+3) | 
-| --- | --- | --- | --- | --- | 
-| **Pair** | **Arts** | **métiers manuels ou sociaux, basés sur la pratique** | **Foie**  & **Rate**  | 
-| **Impair** | **Savoirs** | **métiers intellectuels, basés sur la connaissance** | **Cerveau**  & **Coeur**  | 
-
-### La Fratrie & Le Rang
-
-| Jet (1d6) | Fratrie / Rang | Tempérament |
-| --- | --- | --- |
-| **1–2** | **Aîné(e)** *(L'Héritier)* | **Phlegmatiquee**  |
-| **3–5** | **Cadet(te)** *(Le Bachelier)* | **Biliaire** ou **Colérique**  |
-| **6** | **Bâtard(e)** *(L'Illégitime)* | **Sanguin**  |
-
 ### L'humeur dominante
 Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aussi la balance de ses fluides.
 
@@ -40,10 +24,26 @@ La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nu
 | **4** | **Automne** | **Crépuscule** | **Mélancolique** | **Bile Noire** | Rate | 
 | **5 – 6** | **Hiver** | **Soir / Nuit** | **Flegmatique** | **Phlegme** | Cerveau | 
 
+### La Fratrie & Le Rang
+
+| Jet (1d6) | Fratrie / Rang |
+| --- | --- | 
+| **1–2** | **Aîné(e)** *(L'Héritier)* | 
+| **3–5** | **Cadet(te)** *(Le Bachelier)* | 
+| **6** | **Bâtard(e)** *(L'Illégitime)* |
+
+###  La Vocation  
+Chaque personnage a engrangé depuis le début de sa vie un certain nombre de compétences lors de l'apprentissage et la pratique de son métier. Les vocations se divisent en deux grandes familles :  
+
+| Jet (1d6) | Vocation | Description | Bonus Organes (+3) | 
+| --- | --- | --- | --- | 
+| **Pair** | **Arts** | **métiers manuels ou sociaux, basés sur la pratique** | **Foie**  & **Rate**  | 
+| **Impair** | **Savoirs** | **métiers intellectuels, basés sur la connaissance** | **Cerveau**  & **Coeur**  | 
+
 ### L'Éducation de Jeunesse
 
 | Ordre | Jet (1d6) | Éducation de Jeunesse | Gain en Organe |
-| --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- |
 | Bellatores | **1** | **Maniement des Armes lourdes :** Entraînement à la lance, au bouclier et au combat au corps-à-corps. | **+1 Foie** | 
 | | **2** | **Chasse & Vénerie :** Piste en forêt, dressage des chiens, équitation rapide et esquive des obstacles. | **+1 Rate** |
 | | **3** | **Stratégie & Fortifications :** Observation de la garnison, plans de défense du château et étude du terrain. | **+1 Cerveau** | 
@@ -66,7 +66,7 @@ La Saison fixe l'Humeur Dominante (**+2 pts**). Le Moment du jour apporte une nu
 ### Les Métiers de l'An Mil 
 
 | Ordre | Jet (1d6) | Métier | Type | Gains Organes | Équipement de départ |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | 
 | **Bellatores**  | **1–2** | **Miles** *(Chevalier de choc)*  | Art | **[ Option A : Force ]** +1 Foie, +1 Rate **[ Option B : Tactique ]** +1 Foie, +1 Cerveau | Brogne en cuir, lance, épée courte, destrier de combat. |
 | | **3–4** | **Routier / Sergent** |  Art | **[ Option A : Vétéran ]** +2 Foie **[ Option B : Aguerri ]** +1 Foie, +1 Rate | Hache de guerre, bouclier en amande, calotte de fer. |
 | | **5** | **Châtelain / Bailli** |  Savoir | **[ Option A : Meneur ]** +1 Cœur, +1 Cerveau **[ Option B : Administrateur ]** +1 Cerveau, +1 Rate | Sceau du château, cor de guerre, droit de justice. |
@@ -87,8 +87,8 @@ Sa Vocation représente son inclinaison naturelle, son talent brut ou son aspira
 
 2. L'Amertume et la Résignation  
 Pour illustrer cette frustration sociale, le personnage gagne immédiatement un bonus permanent de +2 dans sa réserves d'Humeurs :
-- L'Amertume :  Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde.  
-- La Résignation :  Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  
+- L'Amertume :  Le personnage est hanté par ce qu'il aurait dû être. Il est sombre, attentif, observateur et porte un regard critique sur le monde. Changement humeur dominante autorise pour : Biliaire 
+- La Résignation :  Le personnage a accepté son sort avec stoïcisme. Rien ne le déstabilise, il fait ce qu'il a à faire sans faillir.  Changement humeur dominante autorisé pour : Phlegmatique
 
 ### Le libre arbitre
 Si la naissance et la condition façonnent l'homme, son libre arbitre lui appartient néanmoins.
