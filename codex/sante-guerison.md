@@ -11,20 +11,20 @@ Les touches subies par un personnage entament sa santé dans l'ordre suivant :
 
 #### **Destresse**  
 Le souffle court, la vision brouillée, le protagoniste chancelle.  
-- Effet : Perte de l'Ascendant (s'il était possédé) et malus de -1 à tous les jets.  
+- Effet : l'adversaire prends automatiquemet l'ascendant et malus de -1 à tous les jets.  
 #### **Desconfiture**   
 La douleur devient assourdissante, les forces abandonnent le corps.  
-- Effet : Malus cumulé de -2 à tous les jets (et toujours pas d'Ascendant).  
+- Effet : l'adversaire prends automatiquemet l'ascendant et malus total de -2 à tous les jets.  
 #### **Trépas**    
 Membre brisé, hémorragie grave, choc vagal, le protagoniste s'effondre.  
-- Effet : Incapacité d'agir. La mort est imminente sous quelques rounds, à moins qu'un soigneur n'intervienne en urgence pour le stabiliser.  
+- Effet : Incapacité d'agir. La mort est imminente sous quelques Assauts, à moins qu'un soigneur n'intervienne en urgence pour le stabiliser.  
 
 ### **2. Récupération**
 
 #### **3.1 Combat physique**  
 Les Estours se soignent automatiquement après un repos d'une durée égale au score de Virtus en minutes.
-Les Plies se guérissent à raison de une par vingt-quatre heures de repos sans combat. 
-La guérison naturelle des Grièves blessures avance au rythme d'une blessure par semaine sans effort physique violent et nécessite des soins pour éviter les complications.
+Les Plies se guérissent à raison de score de Rate par vingt-quatre heures de repos sans combat. 
+La guérison naturelle des Grièves blessures avance au rythme d'une blessure par semaine sans effort physique important et nécessite des soins pour éviter les complications.
 
 #### **3.2 Jouste sociale**  
 Un repos d'une durée égale au score de Virtus en heures suffit à récupérer les Estours et Plies infligées par la confrontation.
