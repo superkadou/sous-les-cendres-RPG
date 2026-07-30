@@ -79,8 +79,10 @@ Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dép
 
 ### **V. De l'influence des Humeurs**  
 
-Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
-Cela lui permet de transformer un dé en échec (supérieur au seuil) en dé en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite complète, eviter un échec critique, ou transformer une réussite en réussite critique.
+Le corps humain est gouverné par quatre Humeurs (liquides vitaux), chacune associée à un élément, une saison, un tempérament, et un organe principal. L’équilibre (eucrasie) de ces humeurs garantit la santé, tandis que leur déséquilibre (dyscrasie) provoque maladies, troubles mentaux et même des comportements pécheurs.
+
+Une fois par test de d'organe, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
+Cela lui permet de transformer un échec (supérieur au seuil) en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite partielle, complète, éviter un échec critique, ou transformer une réussite en réussite critique.
 
 * **Table de correspondance Organe - Humeur**
 
