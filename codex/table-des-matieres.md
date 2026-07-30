@@ -8,10 +8,10 @@
 * ### [Du Harnois pour bien ouyr de ces contes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/prologue.md)
 
 ## Livre premier: L’Ordre du Ieu et des Faicts
-* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/resolution-actes-entreprises.md)
+* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/actes-entreprises.md)
+* ### [Des Rixes et Querelles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/combat.md)
 * ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/sante-guerison.md)
 * ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/lecons.md)
-* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/voyage.md)
 
 ## Livre deuxième : De la Naissance des Braves & Hardis
 * ### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
@@ -33,6 +33,7 @@
 * ### De l'Art de Façonner ses Propres Aduersaires
 
 ## Livre cinquième : Gestes, Quêtes et Haulx Faicts
+* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/voyage.md)
 * ### ["La Malédiction du Moulin" (niveau 1)](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/scenario-malediction-moulin.md)
 * ### "Le Serment du Chevalier Noir" (niveau 3)
 * ### "La Couronne des Ombres" (campagne)
