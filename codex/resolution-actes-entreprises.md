@@ -54,26 +54,15 @@ Lorsque l’un des dés est inférieur ou égal au seuil de compétence et l’a
 Lorsque les deux dés sont supérieurs au seuil de compétence, l’action échoue. 
 
 * #### **Les Signes du destin**
-Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6) sur son jet d'organe, l’action déclenche un **signe du destin** (aussi couramment appelé évènement critique), indépendamment de sa réussite ou de son échec. Un signe du destin peux être associé à une reussite ou à un un echec. Dans les deux cas, cette action deviens un moment mémorable qui pourrait bien changer le récit des choses pour des générations. 
+Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6) sur son jet d'organe, l’action déclenche un **signe du destin** (aussi couramment appelé évènement critique), indépendamment de sa réussite ou de son échec. Un signe du destin peux être associé à une reussite ou à un un echec. Dans les deux cas, cette action laisse une marque dans le monde qui pourrait bien changer le récit des choses pour des générations. 
 
-Pour déterminer le signe et son interprétation, on lance 2 d6 différenciables. L'un sera le Signe et l'autre représente le Jugement, la combinsaion des deux interpretation permettant de définir le résultat final.
+Le joueur lance alors 1d6 pour déterminer où le Destin inscrit cette marque :
 
-* **Tables de résolution des Signes du destin**
-  
-|  | De | Figure | Signification |
-| --- | --- |--- |--- |
-| Figure | 1 | Le Commencement | début, initiative, découverte, création   |
-| | 2 | L'Ordre | loi, structure, tradition, autorité |
-| | 3  | Le Choix | alliance, décision, engagement, relation |
-| | 4  | L'Épreuve | sacrifice, contrainte, tentation, difficulté |
-| | 5  | La Mémoire | passé, savoir, traces, héritage  |
-| | 6  | Le Mystère | inconnu, foi, intuition, invisible |
-| Mystère | 1 | La Chute | perte, rupture, échec, bouleversement |
-| | 2 | La Blessure | prix payé, transformation, conséquence |
-| | 3  | Le Voile | secret, incertitude, chose cachée |
-| | 4  | La Révélation | découverte, vérité, illumination |
-| | 5  | La Fortune | hasard, changement, retournement |
-| | 6  | La Grâce | aide, faveur, opportunité |  
+|  **D6**  | **Symbole** | **Domaine** | **Reussite** | **Echec** |
+| --- | --- | --- | --- | --- |
+| 1 - 2  | **La Croix** | **Chair** | **Le Sacrifice glorieux** : le personnage accomplit son dessein et le prix payé devient une force. Une blessure devient une preuve de courage, une dépense devient un investissement, une épreuve surmontée forge sa valeur. | **Le Sacrifice subi** : l'échec laisse une marque physique ou matérielle. Blessure, épuisement, perte d'un outil, destruction d'un bien ou affaiblissement durable.                  |
+|  3 - 4 | **Le Sceau** | **Nom**   | **La Mémoire honorée** : l'acte renforce le nom du personnage. Sa réputation grandit, une alliance se crée, une dette favorable est contractée ou un serment est reconnu.                                                    | **La Marque infamante** : l'échec atteint la réputation ou les relations du personnage. Honte, rumeur, dette, perte de confiance ou inimitié durable peuvent en découler.            |
+| 5 - 6 | **La Roue**  | **Monde** | **La Fortune sourit** : l'action produit un effet qui dépasse l'objectif initial. Une opportunité apparaît, un événement favorable survient, une découverte est faite ou une nouvelle voie s'ouvre.                          | **Le Destin contraire** : l'échec provoque un bouleversement plus large. Un obstacle surgit, une situation change, un ennemi gagne un avantage ou une complication durable apparaît. |
 
 ### **IV. Des actions conflictuelles**
 
@@ -90,7 +79,6 @@ Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dép
 
 ### **V. De l'influence des Humeurs**  
 
-* #### **Améliorer son jet**
 Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
 Cela lui permet de transformer un dé en échec (supérieur au seuil) en dé en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite complète, eviter un échec critique, ou transformer une réussite en réussite critique.
 
