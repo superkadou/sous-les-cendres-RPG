@@ -16,26 +16,26 @@ Cas particulier des combats physiques ou sociaux
 
 Un protagoniste non entrainé (ie sans Vocation expliquant un entrainement au maniement des armes ou aux arts oratoires) utilisera son Foie et sa Rate pour les actions physiques et son Cerveau et son Coeur pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
 
-### **II. Des actions on confluctuelles**
+### **II. Des actions non conflictuelles**
+
+Une action non conflictuelle n'implique aucune opposition active d'une personne ou une creature
 Le seuil de difficulté pour une action non conflictuelle est calculée comme suit :
 **Seuil de difficulté = Valeur de l’Organe pertinent + modificateur de difficulté**
 
 * #### **Table des modificateur de difficulté**
 
-| **Niveau de Difficulté** | **Modificateur** | **Equivalence Organe** | **Dyscrasie** |
-| --- | --- | --- | --- |
-| **Automatique** | +5 | 0 | échec automatique |
-| **Trivial** | +3 | 1 | -5 |
-| **Simple** | +2 | 2 | -3 |
-| **Modéré** | +0 | 3 | -2 |
-| **Difficile** | -2 | 4 | +0 |
-| **Très Difficile** | -3 | 5 | +2 |
-| **Héroïque** | -5 | 6 | +3 |
-| **Légendaire** | -7 | 7 | +5 |
+| **Niveau de Difficulté** | **Modificateur au seuil de difficulté** |  
+| --- | --- | 
+| **Trivial** | +3 |  
+| **Simple** | +2 | 
+| **Modéré** | +0 |  
+| **Difficile** | -2 |  
+| **Très Difficile** | -3 | 
+| **Héroïque** | -5 | 
+| **Légendaire** | -7 |
 
-### **III. Des actions conflictuelles**
 
-### **4. De la Réussite et des échecs**
+### **III. De la Réussite et des échecs**
 Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de difficulté :
 - Si **les deux dés sont inférieurs ou égaux** au seuil de difficulté, c’est une **réussite complète**.
 - Si **un dé est inférieur ou égal et l’autre supérieur** au seuil de difficulté, c’est une **réussite partielle**.
@@ -53,14 +53,56 @@ Lorsque l’un des dés est inférieur ou égal au seuil de compétence et l’a
 * #### **Échec**
 Lorsque les deux dés sont supérieurs au seuil de compétence, l’action échoue. 
 
-* ### **Critique**
-Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un évènement critique associé à une reussite est une réussite critique tandis qu'un évènement critique associé à un un echec est un échec critique. 
+* #### **Les Signes du destin**
+Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6) sur son jet d'organe, l’action déclenche un **signe du destin** (aussi couramment appelé évènement critique), indépendamment de sa réussite ou de son échec. Un signe du destin peux être associé à une reussite ou à un un echec. Dans les deux cas, cette action deviens un moment mémorable qui pourrait bien changer le récit des choses pour des générations. 
 
-### **IV. De l'influence des Humeurs**  
+Pour déterminer le signe et son interprétation, on lance 2 d6 différenciables. L'un sera le Signe et l'autre représente le Jugement, la combinsaion des deux interpretation permettant de définir le résultat final.
+
+* **Tables de résolution des Signes du destin**
+  
+|  | De | Figure | Signification |
+| --- | --- |--- |--- |
+| Figure | 1 | Le Commencement | début, initiative, découverte, création   |
+| | 2 | L'Ordre | loi, structure, tradition, autorité |
+| | 3  | Le Choix | alliance, décision, engagement, relation |
+| | 4  | L'Épreuve | sacrifice, contrainte, tentation, difficulté |
+| | 5  | La Mémoire | passé, savoir, traces, héritage  |
+| | 6  | Le Mystère | inconnu, foi, intuition, invisible |
+| Mystère | 1 | La Chute | perte, rupture, échec, bouleversement |
+| | 2 | La Blessure | prix payé, transformation, conséquence |
+| | 3  | Le Voile | secret, incertitude, chose cachée |
+| | 4  | La Révélation | découverte, vérité, illumination |
+| | 5  | La Fortune | hasard, changement, retournement |
+| | 6  | La Grâce | aide, faveur, opportunité |  
+
+### **IV. Des actions conflictuelles**
+
+c'est quand on se fout sur la gueule !!! 
+Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dépendent du score obtenu au jet par rapport au seuil calculé. Les résultats croisés des deux protagnistes déterminent les dommages infligés :
+
+* **Table de résolution des actions conflictuelles**
+  
+| **⇓ Protagoniste 1 \ Protagoniste 2 ⇒** | **Réussite Complète** | **Réussite Partielle** | **Échec** |
+| --- | --- | --- | --- |
+| **Réussite Complète** | Neutralisation | **P1 reussite** | **P1 reussite** |
+| **Réussite Partielle** | **P2 reussite** | Neutralisation | **P1 reussite** |
+| **Échec** | **P2 reussite** | **P2 reussite** | Neutralisation |
+
+### **V. De l'influence des Humeurs**  
 
 * #### **Améliorer son jet**
 Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
 Cela lui permet de transformer un dé en échec (supérieur au seuil) en dé en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite complète, eviter un échec critique, ou transformer une réussite en réussite critique.
+
+* **Table de correspondance Organe - Humeur**
+
+| **Humeur** | **Organe** |
+|---|---|
+| Sang |  Coeur |  
+| Bile jaune | Foie |
+| Bile noire | Rate | 
+| Phlegme | Cerveau | 
+
 
 Exemples :
 
