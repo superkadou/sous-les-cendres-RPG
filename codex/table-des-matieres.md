@@ -1,5 +1,5 @@
 # Sous les cendres : les Runes et la Croix
-### Un Ieu de Paroles
+### Un Ieu de Paroles dans un monde où les cendres du passé nourrissent les récits du présent.
 # Codex des règles
 ## Prologue
 * ### [Saluations & Bienuignance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
