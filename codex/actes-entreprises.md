@@ -84,16 +84,6 @@ Le corps humain est gouverné par quatre Humeurs (liquides vitaux), chacune asso
 Une fois par test de d'organe, un personnage peut dépenser 1, et un seul, point d'humeur pour retrancher 1 à l’un de ses dés (avant ou après le jet).
 Cela lui permet de transformer un échec (supérieur au seuil) en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite partielle, complète, éviter un échec critique, ou transformer une réussite en réussite critique.
 
-* **Table de correspondance Organe - Humeur**
-
-| **Humeur** | **Organe** |
-|---|---|
-| Sang |  Coeur |  
-| Bile jaune | Foie |
-| Bile noire | Rate | 
-| Phlegme | Cerveau | 
-
-
 Exemples :
 
 * Test de Cœur : Jet de 2D6 = 2 et 3 (seuil 3). Le joueur dépense 1 Sang pour transformer le 3 en 2 → Réussite totale => réussite critique.
