@@ -1,6 +1,6 @@
-# III. **De la Résolution des Actes & Entreprises**
+# Chapitre premier : **De la Résolution des Actes & Entreprises**
 
-### **1. Le Principe des Jets d’Organes**
+### **I. Le Principe des Jets d’Organes**
 Dans le Ieu de Paroles, les actions des protagonistes sont résolues à l’aide de leurs **Organes**. Chaque organe est associé symboliquement a un ensemble d'actions et de concepts qui servira à résoudre.
 
 | Organe | Siege | Symbolique | Actions
@@ -16,7 +16,7 @@ Cas particulier des combats physiques ou sociaux
 
 Un protagoniste non entrainé (ie sans Vocation expliquant un entrainement au maniement des armes ou aux arts oratoires) utilisera son Foie et sa Rate pour les actions physiques et son Cerveau et son Coeur pour les actions sociales. Une Vocation adéquate et/ou l'accord du MJ sont necessaires pour utiliser l'autre organe.
 
-### **2. Des actions on confluctuelles**
+### **II. Des actions on confluctuelles**
 Le seuil de difficulté pour une action non conflictuelle est calculée comme suit :
 **Seuil de difficulté = Valeur de l’Organe pertinent + modificateur de difficulté**
 
@@ -33,7 +33,7 @@ Le seuil de difficulté pour une action non conflictuelle est calculée comme su
 | **Héroïque** | -5 | 6 | +3 |
 | **Légendaire** | -7 | 7 | +5 |
 
-### **3. Des actions conflictuelles**
+### **III. Des actions conflictuelles**
 
 ### **4. De la Réussite et des échecs**
 Pour tenter une action, le joueur lance **2D6** et compare chaque dé au seuil de difficulté :
@@ -56,7 +56,7 @@ Lorsque les deux dés sont supérieurs au seuil de compétence, l’action écho
 * ### **Critique**
 Lorsqu’un joueur obtient un **double** (1-1, 2-2, ..., 6-6), l’action déclenche un **événement critique**, indépendamment de sa réussite ou de son échec. Un évènement critique associé à une reussite est une réussite critique tandis qu'un évènement critique associé à un un echec est un échec critique. 
 
-### **5. De l'influence des Humeurs**  
+### **IV. De l'influence des Humeurs**  
 
 * #### **Améliorer son jet**
 Une fois par test de compétence, un personnage peut dépenser 1, et un seul, point de l'humeur associée à l’organe utilisé pour retrancher 1 à l’un de ses dés (avant ou après le jet).
