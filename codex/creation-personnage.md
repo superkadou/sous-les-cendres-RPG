@@ -37,8 +37,8 @@ Chaque personnage a engrangé depuis le début de sa vie un certain nombre de co
 
 | Jet (1d6) | Vocation | Description | Bonus Organes (+3) | 
 | --- | --- | --- | --- | 
-| **Pair** | **Arts** | **métiers manuels ou sociaux, basés sur la pratique** | **Foie**  & **Rate**  | 
-| **Impair** | **Savoirs** | **métiers intellectuels, basés sur la connaissance** | **Cerveau**  & **Coeur**  | 
+| **Pair** | **Arts** | métiers manuels ou sociaux, basés sur la pratique | **Foie** & **Rate**  | 
+| **Impair** | **Savoirs** | métiers intellectuels, basés sur la connaissance | **Cerveau** & **Coeur**  | 
 
 ### L'Éducation de Jeunesse
 
