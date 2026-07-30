@@ -9,10 +9,9 @@ Une aventure médiévale basée sur la théorie des humeurs et l'équilibre des 
 
 ## Installation & Utilisation
 Le projet est conçu pour être "Print & Play" ou utilisé via des outils numériques.
-* Les règles se trouvent dans le dossier `/rules`.
+* Les règles se trouvent dans le dossier `/codex`.
 * Les descriptions du contexte geographique et social se trouvent dans le dossier `/world`.
 * Les fiches de personnage et un scenario d'exemple sont dans le dossier `/assets`.
-* Un bestiaire profane et un bestiaire mystique sont dans le dossier `/assets`.
 
 ## [Licence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/LICENSE.md) 
 
