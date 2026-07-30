@@ -18,7 +18,9 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 
 ## [Crédits](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/CREDITS.md)
 
-## [Table des matières](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/table-des-matieres.md)
+## [Codex](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/table-des-matieres.md)
+
+## [Des paroles et des merveilles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/paroles-merveilles/table-des-matieres.md)
 
 ## Note de l’Auteur : Anachronismes et Licence Artistique
 
