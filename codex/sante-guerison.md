@@ -46,10 +46,33 @@ Un repos d'une durée égale au score de Virtus en heures suffit à récupérer 
 
 | **Méthode**               | **Type de blessure** | **Durée**       | **Coût**               | **Jet (Difficulté)** | **Effet**                          | **Risque**                     |
 |--------------------------|----------------------|-----------------|------------------------|----------------------|------------------------------------|--------------------------------|
-| **Bénédiction mineure**  | Estour / Plie        | Instantané      | 1 pip de sanguin       | Verbe (3)            | -1 Plaie                           | 5% de doute (-1 pip de sanguin) |
-| **Imposition des mains** | Plie / Griève        | 1 heure         | 2 pips de sanguin      | Verbe (5)            | -2 Plaies                          | Fatigue (-1D physique, 1 jour) |
 | **Sangsuage**            | Griève (déséquilibre humoral) | 1 jour | 1 Opulence (ventouses) | Verbe (4) | -1 Plaie + équilibre 1 humeur | 10% d’affaiblissement (-1 pip aléatoire) |
 | **Onguent sacré**        | Plie                 | 1 jour          | 2 Opulences            | Verbe (4)            | -1 Plaie + neutralise infection  | Aucun                          |
 | **Chirurgie monacale**   | Griève               | 3 jours         | 3 Opulences (outils)   | Verbe (6)            | -2 Plaies                          | 20% de fièvre (+1 Plaie)       |
 | **Jeûne et prière**      | Toutes               | 1 semaine       | 1 Virtus (foi)         | Verbe (5)            | -1 Plaie/jour (max 3)              | 5% de vision divine (bonus narratif) |
 
+### **X. Eucrasie et Dyscrasie**
+
+La dyscrasie n'est point une maladie, mais le terreau où les maladies prennent racine. Un corps désaccordé résiste moins aux blessures, aux fièvres, aux poisons et aux rigueurs du monde. Aussi le Maistre des Contes est-il libre d'y voir l'origine de bien des maux, selon les croyances des hommes et le jugement du récit.
+
+À la fin de chaque scène impliquant l'utilisation d'un ou plusieurs points d'humeur, le personnage doit lutter contre les effets de la dyscrasie.
+
+Jet : Lance 2D6 contre son score d'humeur ajuste du modificateur de difficulté correspondant au score actuel de l’humeur (ex : Phlegme 2 → difficulté -3 ).
+
+En cas d'échec : Le personnage subit une dyscrasie (malus narratif et/ou mécanique, ex : -1 aux actions liées à cette humeur jusqu’à récupération).
+
+Si une Humeur tombe à 0, le personnage tombe en Dyscrasie automatiquement.
+Si le score d'une humeur dépasse celui de l'humeur dominante, le personnage tombe en dyscrasie automatiquement.
+
+### **X. Récupération**
+
+La récupération de points d'humeur passe par le repos et la mise en contact avec des éléments associés à l'humeur que l'on souhaite restorer.
+
+| **Humeur** | **Organe** | **Dyscrasie** | **Plantes** | **Materiaux et objets** |
+|---|---|---|---|---|
+| **Sang** |  Cœur |  Fièvre, saignements, excès de joie | Roses, vin rouge, cannelle, grenade, piment, guimauve | Cuivre, rubis, sang de dragon (résine), corail, étoffes rouges, clochettes |
+| **Bile jaune** | Foie | Colère, ulcères, jaunisse | Chardon-Marie, absinthe, romarin, pissenlit, moutarde, achillée millefeuille | Or, topaze, soufre, armes en acier, étoffes jaunes |
+| **Bile noire** | Rate | Dépression, peurs, insomnies | Sauge, lavande, camomille, myrrhe, belladone, jusquiame, armoise | Plomb, onyx, ébène, miroirs noirs, encens noir, parchemins de peau de bouc |
+| **Phlegme** | Cerveau | Léthargie, toux, obésité | Menthe, guimauve, saule, lotier, valériane, mélisse, tilleul | Argent, cristal de roche, étain, soie, perles, coupes en étain, eau de source |
+
+Le seul moyen de soigner une dyscrasie est de rééquilibrer les humeurs en regagnant des point d'humeur comme mentionné ci-dessus.
