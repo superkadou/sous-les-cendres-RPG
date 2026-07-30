@@ -2,29 +2,29 @@
 ### Un Ieu de Paroles dans un monde où les cendres du passé nourrissent les récits du présent.
 # Codex des règles
 ## Prologue
-* ### [Saluations & Bienuignance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
-* ### [De ce qu’est le Ieu de Parole](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
-* ### [Mon Intention & Devisement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
-* ### [Du Harnois pour bien ouyr de ces contes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/prologue.md)
+* ### [Saluations & Bienuignance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/prologue.md)
+* ### [De ce qu’est le Ieu de Parole](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/prologue.md)
+* ### [Mon Intention & Devisement](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/prologue.md)
+* ### [Du Harnois pour bien ouyr de ces contes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/prologue.md)
 
 ## Livre premier: L’Ordre du Ieu et des Faicts
-* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-resolution-actions.md)
-* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-sante-guerison.md)
-* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-voyage.md)
-* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-base-experience.md)
+* ### [De la Résolution des Actes & Entreprises](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-resolution-actions.md)
+* ### [Des Estours, Coups & Grièves Blessures](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-sante-guerison.md)
+* ### [De l'Errance, Voyages & Descouuertes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-voyage.md)
+* ### [De l'Acquest d'Honneur & de Leçons](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-base-experience.md)
 
 ## Livre deuxième : De la Naissance des Braves & Hardis
 * ### [Du Nom, de la Lignée & de la Vacation](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
-* ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-organes-humeurs.md)
-* ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-opulence-equipement.md)
-* ### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-details-narratifs.md)
-* ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage.md)
-* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/creation-personnage-exemple.md)
+* ### [Des Organes & des Quatre Humeurs](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-organes-humeurs.md)
+* ### [De l'Opulence & du Fourbi des Braves](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-opulence-equipement.md)
+* ### [Des Traits, Façons & Singularités](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-details-narratifs.md)
+* ### [L'Ordre des Faits pour Créer un Brave](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage.md)
+* ### [Chronique d'un Hardi : "Aldebert le simplet"](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/creation-personnage-exemple.md)
 
 ## Livre troisième : Les Secrets du Maistre Conteur
-* ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
-* ### [De la Conduite des Compagnons & de l'Entente à Table](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md)
-* ### [De l'Ajustement des Loys & de l'Arbitrage](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/rules/regles-MJ-guide.md#iii-de-lajustement-des-loys--de-larbitrage)
+* ### [De l'Art d'Inuenter & de Tisser les Intrigues](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-MJ-guide.md)
+* ### [De la Conduite des Compagnons & de l'Entente à Table](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-MJ-guide.md)
+* ### [De l'Ajustement des Loys & de l'Arbitrage](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/codex/regles-MJ-guide.md#iii-de-lajustement-des-loys--de-larbitrage)
 
 ## Livre quatrième : L'Escrit des Diverses Créatures
 * ### [Des Ennemys du Commun & Malandrins](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-profane.md)  
@@ -32,22 +32,15 @@
 * ### [Des Grands Fléaux & Puissants Tyrans](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/bestiaire-unique.md) 
 * ### De l'Art de Façonner ses Propres Aduersaires
 
-## Livre cinquième : Chroniques du monde 
-* ### [Des Gestes du Passé & de l’Assise des Terres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-historique.md)
-* ### [Des Usages, Mœurs & Communs Estres](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-social.md)
-* ### [De l’Art de Guérir & de la Foy des Âmes](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-contexte-medecine.md)
-* ### [Du Nom Vnique : Tesmoin de l’Existance](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-noms.md)
-* ### [Des Lieux de Légende & Hautes Merveilles](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/monde-lieux.md)
-
-## Livre sixième : Gestes, Quêtes et Haulx Faicts
+## Livre cinquième : Gestes, Quêtes et Haulx Faicts
 * ### ["La Malédiction du Moulin" (niveau 1)](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/scenario-malediction-moulin.md)
 * ### "Le Serment du Chevalier Noir" (niveau 3)
 * ### "La Couronne des Ombres" (campagne)
 
-## Livre septième : L’Escrit des Additions
+## Livre sixième : L’Escrit des Additions
 * ### "Le pense bête du Maistre Conteur"
   
-## Livre huitième : Des Parchemins Vierges pour la Mémoire des Faicts
+## Livre septième : Des Parchemins Vierges pour la Mémoire des Faicts
 * ### [Bellatores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_bellatores-v0.10.png)
 * ### [Oratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_oratores-v0.10.png)
 * ### [Laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_laboratores-v0.10.png)
