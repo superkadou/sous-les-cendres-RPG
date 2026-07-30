@@ -12,6 +12,7 @@ Le projet est conçu pour être "Print & Play" ou utilisé via des outils numér
 * Les règles se trouvent dans le dossier `/codex`.
 * Les descriptions du contexte geographique et social se trouvent dans le dossier `/world`.
 * Les fiches de personnage et un scenario d'exemple sont dans le dossier `/assets`.
+* Le supplément consacré au merveilleux se trouve dans `/paroles-merveilles`.
 
 ## [Licence](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/LICENSE.md) 
 
