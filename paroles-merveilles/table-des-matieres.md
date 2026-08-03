@@ -1,4 +1,4 @@
-# Des Paroles et des Merveilles  
+# Supplément : Des Paroles et des Merveilles  
 ### Où sont consignées les choses dites par les hommes et celles que le monde leur répond.  
 
 ## Prologue  
