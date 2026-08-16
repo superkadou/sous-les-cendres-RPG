@@ -33,17 +33,17 @@ Le niveau d'Opulence nécessaire pour pouvoir acheter un objet sans perdre de ni
 
 ### Quelques exemples d'attributs 
 
-| Qualité | Effet |
-| --- | --- |
-| Affutée | N'occasionne jamais d'Estours |
-| Lourde(n) | Ignore n niveau de Resistant |
-| Attrition(n) | La cible doit dépenser n points d'Humeurs ou subir -1 à l'assaut suivant | 
-| Résistante(n) | Absorbe n Touches/Assaut par touche absorbée |
-| Brutale | Inflige +1 Touche sur une réussite complète |
-| Équilibrée | Ignore les malus de Virtus |
-| Emoussée | Ne peux occasionner que des plaies légères | 
-| Mastercraft(n) | +n au seuil de compétence |
-| Béni | permet de relancer un D par scene au prix de 1 point d'Humeur |
-| Maudit | Doit dépenser 1 point d'Humeur ou subir -1 au seuil de combat pour le combat |
+| Attribut | Coût | Effet |
+| --- | --- | --- |
+| Affutée | 2 | N'occasionne jamais d'Estours |
+| Lourde(n) | n | Ignore n niveau de Resistant |
+| Attrition(n) | n | ???? | 
+| Résistante(n) | n | Absorbe n Touches/Assaut |
+| Brutale | 2 | Inflige +1 Touche |
+| Équilibrée | 1 | Ignore les malus de Virtus |
+| Emoussée | 0 | Ne peux occasionner que des plaies légères | 
+| Mastercraft(n) | n+1 | +n au seuil de compétence |
+| Béni | 2 | permet de relancer un D par scene au prix de 1 point d'Humeur |
+| Maudit | 2 | Doit dépenser 1 point d'Humeur ou subir -1 au seuil de combat pour le combat |
 
 Un attribut à facteur multiple compte comme autant d'attributs que son facteur. par exemple Résistante(2) compte comme 2 attributs et ne peux donc se trouver que sur des armures ayant la qualité nécessaire.
