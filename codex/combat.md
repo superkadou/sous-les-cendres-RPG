@@ -5,7 +5,6 @@ Les confrontations se déroulent en une succession d'Assauts, des séquences act
 ---
 ### 1. **Détermination de l'ascendant**
 L'Ascendant permet au protagoniste qui en dispose de tenter de faire pencher la balance en sa faveur en cas d'égalité lors d'un assaut.
-Au tout début du combat chaque protagoniste compare son **organe défensif** (Rate pour le copmbat physique et Coeur pour les joustes sociales) a l’**organe offensif** (Foie pour le combat physique ou Cerveau pour les joustes sociales) de son adversaire pour déterminer qui aura l'ascendant pour toute la durée de l’affrontement. 
 
 #### **1.1 Combat physique**   
 Le Bellatores ayant la plus forte Vocation prends l'ascendant.
@@ -23,20 +22,24 @@ Une confrontation se déroule en assauts successifs durant lesquels les deux pro
 
 #### 2.1 **Combat physique**  
 Lors de chaque assaut, chaque protagoniste effectue **un jet unique** :
-- 2D6 contre **Foie - Rate adversaire + Bonus (si applicable) + Vocation (Bellatores)**.
+- 2D6 contre **Foie + Bonus (si applicable)**.
 
 #### 2.2 **Jouste sociale**  
 Lors de chaque assaut, chaque protagoniste effectue **un jet unique** :
-- 2D6 contre **Cerveau - Coeur adversaire + Bonus (si applicable) + Vocation (Oratores)**.
+- 2D6 contre **Cerveau + Bonus (si applicable)**.
 
 #### 2.3 **Table de résolution**  
 Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dépendent du score obtenu au jet par rapport au seuil calculé. Les résultats croisés des deux protagnistes déterminent les dommages infligés :
 
-| **Protagoniste 1 \ Protagoniste 2** | **Réussite Complète** | **Réussite Partielle** | **Échec**          |
-|--------------------------------------|-----------------------|-------------------------|---------------------|
-| **Réussite Complète**               | Rien                  | **1 Touche**            | **2 Touches**        |
-| **Réussite Partielle**              | **1 Touche**           | Rien                   | **1 Touche**         |
-| **Échec**                           | **2 Touches**         | **1 Touche**            | Rien                |
+* **Table de résolution des actions conflictuelles**
+  
+| **⇓ Protagoniste 1 \ Protagoniste 2 ⇒** | **Touches** |
+| --- | --- | 
+| **Réussite critique** | 3 Touches | 
+| **Réussite Complète** | 2 Touches | 
+| **Réussite Partielle** | 1 Touche | 
+| **Échec** | 0 Touche | 
+| **Échec critique** | -1 Touche | 
 
 ---
 ### **Exemple de Combat**
@@ -48,22 +51,22 @@ Détermination de l'Ascendant
 Gaucher est un Bellatores qui affronte un non-pair (Laboratores). Gaucher obtient automatiquement l'Ascendant pour toute la durée du combat.  
 
 Calcul des Seuils de Jet :  
-- Seuil de Gaucher : Foie (5) - Rate de Giles (4) + Vocation (2) = 3 (Il doit faire 3 ou moins pour réussir).  
-- Seuil de Giles : Foie (2) - Rate de Gaucher (3) = 1 (Seuil très difficile).  
+- Seuil de Gaucher : Foie (5) = 5 (Il doit faire 5 ou moins pour réussir).  
+- Seuil de Giles : Foie (2) = 2 (Seuil très difficile).  
   
 Assaut 1 :
-- Gaucher lance 2D6 et obtient 3. Son score est inférieur ou égal à son seuil (3) => Réussite Complète.  
-- Giles lance 2D6 et obtient 7. Il dépasse largement son seuil (1) => Échec.
+- Gaucher lance 2D6 et obtient 1 et 3. Ses deux dés sont inférieurs ou égaux à son seuil (5) => Réussite Complète.  
+- Giles lance 2D6 et obtient 4 et 5. Il dépasse largement son seuil (2) => Échec.
   
-Résultat : Réussite Complète vs Échec. Giles subit 2 Touches.  
+Résultat : Réussite Complète (2 Touches) vs Échec (0 Touches). Giles subit 2 Touches.  
 
 Assaut 2 :
-- Gaucher lance 2D6 et obtient 2 => Réussite Complète.
-- Giles fait un coup d'éclat improbable : il fait 1 aux dés ! => Réussite Complète.
+- Gaucher lance 2D6 et obtient 2 + 4. Ses deux dés sont inférieurs ou égaux à son seuil (5) => Réussite Complète.
+- Giles fait un coup d'éclat improbable et obtient 1 + 2 ! Ses deux dés sont inférieurs ou égaux à son seuil (2) => Réussite Complète.
   
-Résultat initial : Égalité (Réussite Complète vs Réussite Complète => Rien).  
+Résultat initial : Neutralisation (Réussite Complète vs Réussite Complète => 0 Touches).  
 Utilisation de l'Ascendant : Gaucher refuse ce statu quo. Il décide de faire jouer son Ascendant et relance l'un de ses dés.  
-Nouvelle relance : Son dé passe de 1 à 5, ce qui monte son total à 6. Il tombe en Échec. Devant accepter ce résultat, la table devient Échec vs Réussite Complète : Gaucher subit 2 Touches ! (Son excès de confiance s'est retourné contre lui).
+Nouvelle relance : Son dé passe de 2 à 6. Il tombe alors en Réussite partielle. Devant accepter ce résultat, la confrontation deviens Réussite Partielle vs Réussite Complète : Gaucher subit 1 Touche ! (Son excès de confiance s'est retourné contre lui).
 
 ---
 ### 3. **Combat contre des adversaires multiples**
@@ -81,7 +84,7 @@ Un seul jet croisé est effectué entre le protagoniste esseulé et le Champion 
 
 Cas particulier : Un Spécialiste dans le groupe  
 Si un spécialiste (Bellatores ou Oratores) fait partie du groupe d'agresseurs, il devient automatiquement le Champion.
-Sa présence neutralise totalement l'avantage de Vocation du protagoniste esseulé : chaque compagnon du Champion occasionne alors un malus de -1 au Seuil du protagoniste esseulé, sans exception.
+Sa présence neutralise totalement l'avantage de Vocation du protagoniste esseulé : chaque compagnon du Champion occasionne alors un malus de 1 au Seuil du protagoniste esseulé, sans exception.
 
 Exemple rapide :
 Frère Bernard (Oratores, Vocation 2) fait face à 2 paysans en colère lors d'un débat. Grâce à sa Vocation de 2, Frère Bernard neutralise entièrement ces 2 opposants. Il ne subit donc aucun malus à son Seuil.  
