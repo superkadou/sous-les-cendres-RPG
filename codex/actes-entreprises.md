@@ -5,10 +5,10 @@ Dans le Ieu de Paroles, les actions des protagonistes sont résolues à l’aide
 
 | Organe | Siege | Symbolique | Actions
 | --- | --- | --- | --- |
-| Coeur |  emotions | Volonté, émotion, endurance spirituelle | Courage, charisme, résistance morale, persuasion, leadership, amour |   
-| Foie | force vitale | Puissance brute, endurance, fougue | Force physique, artisanat, combat, travail manuel, colère | 
-| Cerveau | raison | Raison, calcul, savoir occulte |  Réflexion, stratégie, magie, connaissance, tromperie, mémoire |
-| Rate | fortitude | Persévérance, adaptabilité, résistance passive | Résilience, patience, survie, discrétion, intuition |  
+| Coeur |  Emotions | Volonté, émotion, endurance spirituelle | Courage, charisme, résistance morale, persuasion, leadership, amour |   
+| Foie | Force vitale | Puissance brute, endurance, fougue | Force physique, artisanat, combat, travail manuel, colère | 
+| Cerveau | Raison | Raison, calcul, savoir occulte |  Réflexion, stratégie, magie, connaissance, tromperie, mémoire |
+| Rate | Fortitude | Persévérance, adaptabilité, résistance passive | Résilience, patience, survie, discrétion, intuition |  
 
 Cas particulier des combats physiques ou sociaux
 - Attaque : Foie (force/loghorée) ou Cerveau (précision/réthorique).
