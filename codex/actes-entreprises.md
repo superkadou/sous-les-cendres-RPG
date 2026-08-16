@@ -71,11 +71,13 @@ Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dép
 
 * **Table de résolution des actions conflictuelles**
   
-| **⇓ Protagoniste 1 \ Protagoniste 2 ⇒** | **Réussite Complète** | **Réussite Partielle** | **Échec** |
-| --- | --- | --- | --- |
-| **Réussite Complète** | Neutralisation | **P1 reussite** | **P1 reussite** |
-| **Réussite Partielle** | **P2 reussite** | Neutralisation | **P1 reussite** |
-| **Échec** | **P2 reussite** | **P2 reussite** | Neutralisation |
+| **⇓ Protagoniste 1 \ Protagoniste 2 ⇒** | **Réussite critique** | **Réussite Complète** | **Réussite Partielle** | **Échec** | **Échec critique** |
+| --- | --- | --- | --- | --- | --- |
+| **Réussite critique** | Neutralisation | **P1 reussite** | **P1 reussite** | **P1 reussite** |**P1 reussite** |
+| **Réussite Complète** | **P2 reussite** | Neutralisation | **P1 reussite** | **P1 reussite** |**P1 reussite** |
+| **Réussite Partielle** | **P2 reussite** | **P2 reussite** | Neutralisation | **P1 reussite** |**P1 reussite** |
+| **Échec** | **P2 reussite** | **P2 reussite** | **P2 reussite** | Neutralisation | Neutralisation |
+| **Échec critique** | **P2 reussite** | **P2 reussite** | **P2 reussite** | Neutralisation | Neutralisation |
 
 ### **V. De l'influence des Humeurs**  
 
