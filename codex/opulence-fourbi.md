@@ -36,9 +36,9 @@ Le niveau d'Opulence nécessaire pour pouvoir acheter un objet sans perdre de ni
 | Attribut | Coût | Effet |
 | --- | --- | --- |
 | Affutée | 2 | N'occasionne jamais d'Estours |
-| Lourde(n) | n | Ignore n niveau de Resistant |
-| Attrition(n) | n | ???? | 
-| Résistante(n) | n | Absorbe n Touches/Assaut |
+| Lourde(n) | n+1 | Ignore n niveau de Resistant |
+| Attrition(n) | n+1 | ???? | 
+| Résistante(n) | n+1 | Absorbe n Touches/Assaut |
 | Brutale | 2 | Inflige +1 Touche |
 | Équilibrée | 1 | Ignore les malus de Virtus |
 | Emoussée | 0 | Ne peux occasionner que des plaies légères | 
